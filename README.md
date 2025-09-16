@@ -21,7 +21,8 @@ FLASK_SECRET_KEY=any_strig_here_will_also_do
 # If you’re running in Codespaces without a real Redis service,
 # you can leave this dummy value. Replace with a real Redis URL
 # when deploying to production.
-REDIS_URL=redis://localhost:6379/0```
+REDIS_URL=redis://localhost:6379/0
+```
 
 ## What Can You Do With This Tool?
 
