@@ -11,10 +11,17 @@ Alternative approaches include moving the repo files to the amazon repo (though 
 
 ### Extra Note
 
-While the app does not need an OpenAI key, it will only run if it has one available as an environment variable. Then, please create a file named `.env` in the same folder the `app.py` file is located. You can put the following content in the file:
+This app requires some enviromnent variables to run, such as an OpenAI key. It will only run if it has them defined, although it does not use them. Then, please create a file named `.env` in the same folder the `app.py` file is located. You can put the following content in the file:
 ```ini
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
-```
+# API keys
+OPENAI_API_KEY=sk-xx_any_string_here_will_do
+FLASK_SECRET_KEY=any_strig_here_will_also_do
+
+# Redis configuration
+# If you’re running in Codespaces without a real Redis service,
+# you can leave this dummy value. Replace with a real Redis URL
+# when deploying to production.
+REDIS_URL=redis://localhost:6379/0```
 
 ## What Can You Do With This Tool?
 
