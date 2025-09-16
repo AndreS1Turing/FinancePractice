@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instruction Analysis Utilities - Turing Tooling</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/instruction_relevant_actions_or_policies.css') }}">
+</head>
+<body>
+    <header class="dashboard-header">
+        <div class="logo">
+            <svg width="100" height="40" viewBox="0 0 100 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <text x="50" y="25" text-anchor="middle" fill="#667eea" font-size="24" font-weight="bold">TURING</text>
+            </svg>
+        </div>
+    </header>
+
+    <section class="task-tracker-section">
+        <div class="tracker-header">
+            <div class="header-visual">
+                <div class="instruction-icon">
+                    <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="instructionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                            </linearGradient>
+                            <filter id="glow">
+                                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+                                <feMerge> 
+                                    <feMergeNode in="coloredBlur"/>
+                                    <feMergeNode in="SourceGraphic"/>
+                                </feMerge>
+                            </filter>
+                        </defs>
+                        <!-- Instruction document -->
+                        <rect x="25" y="20" width="70" height="80" rx="8" fill="url(#instructionGradient)" opacity="0.8" filter="url(#glow)"/>
+                        <rect x="30" y="30" width="60" height="3" rx="1.5" fill="white" opacity="0.7"/>
+                        <rect x="30" y="38" width="45" height="3" rx="1.5" fill="white" opacity="0.5"/>
+                        <rect x="30" y="46" width="55" height="3" rx="1.5" fill="white" opacity="0.6"/>
+                        <rect x="30" y="54" width="40" height="3" rx="1.5" fill="white" opacity="0.4"/>
+                        
+                        <!-- Analysis arrows -->
+                        <path d="M100 35 L110 40 L100 45 Z" fill="url(#instructionGradient)" opacity="0.9"/>
+                        <line x1="95" y1="40" x2="100" y2="40" stroke="url(#instructionGradient)" stroke-width="2"/>
+                        
+                        <path d="M100 75 L110 80 L100 85 Z" fill="url(#instructionGradient)" opacity="0.9"/>
+                        <line x1="95" y1="80" x2="100" y2="80" stroke="url(#instructionGradient)" stroke-width="2"/>
+                    </svg>
+                </div>
+            </div>
+            <h1>Instruction Analysis Hub</h1>
+            <div class="subtitle-container">
+                <div class="subtitle-line"></div>
+                <span class="subtitle">Smart Analysis Tools</span>
+                <div class="subtitle-line"></div>
+            </div>
+            <p class="tracker-description">
+                Extract and analyze relevant APIs and policy components based on specific instructions. 
+                Streamline your workflow by identifying exactly what you need from your existing resources.
+            </p>
+        </div>
+
+        <div class="analytics-container">
+            <div class="analytics-card" data-utility="extract-apis">
+                <div class="utility-icon">🔍</div>
+                <div class="utility-title">Extract Relevant APIs</div>
+                <div class="utility-description">Analyze your instruction and automatically identify which APIs from your collection are relevant and necessary for implementation</div>
+            </div>
+            <div class="analytics-card" data-utility="extract-policy">
+                <div class="utility-icon">📋</div>
+                <div class="utility-title">Extract Policy Components</div>
+                <div class="utility-description">Identify and extract the specific parts of your policy that will be triggered or affected by the given instruction</div>
+            </div>
+        </div>
+
+        <div id="content"></div>
+    </section>
+
+    <script>
+        // Mock API data - replace with actual backend calls
+        const mockData = {
+            extract_apis: {
+                instruction_prompt: "Please provide the instruction you want to analyze for API extraction...",
+                available_apis: `// Example APIs
+GET /api/users - Retrieve user list
+POST /api/users - Create new user
+PUT /api/users/{id} - Update user
+DELETE /api/users/{id} - Delete user
+GET /api/products - Get product catalog
+POST /api/orders - Create order
+GET /api/analytics - Get analytics data`,
+                analysis_context: "Provide any additional context about your system or specific requirements..."
+            },
+            extract_policy: {
+                instruction_prompt: "Please provide the instruction you want to analyze for policy extraction...",
+                policy_document: `// `,
+                analysis_context: "Provide any additional context about your policy structure or specific concerns..."
+            }
+        };
+
+        async function extractApisHandling() {
+            const data = mockData.extract_apis;
+            
+            document.getElementById('content').style.display = 'block';
+            document.getElementById('content').innerHTML = `
+                <h2 id="content-header">Extract Relevant APIs</h2>
+                
+                <h3 class="content-subheader">Instruction to Analyze</h3>
+                <textarea id="instruction-input" placeholder="${data.instruction_prompt}"></textarea>
+
+                <h3 class="content-subheader">Available APIs</h3>
+                <textarea id="available-apis" placeholder="${data.available_apis}"></textarea>
+
+                <h3 class="content-subheader">Analysis Context (Optional)</h3>
+                <textarea id="analysis-context" placeholder="${data.analysis_context}" style="height: 100px;"></textarea>
+
+                <div class="button-container">
+                    <button class="action-button" onclick="analyzeApis()">Analyze & Extract APIs</button>
+                    <button class="action-button" onclick="clearForm()">Clear Form</button>
+                </div>
+            `;
+        }
+
+        async function extractPolicyHandling() {
+            const data = mockData.extract_policy;
+            
+            document.getElementById('content').style.display = 'block';
+            document.getElementById('content').innerHTML = `
+                <h2 id="content-header">Extract Policy Components</h2>
+                
+                <h3 class="content-subheader">Instruction to Analyze</h3>
+                <textarea id="instruction-input" placeholder="${data.instruction_prompt}"></textarea>
+
+                <h3 class="content-subheader">Policy Document</h3>
+                <textarea id="policy-document" placeholder="${data.policy_document}"></textarea>
+
+                <h3 class="content-subheader">Analysis Context (Optional)</h3>
+                <textarea id="analysis-context" placeholder="${data.analysis_context}" style="height: 100px;"></textarea>
+
+                <div class="button-container">
+                    <button class="action-button" onclick="analyzePolicyComponents()">Analyze & Extract Policy</button>
+                    <button class="action-button" onclick="clearForm()">Clear Form</button>
+                </div>
+            `;
+        }
+
+        function analyzeApis() {
+            const instruction = document.getElementById('instruction-input').value;
+            const apis = document.getElementById('available-apis').value;
+            const context = document.getElementById('analysis-context').value;
+
+            if (!instruction.trim() || !apis.trim()) {
+                alert('Please provide both an instruction and available APIs to analyze.');
+                return;
+            }
+
+            // Mock analysis result
+            const analysisResult = `Ba`;
+
+            displayResults('API Analysis Results', analysisResult);
+        }
+
+        function analyzePolicyComponents() {
+            const instruction = document.getElementById('instruction-input').value;
+            const policy = document.getElementById('policy-document').value;
+            const context = document.getElementById('analysis-context').value;
+            
+            if (!instruction.trim() || !policy.trim()) {
+                alert('Please provide both an instruction and policy document to analyze.');
+                return;
+            }
+
+            // Mock analysis result
+            const analysisResult = `Based on your instruction:`
+
+            displayResults('Policy Analysis Results', analysisResult);
+        }
+
+        function displayResults(title, content) {
+            // Remove existing output if present
+            const existingOutput = document.querySelector('.output-section');
+            if (existingOutput) {
+                existingOutput.remove();
+            }
+
+            const outputSection = document.createElement('div');
+            outputSection.className = 'output-section';
+            outputSection.innerHTML = `
+                <h3 class="output-header">${title}</h3>
+                <textarea style="height: 300px; font-family: 'Courier New', monospace;" readonly>${content}</textarea>
+                <div class="button-container">
+                    <button class="action-button" onclick="copyResults()">Copy Results</button>
+                    <button class="action-button" onclick="exportResults()">Export Results</button>
+                </div>
+            `;
+
+            document.getElementById('content').appendChild(outputSection);
+            outputSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function clearForm() {
+            const textareas = document.querySelectorAll('#content textarea');
+            textareas.forEach(textarea => {
+                if (!textarea.readOnly) {
+                    textarea.value = '';
+                }
+            });
+
+            // Remove results section
+            const existingOutput = document.querySelector('.output-section');
+            if (existingOutput) {
+                existingOutput.remove();
+            }
+        }
+
+        function copyResults() {
+            const resultTextarea = document.querySelector('.output-section textarea');
+            if (resultTextarea) {
+                resultTextarea.select();
+                document.execCommand('copy');
+                
+                // Visual feedback
+                const button = event.target;
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 2000);
+            }
+        }
+
+        function exportResults() {
+            const resultTextarea = document.querySelector('.output-section textarea');
+            if (resultTextarea) {
+                const content = resultTextarea.value;
+                const blob = new Blob([content], { type: 'text/plain' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'analysis-results.txt';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            }
+        }
+
+        // Event listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            const cards = document.querySelectorAll('.analytics-card');
+            cards.forEach(card => {
+                card.addEventListener('click', function() {
+                    const utility = this.dataset.utility;
+                    if (utility === 'extract-apis') {
+                        extractApisHandling();
+                    } else if (utility === 'extract-policy') {
+                        extractPolicyHandling();
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

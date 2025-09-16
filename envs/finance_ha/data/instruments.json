@@ -1,0 +1,1802 @@
+{
+  "1": {
+    "instrument_id": "1",
+    "name": "Booth LLC",
+    "ticker": "GGKL",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-12-15T08:44:31.532156",
+    "updated_at": "2025-08-26T03:05:38.473359"
+  },
+  "2": {
+    "instrument_id": "2",
+    "name": "Olson and Sons",
+    "ticker": "BLHD",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-06-01T12:56:08.185318",
+    "updated_at": "2025-08-10T16:58:35.446628"
+  },
+  "3": {
+    "instrument_id": "3",
+    "name": "Clarke Ltd",
+    "ticker": "GLIJ",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-09-26T23:56:40.438049",
+    "updated_at": "2025-06-02T14:35:13.827356"
+  },
+  "4": {
+    "instrument_id": "4",
+    "name": "Garcia-Bennett",
+    "ticker": "IVKH",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-10-31T08:59:21.759977",
+    "updated_at": "2025-05-25T15:29:14.098757"
+  },
+  "5": {
+    "instrument_id": "5",
+    "name": "Hudson, Morrison and Davis",
+    "ticker": "AGVM",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-02-11T13:31:29.710946",
+    "updated_at": "2024-06-20T19:39:16.140416"
+  },
+  "6": {
+    "instrument_id": "6",
+    "name": "Baker, Sparks and Nguyen",
+    "ticker": "CTVI",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-08-03T03:07:12.165854",
+    "updated_at": "2025-08-08T19:07:12.105937"
+  },
+  "7": {
+    "instrument_id": "7",
+    "name": "Brown LLC",
+    "ticker": "BPZV",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2023-11-28T05:35:47.871452",
+    "updated_at": "2024-01-26T14:59:50.583004"
+  },
+  "8": {
+    "instrument_id": "8",
+    "name": "Jones-Franklin",
+    "ticker": "TPYT",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-07-23T17:06:37.147327",
+    "updated_at": "2025-08-24T11:36:18.285177"
+  },
+  "9": {
+    "instrument_id": "9",
+    "name": "Castro Group",
+    "ticker": "AYZN",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2023-10-29T07:19:38.064281",
+    "updated_at": "2024-06-13T04:51:54.727353"
+  },
+  "10": {
+    "instrument_id": "10",
+    "name": "Grant, Bradley and Frazier",
+    "ticker": "DSEY",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-12-16T02:06:44.028172",
+    "updated_at": "2025-08-07T08:31:53.307280"
+  },
+  "11": {
+    "instrument_id": "11",
+    "name": "Campbell-Sullivan",
+    "ticker": "BZDZ",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-06-26T17:20:01.408569",
+    "updated_at": "2025-09-04T15:06:47.912822"
+  },
+  "12": {
+    "instrument_id": "12",
+    "name": "Rivera-Lawson",
+    "ticker": "FZCA",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2023-12-06T10:51:46.066902",
+    "updated_at": "2025-05-13T05:14:21.334152"
+  },
+  "13": {
+    "instrument_id": "13",
+    "name": "Aguirre-Evans",
+    "ticker": "LKZZ",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-12-04T00:37:31.003127",
+    "updated_at": "2025-08-20T04:18:48.249061"
+  },
+  "14": {
+    "instrument_id": "14",
+    "name": "Boyer, Kane and Mclean",
+    "ticker": "PXIA",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-01-08T14:26:13.536863",
+    "updated_at": "2024-09-24T01:29:17.436294"
+  },
+  "15": {
+    "instrument_id": "15",
+    "name": "Fitzpatrick, Ward and Garza",
+    "ticker": "FFPH",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-05-08T04:02:36.131943",
+    "updated_at": "2025-06-21T11:20:22.166297"
+  },
+  "16": {
+    "instrument_id": "16",
+    "name": "Cordova, Pena and Lee",
+    "ticker": "YYVQ",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-02-10T21:00:48.562443",
+    "updated_at": "2025-09-09T16:22:56.332668"
+  },
+  "17": {
+    "instrument_id": "17",
+    "name": "Brady, Rush and Collins",
+    "ticker": "CBOW",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-06-01T12:12:52.515985",
+    "updated_at": "2024-09-28T13:15:47.604438"
+  },
+  "18": {
+    "instrument_id": "18",
+    "name": "Weiss, Blair and Ritter",
+    "ticker": "ZZVN",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-03-07T09:54:37.616679",
+    "updated_at": "2025-06-06T11:30:41.931299"
+  },
+  "19": {
+    "instrument_id": "19",
+    "name": "Owen-Thompson",
+    "ticker": "TRMZ",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-08-13T09:38:43.258252",
+    "updated_at": "2025-09-01T02:28:22.389764"
+  },
+  "20": {
+    "instrument_id": "20",
+    "name": "Gray, Turner and Scott",
+    "ticker": "NKZB",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-08-24T20:15:46.548322",
+    "updated_at": "2025-08-27T10:22:53.114398"
+  },
+  "21": {
+    "instrument_id": "21",
+    "name": "Morrow Group",
+    "ticker": "AFER",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-01-15T10:12:11.230487",
+    "updated_at": "2025-08-23T20:55:40.037111"
+  },
+  "22": {
+    "instrument_id": "22",
+    "name": "Nguyen Group",
+    "ticker": "JTMY",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-11-05T02:59:23.348713",
+    "updated_at": "2025-04-22T14:32:06.319711"
+  },
+  "23": {
+    "instrument_id": "23",
+    "name": "Cannon PLC",
+    "ticker": "MDCX",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2023-11-26T20:08:09.486477",
+    "updated_at": "2024-03-17T12:50:38.201356"
+  },
+  "24": {
+    "instrument_id": "24",
+    "name": "Jones-Banks",
+    "ticker": "MMKF",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-03-24T04:55:10.340947",
+    "updated_at": "2025-01-08T05:04:44.784614"
+  },
+  "25": {
+    "instrument_id": "25",
+    "name": "Andrews-Braun",
+    "ticker": "FJXI",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2025-03-20T10:15:42.440819",
+    "updated_at": "2025-04-25T03:20:52.786476"
+  },
+  "26": {
+    "instrument_id": "26",
+    "name": "Cook, Collins and Payne",
+    "ticker": "OLTA",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-04-28T04:00:18.681921",
+    "updated_at": "2025-04-28T06:46:27.483069"
+  },
+  "27": {
+    "instrument_id": "27",
+    "name": "Mccarty-Serrano",
+    "ticker": "WGTK",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-11-08T09:31:40.766242",
+    "updated_at": "2025-02-26T14:07:11.570029"
+  },
+  "28": {
+    "instrument_id": "28",
+    "name": "Hood PLC",
+    "ticker": "ZABO",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-01-03T01:30:46.763095",
+    "updated_at": "2024-01-26T21:39:34.932394"
+  },
+  "29": {
+    "instrument_id": "29",
+    "name": "Hess-Thompson",
+    "ticker": "KDIE",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2025-05-07T18:43:33.763767",
+    "updated_at": "2025-07-21T09:41:01.050513"
+  },
+  "30": {
+    "instrument_id": "30",
+    "name": "Salinas and Sons",
+    "ticker": "ZYML",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-01-01T10:13:41.062139",
+    "updated_at": "2025-01-04T22:44:50.691709"
+  },
+  "31": {
+    "instrument_id": "31",
+    "name": "Johnson Inc",
+    "ticker": "ZZSK",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-03-05T07:58:59.177931",
+    "updated_at": "2025-07-09T19:20:21.836662"
+  },
+  "32": {
+    "instrument_id": "32",
+    "name": "Mccoy-Stone",
+    "ticker": "GZWM",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-05-23T09:37:04.280504",
+    "updated_at": "2025-05-26T10:21:18.208594"
+  },
+  "33": {
+    "instrument_id": "33",
+    "name": "Palmer-Mccoy",
+    "ticker": "MVDU",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-03-13T21:33:30.571273",
+    "updated_at": "2024-03-31T15:47:28.236897"
+  },
+  "34": {
+    "instrument_id": "34",
+    "name": "Gonzalez LLC",
+    "ticker": "WUVU",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-01-28T14:14:31.836482",
+    "updated_at": "2024-05-25T03:11:27.941037"
+  },
+  "35": {
+    "instrument_id": "35",
+    "name": "Le, Hill and Landry",
+    "ticker": "ZZHW",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-04-25T18:28:09.768397",
+    "updated_at": "2024-07-07T20:14:16.581925"
+  },
+  "36": {
+    "instrument_id": "36",
+    "name": "Martin-James",
+    "ticker": "OAWY",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-11-04T16:32:09.140845",
+    "updated_at": "2025-07-12T08:02:30.133651"
+  },
+  "37": {
+    "instrument_id": "37",
+    "name": "Barker, Cox and Williams",
+    "ticker": "NHON",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2023-12-19T04:41:08.466982",
+    "updated_at": "2025-01-24T07:41:17.982399"
+  },
+  "38": {
+    "instrument_id": "38",
+    "name": "Daniel, Fernandez and Hernandez",
+    "ticker": "KTBU",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-09-24T21:38:26.737245",
+    "updated_at": "2025-03-16T20:55:41.153014"
+  },
+  "39": {
+    "instrument_id": "39",
+    "name": "Forbes, Montgomery and White",
+    "ticker": "AQAW",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2023-12-08T06:38:05.985675",
+    "updated_at": "2025-01-12T02:24:50.178873"
+  },
+  "40": {
+    "instrument_id": "40",
+    "name": "Robinson, Wallace and Austin",
+    "ticker": "XAXD",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-04-14T05:02:36.926979",
+    "updated_at": "2025-05-05T11:26:16.518878"
+  },
+  "41": {
+    "instrument_id": "41",
+    "name": "Rogers Inc",
+    "ticker": "SRFX",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-03-18T01:56:26.669834",
+    "updated_at": "2025-07-03T01:53:48.550243"
+  },
+  "42": {
+    "instrument_id": "42",
+    "name": "Terry-Howard",
+    "ticker": "MVOP",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-05-15T07:06:07.426986",
+    "updated_at": "2025-05-22T11:11:03.049368"
+  },
+  "43": {
+    "instrument_id": "43",
+    "name": "Gray, Nichols and King",
+    "ticker": "KWZB",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-08-31T12:08:41.759365",
+    "updated_at": "2025-09-03T12:29:46.979596"
+  },
+  "44": {
+    "instrument_id": "44",
+    "name": "Hamilton, Rodriguez and Ballard",
+    "ticker": "MGTV",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2025-06-18T00:05:02.939995",
+    "updated_at": "2025-08-16T23:18:52.455037"
+  },
+  "45": {
+    "instrument_id": "45",
+    "name": "Cantrell, Craig and Gomez",
+    "ticker": "JZHS",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2023-11-17T20:14:53.371446",
+    "updated_at": "2025-08-25T09:54:08.686950"
+  },
+  "46": {
+    "instrument_id": "46",
+    "name": "Thompson-Lam",
+    "ticker": "PILS",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-03-03T14:49:23.723688",
+    "updated_at": "2025-08-07T01:59:47.277315"
+  },
+  "47": {
+    "instrument_id": "47",
+    "name": "Howard LLC",
+    "ticker": "UGYI",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-03-09T20:51:44.115472",
+    "updated_at": "2024-11-29T19:49:23.176846"
+  },
+  "48": {
+    "instrument_id": "48",
+    "name": "Anderson, Peck and Murray",
+    "ticker": "XEUN",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-08-19T18:59:21.279558",
+    "updated_at": "2025-04-22T15:07:09.992162"
+  },
+  "49": {
+    "instrument_id": "49",
+    "name": "Jenkins Inc",
+    "ticker": "DLLE",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-04-30T18:05:08.817683",
+    "updated_at": "2024-07-10T15:21:12.505048"
+  },
+  "50": {
+    "instrument_id": "50",
+    "name": "Carter Inc",
+    "ticker": "BOLS",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-03-26T10:12:44.662364",
+    "updated_at": "2025-08-23T22:14:34.983997"
+  },
+  "51": {
+    "instrument_id": "51",
+    "name": "Williams, Andersen and Gutierrez",
+    "ticker": "XOXP",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-09-01T08:02:09.023891",
+    "updated_at": "2025-09-14T08:11:52.481235"
+  },
+  "52": {
+    "instrument_id": "52",
+    "name": "Nichols and Sons",
+    "ticker": "SWFG",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-01-13T06:19:37.368399",
+    "updated_at": "2025-02-14T17:56:00.515804"
+  },
+  "53": {
+    "instrument_id": "53",
+    "name": "George, Lopez and Peterson",
+    "ticker": "WQBV",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-03-14T00:07:19.229218",
+    "updated_at": "2025-05-16T01:36:16.352182"
+  },
+  "54": {
+    "instrument_id": "54",
+    "name": "Snow, Garcia and Mcgee",
+    "ticker": "JGVR",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-01-03T14:17:27.562488",
+    "updated_at": "2024-11-17T10:11:22.840907"
+  },
+  "55": {
+    "instrument_id": "55",
+    "name": "Mitchell-Keith",
+    "ticker": "FNCO",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-08-29T23:20:18.989594",
+    "updated_at": "2025-04-21T18:44:09.149442"
+  },
+  "56": {
+    "instrument_id": "56",
+    "name": "Peterson, Ritter and Strong",
+    "ticker": "QUYV",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-07-22T21:53:47.418317",
+    "updated_at": "2025-08-06T01:57:42.036505"
+  },
+  "57": {
+    "instrument_id": "57",
+    "name": "Lloyd-Johnson",
+    "ticker": "GCTR",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-02-09T03:13:05.942535",
+    "updated_at": "2025-02-23T15:23:55.600294"
+  },
+  "58": {
+    "instrument_id": "58",
+    "name": "Smith-Oconnor",
+    "ticker": "OPWU",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-09-07T00:15:22.805656",
+    "updated_at": "2025-09-09T21:33:05.252207"
+  },
+  "59": {
+    "instrument_id": "59",
+    "name": "Brooks, Smith and Hanna",
+    "ticker": "LITZ",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-06-06T14:41:01.760341",
+    "updated_at": "2024-11-20T15:31:03.664514"
+  },
+  "60": {
+    "instrument_id": "60",
+    "name": "Edwards Group",
+    "ticker": "JFID",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-04-17T23:41:07.958162",
+    "updated_at": "2025-04-21T07:15:50.639170"
+  },
+  "61": {
+    "instrument_id": "61",
+    "name": "Molina LLC",
+    "ticker": "PKFW",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-01-07T15:38:57.391635",
+    "updated_at": "2025-05-27T06:44:43.441965"
+  },
+  "62": {
+    "instrument_id": "62",
+    "name": "Schultz, Fuller and Smith",
+    "ticker": "DROY",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-02-26T01:28:41.981233",
+    "updated_at": "2024-10-28T18:50:02.014785"
+  },
+  "63": {
+    "instrument_id": "63",
+    "name": "Smith-Grimes",
+    "ticker": "KKRD",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-02-19T08:10:39.757405",
+    "updated_at": "2025-04-10T20:44:54.413732"
+  },
+  "64": {
+    "instrument_id": "64",
+    "name": "Walker, Perez and Scott",
+    "ticker": "KYXV",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2023-11-22T05:39:25.652349",
+    "updated_at": "2025-04-14T11:42:59.600840"
+  },
+  "65": {
+    "instrument_id": "65",
+    "name": "Hammond, Crawford and Frost",
+    "ticker": "GXDP",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2025-01-06T08:49:23.400300",
+    "updated_at": "2025-03-26T10:54:02.472586"
+  },
+  "66": {
+    "instrument_id": "66",
+    "name": "Garcia Inc",
+    "ticker": "CMJF",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2023-12-20T01:13:36.767720",
+    "updated_at": "2024-05-03T09:25:49.723033"
+  },
+  "67": {
+    "instrument_id": "67",
+    "name": "Hamilton, Santos and Foster",
+    "ticker": "VNWO",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-11-20T02:48:46.790046",
+    "updated_at": "2025-06-25T17:25:29.976267"
+  },
+  "68": {
+    "instrument_id": "68",
+    "name": "Warner-Clark",
+    "ticker": "NTJS",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-10-02T23:26:01.862741",
+    "updated_at": "2025-08-05T14:45:38.022207"
+  },
+  "69": {
+    "instrument_id": "69",
+    "name": "Ellis PLC",
+    "ticker": "PZQJ",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-01-19T15:02:26.791621",
+    "updated_at": "2025-06-10T19:05:15.496812"
+  },
+  "70": {
+    "instrument_id": "70",
+    "name": "Berry-Mccann",
+    "ticker": "SGRC",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-01-12T02:04:41.207756",
+    "updated_at": "2025-07-13T00:37:37.263307"
+  },
+  "71": {
+    "instrument_id": "71",
+    "name": "Morris-Jones",
+    "ticker": "BVVA",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-08-07T10:38:48.184459",
+    "updated_at": "2025-08-12T17:55:15.625679"
+  },
+  "72": {
+    "instrument_id": "72",
+    "name": "Murphy, Chapman and Grant",
+    "ticker": "KRQA",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-04-29T09:42:41.816432",
+    "updated_at": "2025-08-24T12:16:22.703701"
+  },
+  "73": {
+    "instrument_id": "73",
+    "name": "Goodman-Rodriguez",
+    "ticker": "QBFV",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-07-31T13:27:22.787691",
+    "updated_at": "2025-08-01T09:40:57.778965"
+  },
+  "74": {
+    "instrument_id": "74",
+    "name": "Turner, Weeks and Gonzalez",
+    "ticker": "VZMC",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-03-06T22:15:35.812659",
+    "updated_at": "2025-06-28T00:49:03.966515"
+  },
+  "75": {
+    "instrument_id": "75",
+    "name": "Blake PLC",
+    "ticker": "XMMX",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-07-10T04:24:30.928716",
+    "updated_at": "2025-07-30T21:05:04.947926"
+  },
+  "76": {
+    "instrument_id": "76",
+    "name": "Hernandez Group",
+    "ticker": "QWRN",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-04-18T05:08:58.761483",
+    "updated_at": "2024-10-11T08:17:24.067981"
+  },
+  "77": {
+    "instrument_id": "77",
+    "name": "Mckinney PLC",
+    "ticker": "DDQE",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-07-16T19:34:09.200917",
+    "updated_at": "2025-09-12T10:33:31.176915"
+  },
+  "78": {
+    "instrument_id": "78",
+    "name": "Tran LLC",
+    "ticker": "XVXD",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2023-11-23T19:26:23.888214",
+    "updated_at": "2025-07-30T20:42:58.700694"
+  },
+  "79": {
+    "instrument_id": "79",
+    "name": "Ware-Williams",
+    "ticker": "GTUR",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-06-22T13:57:14.718484",
+    "updated_at": "2024-11-23T03:29:38.067865"
+  },
+  "80": {
+    "instrument_id": "80",
+    "name": "Galloway LLC",
+    "ticker": "BZCN",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-03-22T17:47:01.592118",
+    "updated_at": "2025-07-11T14:52:13.012888"
+  },
+  "81": {
+    "instrument_id": "81",
+    "name": "Neal-Henry",
+    "ticker": "CKPW",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-01-21T02:35:24.976899",
+    "updated_at": "2025-07-16T15:34:40.810055"
+  },
+  "82": {
+    "instrument_id": "82",
+    "name": "Williams, Wallace and Gray",
+    "ticker": "MCUB",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-08-22T08:03:42.862639",
+    "updated_at": "2025-08-25T02:15:45.851345"
+  },
+  "83": {
+    "instrument_id": "83",
+    "name": "Lewis-Thompson",
+    "ticker": "GSXV",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-01-23T13:20:07.096555",
+    "updated_at": "2025-05-11T12:10:34.196372"
+  },
+  "84": {
+    "instrument_id": "84",
+    "name": "Taylor Inc",
+    "ticker": "QBHQ",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-07-04T12:36:52.419693",
+    "updated_at": "2024-07-28T22:48:47.994056"
+  },
+  "85": {
+    "instrument_id": "85",
+    "name": "Cook PLC",
+    "ticker": "VQVO",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-04-03T22:22:45.843377",
+    "updated_at": "2025-07-08T15:04:20.734412"
+  },
+  "86": {
+    "instrument_id": "86",
+    "name": "Mills-Smith",
+    "ticker": "YUCH",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2023-10-20T16:38:59.075144",
+    "updated_at": "2024-10-16T12:51:36.132631"
+  },
+  "87": {
+    "instrument_id": "87",
+    "name": "Wilson, Sanchez and Wilkins",
+    "ticker": "IUJZ",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-08-25T20:48:10.414455",
+    "updated_at": "2025-08-30T01:57:52.214977"
+  },
+  "88": {
+    "instrument_id": "88",
+    "name": "Snyder, White and Baker",
+    "ticker": "CXRS",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-02-19T16:50:52.053498",
+    "updated_at": "2025-06-18T15:35:55.645041"
+  },
+  "89": {
+    "instrument_id": "89",
+    "name": "Hill, Myers and Brown",
+    "ticker": "XRGI",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-05-28T09:36:15.862879",
+    "updated_at": "2025-08-17T13:08:29.380585"
+  },
+  "90": {
+    "instrument_id": "90",
+    "name": "Martin, Williams and Ferguson",
+    "ticker": "KLJF",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-09-13T05:52:26.398787",
+    "updated_at": "2025-09-14T16:13:00.088729"
+  },
+  "91": {
+    "instrument_id": "91",
+    "name": "Price-Wood",
+    "ticker": "WXKW",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2023-12-27T02:14:29.907869",
+    "updated_at": "2024-12-05T09:09:37.490600"
+  },
+  "92": {
+    "instrument_id": "92",
+    "name": "Richardson LLC",
+    "ticker": "VFKR",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2023-09-27T19:54:42.879730",
+    "updated_at": "2024-11-23T14:58:06.483446"
+  },
+  "93": {
+    "instrument_id": "93",
+    "name": "Lopez-Valentine",
+    "ticker": "KQZJ",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-01-28T18:38:59.391135",
+    "updated_at": "2025-04-22T17:37:28.341380"
+  },
+  "94": {
+    "instrument_id": "94",
+    "name": "Taylor, Carson and Bowers",
+    "ticker": "HULL",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-02-18T14:26:17.395641",
+    "updated_at": "2024-12-16T03:09:55.874647"
+  },
+  "95": {
+    "instrument_id": "95",
+    "name": "Martin, Scott and Baker",
+    "ticker": "LZAX",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-10-28T22:06:23.716421",
+    "updated_at": "2025-05-16T14:21:10.513157"
+  },
+  "96": {
+    "instrument_id": "96",
+    "name": "Rogers Inc",
+    "ticker": "XYXR",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2023-11-26T07:20:41.332477",
+    "updated_at": "2024-03-04T00:24:55.272187"
+  },
+  "97": {
+    "instrument_id": "97",
+    "name": "Gutierrez and Sons",
+    "ticker": "MKLD",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-06-12T04:38:23.056593",
+    "updated_at": "2025-07-15T18:31:37.702669"
+  },
+  "98": {
+    "instrument_id": "98",
+    "name": "Warner, Cannon and Diaz",
+    "ticker": "BCAK",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-09-10T05:46:44.013721",
+    "updated_at": "2025-09-12T13:03:02.136244"
+  },
+  "99": {
+    "instrument_id": "99",
+    "name": "Ferrell LLC",
+    "ticker": "NSMB",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-04-28T20:59:56.895803",
+    "updated_at": "2025-05-12T02:43:27.415899"
+  },
+  "100": {
+    "instrument_id": "100",
+    "name": "Powell Group",
+    "ticker": "FMBZ",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2023-09-18T09:39:50.081329",
+    "updated_at": "2025-02-16T20:11:08.816010"
+  },
+  "101": {
+    "instrument_id": "101",
+    "name": "Jackson LLC",
+    "ticker": "HGNC",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-07-26T01:59:53.992416",
+    "updated_at": "2025-07-29T05:31:35.130869"
+  },
+  "102": {
+    "instrument_id": "102",
+    "name": "Robbins LLC",
+    "ticker": "BDYX",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-01-10T10:02:14.394064",
+    "updated_at": "2025-06-26T11:10:25.988236"
+  },
+  "103": {
+    "instrument_id": "103",
+    "name": "Campos, Collins and Bass",
+    "ticker": "FSIR",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-05-02T05:46:52.878882",
+    "updated_at": "2025-07-09T16:34:20.600320"
+  },
+  "104": {
+    "instrument_id": "104",
+    "name": "Hanson-Chung",
+    "ticker": "OAOY",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-02-14T09:01:26.224378",
+    "updated_at": "2024-02-23T08:55:24.294921"
+  },
+  "105": {
+    "instrument_id": "105",
+    "name": "Sharp-Reid",
+    "ticker": "ZJMX",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-12-04T02:30:35.539863",
+    "updated_at": "2025-01-11T02:24:40.169532"
+  },
+  "106": {
+    "instrument_id": "106",
+    "name": "Summers, Booth and Friedman",
+    "ticker": "EXRE",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2023-12-16T17:11:18.417150",
+    "updated_at": "2025-09-07T20:18:00.374652"
+  },
+  "107": {
+    "instrument_id": "107",
+    "name": "Garner Group",
+    "ticker": "QBWT",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-12-06T18:10:59.693352",
+    "updated_at": "2025-07-20T23:46:00.413449"
+  },
+  "108": {
+    "instrument_id": "108",
+    "name": "Green-Mckinney",
+    "ticker": "MPYD",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-04-20T17:57:03.493791",
+    "updated_at": "2025-06-02T15:41:19.212512"
+  },
+  "109": {
+    "instrument_id": "109",
+    "name": "White, Farmer and Bryant",
+    "ticker": "VVAM",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2025-04-28T07:07:46.697568",
+    "updated_at": "2025-09-08T03:52:29.428744"
+  },
+  "110": {
+    "instrument_id": "110",
+    "name": "Garcia-Nelson",
+    "ticker": "JWNT",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-10-04T20:40:00.229660",
+    "updated_at": "2025-05-31T12:15:10.815304"
+  },
+  "111": {
+    "instrument_id": "111",
+    "name": "Watkins, Moore and Garcia",
+    "ticker": "QKSS",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2023-12-20T09:30:52.247087",
+    "updated_at": "2024-07-27T21:21:41.784414"
+  },
+  "112": {
+    "instrument_id": "112",
+    "name": "Rodriguez-Green",
+    "ticker": "TMJH",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-01-29T19:44:51.366405",
+    "updated_at": "2024-07-13T19:02:03.276767"
+  },
+  "113": {
+    "instrument_id": "113",
+    "name": "Pace, Lamb and Johnson",
+    "ticker": "UBME",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-12-16T03:31:16.938573",
+    "updated_at": "2025-08-05T18:41:15.467558"
+  },
+  "114": {
+    "instrument_id": "114",
+    "name": "Solis, Wilson and Henderson",
+    "ticker": "QFLQ",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-04-18T16:04:09.965503",
+    "updated_at": "2025-08-30T03:24:52.205773"
+  },
+  "115": {
+    "instrument_id": "115",
+    "name": "Drake, Hernandez and Smith",
+    "ticker": "YXZB",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2025-06-13T00:30:20.692746",
+    "updated_at": "2025-08-03T15:11:06.951740"
+  },
+  "116": {
+    "instrument_id": "116",
+    "name": "Daugherty, Bass and Morton",
+    "ticker": "ZITH",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-06-14T07:33:41.955695",
+    "updated_at": "2024-11-14T19:15:08.069519"
+  },
+  "117": {
+    "instrument_id": "117",
+    "name": "Morris PLC",
+    "ticker": "ZJCF",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2023-12-01T21:11:17.399024",
+    "updated_at": "2024-11-27T22:40:48.020140"
+  },
+  "118": {
+    "instrument_id": "118",
+    "name": "Beard PLC",
+    "ticker": "SPHA",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-07-18T19:49:28.586515",
+    "updated_at": "2025-08-25T06:30:37.302121"
+  },
+  "119": {
+    "instrument_id": "119",
+    "name": "Fischer, Taylor and Young",
+    "ticker": "QVKN",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-02-14T12:01:12.859801",
+    "updated_at": "2024-04-06T22:13:08.639326"
+  },
+  "120": {
+    "instrument_id": "120",
+    "name": "Mathews Inc",
+    "ticker": "HRAT",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-07-14T00:57:09.541942",
+    "updated_at": "2025-08-07T12:05:59.653353"
+  },
+  "121": {
+    "instrument_id": "121",
+    "name": "Burnett PLC",
+    "ticker": "XOVQ",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-04-13T05:55:06.040365",
+    "updated_at": "2025-09-09T14:24:12.209992"
+  },
+  "122": {
+    "instrument_id": "122",
+    "name": "Knight PLC",
+    "ticker": "QGQB",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-09-22T05:09:53.085575",
+    "updated_at": "2025-03-19T23:43:54.915042"
+  },
+  "123": {
+    "instrument_id": "123",
+    "name": "Murphy Inc",
+    "ticker": "NSGP",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-12-27T05:42:41.265962",
+    "updated_at": "2025-07-20T10:04:02.131926"
+  },
+  "124": {
+    "instrument_id": "124",
+    "name": "Brown, Myers and Hernandez",
+    "ticker": "UOIP",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-06-16T02:31:31.307079",
+    "updated_at": "2025-07-13T20:09:43.748346"
+  },
+  "125": {
+    "instrument_id": "125",
+    "name": "Mcdonald PLC",
+    "ticker": "JPBP",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2023-12-25T21:37:16.379287",
+    "updated_at": "2025-03-19T18:46:24.712756"
+  },
+  "126": {
+    "instrument_id": "126",
+    "name": "Thompson-Phillips",
+    "ticker": "CCMP",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-02-22T00:24:29.982622",
+    "updated_at": "2025-06-02T06:21:05.557312"
+  },
+  "127": {
+    "instrument_id": "127",
+    "name": "Ballard Ltd",
+    "ticker": "KMNK",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-08-28T20:38:13.098876",
+    "updated_at": "2025-06-25T15:47:08.866220"
+  },
+  "128": {
+    "instrument_id": "128",
+    "name": "Jackson-Hardy",
+    "ticker": "IFHZ",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-07-07T06:12:52.644371",
+    "updated_at": "2025-01-10T11:23:02.851828"
+  },
+  "129": {
+    "instrument_id": "129",
+    "name": "Villarreal, Hill and Torres",
+    "ticker": "NZOS",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-03-05T09:22:07.932572",
+    "updated_at": "2025-07-23T22:33:38.886614"
+  },
+  "130": {
+    "instrument_id": "130",
+    "name": "Simmons Ltd",
+    "ticker": "WBKY",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-11-12T08:01:29.186924",
+    "updated_at": "2024-11-19T20:05:35.317552"
+  },
+  "131": {
+    "instrument_id": "131",
+    "name": "Williams, Russell and Hanson",
+    "ticker": "CVPB",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-12-15T17:44:12.523784",
+    "updated_at": "2025-07-20T08:59:27.511681"
+  },
+  "132": {
+    "instrument_id": "132",
+    "name": "Hill-Doyle",
+    "ticker": "ZVCD",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-07-04T20:59:31.925808",
+    "updated_at": "2025-08-01T16:01:34.918064"
+  },
+  "133": {
+    "instrument_id": "133",
+    "name": "Wilson, Vaughn and Savage",
+    "ticker": "OHOG",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-05-28T02:59:48.025257",
+    "updated_at": "2025-06-14T14:38:32.942947"
+  },
+  "134": {
+    "instrument_id": "134",
+    "name": "Lewis PLC",
+    "ticker": "ARGG",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-05-17T13:46:39.213347",
+    "updated_at": "2025-08-16T21:35:09.905217"
+  },
+  "135": {
+    "instrument_id": "135",
+    "name": "Allen, Webb and Jacobs",
+    "ticker": "QZND",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-01-26T03:16:02.403912",
+    "updated_at": "2025-06-25T13:22:55.814225"
+  },
+  "136": {
+    "instrument_id": "136",
+    "name": "Wiggins and Sons",
+    "ticker": "ZSQD",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-10-01T12:06:03.178100",
+    "updated_at": "2025-03-20T21:23:22.384013"
+  },
+  "137": {
+    "instrument_id": "137",
+    "name": "Moore Ltd",
+    "ticker": "FAQM",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2023-11-03T15:05:39.279771",
+    "updated_at": "2024-04-07T07:43:01.644093"
+  },
+  "138": {
+    "instrument_id": "138",
+    "name": "Carney, Beck and Moore",
+    "ticker": "FVKZ",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2025-05-01T11:15:46.309124",
+    "updated_at": "2025-07-15T19:52:44.351326"
+  },
+  "139": {
+    "instrument_id": "139",
+    "name": "Aguilar-Wade",
+    "ticker": "MVZA",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2023-12-26T13:48:39.819581",
+    "updated_at": "2025-06-30T03:42:31.102633"
+  },
+  "140": {
+    "instrument_id": "140",
+    "name": "Hall, Brown and Valencia",
+    "ticker": "GPVU",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-05-15T17:45:18.244576",
+    "updated_at": "2025-03-23T23:32:28.215464"
+  },
+  "141": {
+    "instrument_id": "141",
+    "name": "Nelson-French",
+    "ticker": "UVUN",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-04-25T00:19:34.811311",
+    "updated_at": "2025-07-07T19:12:53.505744"
+  },
+  "142": {
+    "instrument_id": "142",
+    "name": "Garcia Group",
+    "ticker": "IKUN",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2025-05-24T01:43:47.324525",
+    "updated_at": "2025-06-27T19:36:37.291728"
+  },
+  "143": {
+    "instrument_id": "143",
+    "name": "Hill LLC",
+    "ticker": "ZELE",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-07-17T18:18:33.704019",
+    "updated_at": "2025-01-31T06:05:11.062610"
+  },
+  "144": {
+    "instrument_id": "144",
+    "name": "Fowler PLC",
+    "ticker": "ZRQA",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-08-02T13:37:15.431343",
+    "updated_at": "2024-09-11T03:23:23.087271"
+  },
+  "145": {
+    "instrument_id": "145",
+    "name": "Martin, Brown and Coleman",
+    "ticker": "BZUY",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-06-27T05:23:52.366392",
+    "updated_at": "2024-09-23T19:21:30.823066"
+  },
+  "146": {
+    "instrument_id": "146",
+    "name": "Farley, Garza and Solomon",
+    "ticker": "CJNJ",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2023-10-15T19:59:30.942465",
+    "updated_at": "2025-07-24T16:41:07.980847"
+  },
+  "147": {
+    "instrument_id": "147",
+    "name": "Cook, Taylor and Carter",
+    "ticker": "WFPO",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-03-06T23:29:08.947807",
+    "updated_at": "2025-07-21T15:35:25.517004"
+  },
+  "148": {
+    "instrument_id": "148",
+    "name": "Wright Inc",
+    "ticker": "TBCR",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2023-11-09T16:57:09.507283",
+    "updated_at": "2024-02-17T02:45:36.551409"
+  },
+  "149": {
+    "instrument_id": "149",
+    "name": "Owens-Gilbert",
+    "ticker": "XPKC",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-04-23T10:59:07.935369",
+    "updated_at": "2025-01-16T20:38:26.991439"
+  },
+  "150": {
+    "instrument_id": "150",
+    "name": "Ross, Davis and Boyer",
+    "ticker": "BRDU",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-01-16T05:54:01.057941",
+    "updated_at": "2025-06-22T15:58:26.437734"
+  },
+  "151": {
+    "instrument_id": "151",
+    "name": "Brown-Heath",
+    "ticker": "FKNO",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-09-22T01:29:49.970122",
+    "updated_at": "2024-12-23T21:36:33.413214"
+  },
+  "152": {
+    "instrument_id": "152",
+    "name": "Mills Ltd",
+    "ticker": "XTVJ",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2023-12-05T12:09:58.014486",
+    "updated_at": "2024-11-22T02:03:32.776702"
+  },
+  "153": {
+    "instrument_id": "153",
+    "name": "Mclaughlin Inc",
+    "ticker": "URRF",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-07-21T15:04:24.947605",
+    "updated_at": "2025-08-08T15:30:55.778163"
+  },
+  "154": {
+    "instrument_id": "154",
+    "name": "Richards, Lang and Rodriguez",
+    "ticker": "XBEW",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-06-25T06:05:36.289515",
+    "updated_at": "2025-09-12T02:48:32.531520"
+  },
+  "155": {
+    "instrument_id": "155",
+    "name": "Marquez and Sons",
+    "ticker": "KBVT",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-03-16T21:17:26.418856",
+    "updated_at": "2025-07-25T03:24:13.039511"
+  },
+  "156": {
+    "instrument_id": "156",
+    "name": "Gonzalez, Jacobs and Patel",
+    "ticker": "DDOB",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-07-11T21:44:31.782736",
+    "updated_at": "2025-09-10T17:18:39.582828"
+  },
+  "157": {
+    "instrument_id": "157",
+    "name": "Burnett-Gibson",
+    "ticker": "UNSR",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-11-07T05:28:51.365392",
+    "updated_at": "2025-08-02T12:53:44.772859"
+  },
+  "158": {
+    "instrument_id": "158",
+    "name": "Jones Group",
+    "ticker": "IHUG",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-10-03T08:40:35.870939",
+    "updated_at": "2025-09-13T14:44:13.641088"
+  },
+  "159": {
+    "instrument_id": "159",
+    "name": "Robinson-King",
+    "ticker": "WOWQ",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-09-06T07:32:11.000489",
+    "updated_at": "2025-09-07T20:19:29.956950"
+  },
+  "160": {
+    "instrument_id": "160",
+    "name": "Brock, Huynh and David",
+    "ticker": "AQHK",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-09-20T23:26:08.641114",
+    "updated_at": "2025-06-14T00:18:17.052825"
+  },
+  "161": {
+    "instrument_id": "161",
+    "name": "Burgess Ltd",
+    "ticker": "DOJY",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2025-05-11T14:01:26.850399",
+    "updated_at": "2025-07-04T00:17:03.346795"
+  },
+  "162": {
+    "instrument_id": "162",
+    "name": "Rubio, Cooper and Ramirez",
+    "ticker": "JFOK",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-03-05T22:36:49.438078",
+    "updated_at": "2025-05-24T01:11:30.745719"
+  },
+  "163": {
+    "instrument_id": "163",
+    "name": "Lopez, Wade and Santiago",
+    "ticker": "COCV",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-08-05T02:54:33.870358",
+    "updated_at": "2025-08-13T18:25:26.943775"
+  },
+  "164": {
+    "instrument_id": "164",
+    "name": "Spencer Inc",
+    "ticker": "UMSJ",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2025-02-25T13:49:01.728098",
+    "updated_at": "2025-06-08T00:39:36.822855"
+  },
+  "165": {
+    "instrument_id": "165",
+    "name": "Neal-Mitchell",
+    "ticker": "ICMN",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-02-13T15:34:19.474464",
+    "updated_at": "2024-03-16T15:22:11.827389"
+  },
+  "166": {
+    "instrument_id": "166",
+    "name": "Smith-Patterson",
+    "ticker": "JSAS",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-04-22T15:20:13.804553",
+    "updated_at": "2024-08-06T10:12:59.017657"
+  },
+  "167": {
+    "instrument_id": "167",
+    "name": "Hall-Cannon",
+    "ticker": "XZGW",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-01-15T18:56:53.525015",
+    "updated_at": "2024-03-18T15:41:28.475664"
+  },
+  "168": {
+    "instrument_id": "168",
+    "name": "Lewis-Williams",
+    "ticker": "ZWYR",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-11-02T04:08:40.807085",
+    "updated_at": "2025-06-19T23:22:09.276331"
+  },
+  "169": {
+    "instrument_id": "169",
+    "name": "Avila, Bradley and Bradley",
+    "ticker": "YFYP",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-05-13T18:42:42.407181",
+    "updated_at": "2024-08-17T10:30:54.842372"
+  },
+  "170": {
+    "instrument_id": "170",
+    "name": "Hayes Inc",
+    "ticker": "FOZZ",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-02-13T03:37:15.133908",
+    "updated_at": "2024-05-16T10:14:31.076147"
+  },
+  "171": {
+    "instrument_id": "171",
+    "name": "Mendez Ltd",
+    "ticker": "ZTPC",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2024-07-20T23:10:00.492908",
+    "updated_at": "2025-06-02T12:21:59.254486"
+  },
+  "172": {
+    "instrument_id": "172",
+    "name": "Rodriguez-Nunez",
+    "ticker": "SWFQ",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2024-11-03T14:30:19.122114",
+    "updated_at": "2025-02-05T19:15:42.267833"
+  },
+  "173": {
+    "instrument_id": "173",
+    "name": "Williams, Garcia and Hopkins",
+    "ticker": "MTSV",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-08-15T13:44:50.408059",
+    "updated_at": "2024-11-12T05:45:47.851904"
+  },
+  "174": {
+    "instrument_id": "174",
+    "name": "Morrison, Savage and Simpson",
+    "ticker": "FJRU",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2023-11-27T13:21:19.291083",
+    "updated_at": "2023-11-29T11:44:53.273136"
+  },
+  "175": {
+    "instrument_id": "175",
+    "name": "Moore Inc",
+    "ticker": "HDEA",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-07-08T05:56:30.493959",
+    "updated_at": "2025-01-29T14:47:27.338781"
+  },
+  "176": {
+    "instrument_id": "176",
+    "name": "White, Knight and Brandt",
+    "ticker": "VDNM",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2024-12-16T11:03:28.734877",
+    "updated_at": "2025-06-24T10:13:49.114995"
+  },
+  "177": {
+    "instrument_id": "177",
+    "name": "Williams-Wright",
+    "ticker": "SISQ",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-02-18T02:52:57.885422",
+    "updated_at": "2025-07-10T01:38:03.201312"
+  },
+  "178": {
+    "instrument_id": "178",
+    "name": "Douglas Group",
+    "ticker": "EESU",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-07-30T09:52:27.536067",
+    "updated_at": "2025-06-16T13:16:24.411307"
+  },
+  "179": {
+    "instrument_id": "179",
+    "name": "Harvey-Pearson",
+    "ticker": "NWAD",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-08-22T05:09:23.584490",
+    "updated_at": "2025-03-26T01:02:48.891050"
+  },
+  "180": {
+    "instrument_id": "180",
+    "name": "Olson, Ward and Scott",
+    "ticker": "KNLI",
+    "asset_class": "derivative",
+    "status": "active",
+    "created_at": "2024-05-30T02:09:15.788491",
+    "updated_at": "2025-03-31T22:22:39.010473"
+  },
+  "181": {
+    "instrument_id": "181",
+    "name": "Miller, Blair and Salas",
+    "ticker": "LUXR",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2025-09-02T14:38:36.727694",
+    "updated_at": "2025-09-09T10:56:00.506894"
+  },
+  "182": {
+    "instrument_id": "182",
+    "name": "Drake-Webb",
+    "ticker": "LAPB",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2025-02-01T20:47:15.821993",
+    "updated_at": "2025-06-03T07:18:19.882697"
+  },
+  "183": {
+    "instrument_id": "183",
+    "name": "Buck, Williams and Henderson",
+    "ticker": "PFCY",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-05-30T06:07:06.793604",
+    "updated_at": "2024-12-23T05:24:34.809607"
+  },
+  "184": {
+    "instrument_id": "184",
+    "name": "Shepard-Thompson",
+    "ticker": "MDEB",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-08-24T08:03:34.838686",
+    "updated_at": "2024-11-13T14:55:20.481365"
+  },
+  "185": {
+    "instrument_id": "185",
+    "name": "Mcclain and Sons",
+    "ticker": "PPOI",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-03-17T20:18:59.630142",
+    "updated_at": "2024-06-05T10:29:48.871174"
+  },
+  "186": {
+    "instrument_id": "186",
+    "name": "Freeman-Hernandez",
+    "ticker": "EDQM",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2025-01-08T22:09:30.531148",
+    "updated_at": "2025-01-24T06:32:02.314138"
+  },
+  "187": {
+    "instrument_id": "187",
+    "name": "Friedman Group",
+    "ticker": "XXQY",
+    "asset_class": "real_estate",
+    "status": "active",
+    "created_at": "2023-10-21T04:16:21.393345",
+    "updated_at": "2023-11-29T05:53:54.544008"
+  },
+  "188": {
+    "instrument_id": "188",
+    "name": "Peters Inc",
+    "ticker": "XUUO",
+    "asset_class": "debt",
+    "status": "inactive",
+    "created_at": "2023-09-23T05:10:01.552911",
+    "updated_at": "2024-03-30T05:00:58.272757"
+  },
+  "189": {
+    "instrument_id": "189",
+    "name": "Bradford Ltd",
+    "ticker": "NZNY",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-10-01T18:40:18.348675",
+    "updated_at": "2025-05-18T16:48:02.052194"
+  },
+  "190": {
+    "instrument_id": "190",
+    "name": "Mills-Moore",
+    "ticker": "WEGS",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-02-17T13:55:54.747338",
+    "updated_at": "2024-12-10T02:59:03.896926"
+  },
+  "191": {
+    "instrument_id": "191",
+    "name": "Moreno-Rodriguez",
+    "ticker": "ZHLD",
+    "asset_class": "commodity",
+    "status": "inactive",
+    "created_at": "2024-07-14T21:26:45.076290",
+    "updated_at": "2025-01-11T23:50:38.955363"
+  },
+  "192": {
+    "instrument_id": "192",
+    "name": "Nelson, Hopkins and Armstrong",
+    "ticker": "UUPW",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2024-07-10T13:00:42.858765",
+    "updated_at": "2025-03-09T01:40:41.804488"
+  },
+  "193": {
+    "instrument_id": "193",
+    "name": "Hall LLC",
+    "ticker": "HOVP",
+    "asset_class": "equity",
+    "status": "inactive",
+    "created_at": "2023-09-28T12:25:35.697410",
+    "updated_at": "2025-08-01T14:08:22.400439"
+  },
+  "194": {
+    "instrument_id": "194",
+    "name": "Owens-Villegas",
+    "ticker": "GBOQ",
+    "asset_class": "commodity",
+    "status": "active",
+    "created_at": "2025-08-25T09:55:20.063404",
+    "updated_at": "2025-08-27T08:25:48.635666"
+  },
+  "195": {
+    "instrument_id": "195",
+    "name": "Daugherty, Becker and Rodriguez",
+    "ticker": "IIHX",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2024-04-01T05:04:50.194134",
+    "updated_at": "2025-05-16T17:35:00.484416"
+  },
+  "196": {
+    "instrument_id": "196",
+    "name": "Brown-Ortiz",
+    "ticker": "ZXRA",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-06-06T10:50:27.097393",
+    "updated_at": "2025-06-08T23:38:53.902498"
+  },
+  "197": {
+    "instrument_id": "197",
+    "name": "Jones LLC",
+    "ticker": "IQEK",
+    "asset_class": "equity",
+    "status": "active",
+    "created_at": "2023-12-25T20:00:06.713877",
+    "updated_at": "2024-07-24T02:29:20.068260"
+  },
+  "198": {
+    "instrument_id": "198",
+    "name": "Davis, Huber and Mason",
+    "ticker": "XYDO",
+    "asset_class": "derivative",
+    "status": "inactive",
+    "created_at": "2024-01-22T16:48:06.839542",
+    "updated_at": "2025-01-28T23:38:08.822188"
+  },
+  "199": {
+    "instrument_id": "199",
+    "name": "Harris, Mcdonald and Garcia",
+    "ticker": "CMWM",
+    "asset_class": "debt",
+    "status": "active",
+    "created_at": "2024-06-03T03:50:21.981854",
+    "updated_at": "2025-01-05T23:52:03.129889"
+  },
+  "200": {
+    "instrument_id": "200",
+    "name": "Rivas, Montgomery and Wiggins",
+    "ticker": "BBWP",
+    "asset_class": "real_estate",
+    "status": "inactive",
+    "created_at": "2024-05-01T21:17:31.084292",
+    "updated_at": "2025-04-27T10:50:41.950683"
+  }
+}

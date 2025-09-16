@@ -1,0 +1,502 @@
+{
+  "1": {
+    "user_id": "1",
+    "first_name": "Megan",
+    "last_name": "Chang",
+    "email": "megan.chang82@gmail.com",
+    "role": "fund_manager",
+    "status": "active",
+    "created_at": "2024-07-19T08:59:13.690763",
+    "updated_at": "2024-11-05T23:07:51.239859"
+  },
+  "2": {
+    "user_id": "2",
+    "first_name": "William",
+    "last_name": "Sullivan",
+    "email": "william.sullivan41@icloud.com",
+    "role": "system_administrator",
+    "status": "deactivated",
+    "created_at": "2025-04-10T16:54:31.302686",
+    "updated_at": "2025-05-28T14:34:00.482772"
+  },
+  "3": {
+    "user_id": "3",
+    "first_name": "Thomas",
+    "last_name": "Silva",
+    "email": "thomas.silva98@outlook.com",
+    "role": "finance_officer",
+    "status": "deactivated",
+    "created_at": "2025-07-10T12:19:38.152615",
+    "updated_at": "2025-08-13T09:20:16.053245"
+  },
+  "4": {
+    "user_id": "4",
+    "first_name": "Juan",
+    "last_name": "Campos",
+    "email": "juan.campos37@gmail.com",
+    "role": "investor",
+    "status": "inactive",
+    "created_at": "2024-12-10T20:40:35.357337",
+    "updated_at": "2025-02-18T16:42:25.267424"
+  },
+  "5": {
+    "user_id": "5",
+    "first_name": "Renee",
+    "last_name": "Mcgrath",
+    "email": "renee.mcgrath10@yahoo.com",
+    "role": "system_administrator",
+    "status": "deactivated",
+    "created_at": "2025-04-30T00:04:03.837988",
+    "updated_at": "2025-09-02T01:44:11.429473"
+  },
+  "6": {
+    "user_id": "6",
+    "first_name": "Kyle",
+    "last_name": "Blair",
+    "email": "kyle.blair70@icloud.com",
+    "role": "investor",
+    "status": "active",
+    "created_at": "2025-07-03T17:43:46.120196",
+    "updated_at": "2025-08-23T06:47:15.638631"
+  },
+  "7": {
+    "user_id": "7",
+    "first_name": "Thomas",
+    "last_name": "Garcia",
+    "email": "thomas.garcia29@gmail.com",
+    "role": "trader",
+    "status": "inactive",
+    "created_at": "2024-07-29T07:25:12.980101",
+    "updated_at": "2025-04-07T19:18:49.456589"
+  },
+  "8": {
+    "user_id": "8",
+    "first_name": "Robin",
+    "last_name": "Levy",
+    "email": "robin.levy91@icloud.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2024-08-29T14:26:04.176186",
+    "updated_at": "2025-07-26T04:17:59.596896"
+  },
+  "9": {
+    "user_id": "9",
+    "first_name": "Jorge",
+    "last_name": "Trujillo",
+    "email": "jorge.trujillo57@icloud.com",
+    "role": "system_administrator",
+    "status": "active",
+    "created_at": "2024-10-20T23:15:39.149047",
+    "updated_at": "2024-10-25T14:21:30.908194"
+  },
+  "10": {
+    "user_id": "10",
+    "first_name": "Jennifer",
+    "last_name": "Ross",
+    "email": "jennifer.ross81@yahoo.com",
+    "role": "investor",
+    "status": "active",
+    "created_at": "2025-05-10T16:30:51.369586",
+    "updated_at": "2025-08-04T04:14:05.440772"
+  },
+  "11": {
+    "user_id": "11",
+    "first_name": "Aaron",
+    "last_name": "Snyder",
+    "email": "aaron.snyder78@gmail.com",
+    "role": "system_administrator",
+    "status": "deactivated",
+    "created_at": "2025-06-10T22:07:24.478186",
+    "updated_at": "2025-07-04T12:16:15.238902"
+  },
+  "12": {
+    "user_id": "12",
+    "first_name": "Mark",
+    "last_name": "Harrell",
+    "email": "mark.harrell68@outlook.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2024-02-02T17:25:28.529658",
+    "updated_at": "2025-01-03T01:45:41.995216"
+  },
+  "13": {
+    "user_id": "13",
+    "first_name": "John",
+    "last_name": "Ponce",
+    "email": "john.ponce66@yahoo.com",
+    "role": "trader",
+    "status": "deactivated",
+    "created_at": "2025-04-24T20:41:05.945370",
+    "updated_at": "2025-06-28T06:25:55.559521"
+  },
+  "14": {
+    "user_id": "14",
+    "first_name": "Christopher",
+    "last_name": "Flores",
+    "email": "christopher.flores81@outlook.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2024-09-21T04:41:58.519384",
+    "updated_at": "2025-08-22T11:50:08.790816"
+  },
+  "15": {
+    "user_id": "15",
+    "first_name": "Daniel",
+    "last_name": "Arnold",
+    "email": "daniel.arnold39@outlook.com",
+    "role": "system_administrator",
+    "status": "inactive",
+    "created_at": "2025-02-13T06:49:24.757915",
+    "updated_at": "2025-06-10T15:05:30.809498"
+  },
+  "16": {
+    "user_id": "16",
+    "first_name": "Lisa",
+    "last_name": "Fernandez",
+    "email": "lisa.fernandez50@gmail.com",
+    "role": "trader",
+    "status": "inactive",
+    "created_at": "2025-08-20T05:16:58.083838",
+    "updated_at": "2025-09-05T03:40:53.479056"
+  },
+  "17": {
+    "user_id": "17",
+    "first_name": "Briana",
+    "last_name": "Wallace",
+    "email": "briana.wallace35@outlook.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2024-11-24T17:32:35.142493",
+    "updated_at": "2025-03-18T05:45:35.355283"
+  },
+  "18": {
+    "user_id": "18",
+    "first_name": "Barbara",
+    "last_name": "Roberts",
+    "email": "barbara.roberts13@outlook.com",
+    "role": "fund_manager",
+    "status": "inactive",
+    "created_at": "2024-02-01T12:02:45.311758",
+    "updated_at": "2024-05-22T01:41:48.912839"
+  },
+  "19": {
+    "user_id": "19",
+    "first_name": "Chloe",
+    "last_name": "Douglas",
+    "email": "chloe.douglas82@outlook.com",
+    "role": "investor",
+    "status": "inactive",
+    "created_at": "2024-08-29T06:02:26.421316",
+    "updated_at": "2024-10-02T14:22:38.484489"
+  },
+  "20": {
+    "user_id": "20",
+    "first_name": "Katherine",
+    "last_name": "Mcdowell",
+    "email": "katherine.mcdowell4@outlook.com",
+    "role": "finance_officer",
+    "status": "deactivated",
+    "created_at": "2025-07-21T16:00:02.895257",
+    "updated_at": "2025-09-06T19:37:59.318897"
+  },
+  "21": {
+    "user_id": "21",
+    "first_name": "Rachael",
+    "last_name": "Leblanc",
+    "email": "rachael.leblanc15@yahoo.com",
+    "role": "trader",
+    "status": "deactivated",
+    "created_at": "2024-10-15T01:15:59.226411",
+    "updated_at": "2025-02-23T08:45:27.373384"
+  },
+  "22": {
+    "user_id": "22",
+    "first_name": "Janet",
+    "last_name": "Hill",
+    "email": "janet.hill9@yahoo.com",
+    "role": "investor",
+    "status": "active",
+    "created_at": "2025-05-01T00:48:46.768808",
+    "updated_at": "2025-08-25T22:11:06.709871"
+  },
+  "23": {
+    "user_id": "23",
+    "first_name": "Patty",
+    "last_name": "Lawrence",
+    "email": "patty.lawrence91@icloud.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2025-08-09T22:32:59.733319",
+    "updated_at": "2025-08-31T05:05:10.147299"
+  },
+  "24": {
+    "user_id": "24",
+    "first_name": "Shannon",
+    "last_name": "Keller",
+    "email": "shannon.keller39@gmail.com",
+    "role": "fund_manager",
+    "status": "active",
+    "created_at": "2025-09-12T21:38:32.248822",
+    "updated_at": "2025-09-15T09:47:56.093796"
+  },
+  "25": {
+    "user_id": "25",
+    "first_name": "Laura",
+    "last_name": "Miller",
+    "email": "laura.miller69@icloud.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2024-12-06T18:44:50.342060",
+    "updated_at": "2025-04-23T08:58:26.733576"
+  },
+  "26": {
+    "user_id": "26",
+    "first_name": "Crystal",
+    "last_name": "Bruce",
+    "email": "crystal.bruce37@icloud.com",
+    "role": "compliance_officer",
+    "status": "active",
+    "created_at": "2024-03-11T16:30:42.928004",
+    "updated_at": "2025-04-20T03:54:44.233545"
+  },
+  "27": {
+    "user_id": "27",
+    "first_name": "Dave",
+    "last_name": "Robinson",
+    "email": "dave.robinson46@gmail.com",
+    "role": "finance_officer",
+    "status": "active",
+    "created_at": "2025-04-18T13:58:31.136732",
+    "updated_at": "2025-06-07T11:31:43.174522"
+  },
+  "28": {
+    "user_id": "28",
+    "first_name": "Lisa",
+    "last_name": "Garcia",
+    "email": "lisa.garcia19@gmail.com",
+    "role": "system_administrator",
+    "status": "inactive",
+    "created_at": "2024-01-01T01:36:53.391929",
+    "updated_at": "2025-03-11T02:41:51.758723"
+  },
+  "29": {
+    "user_id": "29",
+    "first_name": "Brandon",
+    "last_name": "Berry",
+    "email": "brandon.berry52@icloud.com",
+    "role": "compliance_officer",
+    "status": "active",
+    "created_at": "2025-07-11T21:41:31.263259",
+    "updated_at": "2025-08-16T00:25:09.169742"
+  },
+  "30": {
+    "user_id": "30",
+    "first_name": "Erin",
+    "last_name": "Johnson",
+    "email": "erin.johnson10@gmail.com",
+    "role": "compliance_officer",
+    "status": "active",
+    "created_at": "2024-12-23T00:14:30.034199",
+    "updated_at": "2025-06-02T16:12:18.272537"
+  },
+  "31": {
+    "user_id": "31",
+    "first_name": "Barbara",
+    "last_name": "Myers",
+    "email": "barbara.myers66@yahoo.com",
+    "role": "investor",
+    "status": "active",
+    "created_at": "2024-06-12T12:50:37.760427",
+    "updated_at": "2025-09-06T16:06:18.115453"
+  },
+  "32": {
+    "user_id": "32",
+    "first_name": "Benjamin",
+    "last_name": "Smith",
+    "email": "benjamin.smith34@gmail.com",
+    "role": "finance_officer",
+    "status": "active",
+    "created_at": "2025-08-18T04:04:01.796527",
+    "updated_at": "2025-08-23T10:26:10.611214"
+  },
+  "33": {
+    "user_id": "33",
+    "first_name": "David",
+    "last_name": "Clark",
+    "email": "david.clark97@icloud.com",
+    "role": "fund_manager",
+    "status": "inactive",
+    "created_at": "2025-04-23T02:01:58.509414",
+    "updated_at": "2025-09-06T11:04:03.927222"
+  },
+  "34": {
+    "user_id": "34",
+    "first_name": "Andrew",
+    "last_name": "Coleman",
+    "email": "andrew.coleman48@icloud.com",
+    "role": "compliance_officer",
+    "status": "deactivated",
+    "created_at": "2023-11-29T07:10:52.253465",
+    "updated_at": "2024-05-17T21:27:23.815154"
+  },
+  "35": {
+    "user_id": "35",
+    "first_name": "Jeffrey",
+    "last_name": "Lucas",
+    "email": "jeffrey.lucas79@gmail.com",
+    "role": "fund_manager",
+    "status": "deactivated",
+    "created_at": "2024-05-29T00:54:49.503050",
+    "updated_at": "2024-08-22T14:47:41.337077"
+  },
+  "36": {
+    "user_id": "36",
+    "first_name": "William",
+    "last_name": "Williams",
+    "email": "william.williams45@yahoo.com",
+    "role": "finance_officer",
+    "status": "active",
+    "created_at": "2023-11-28T21:01:50.929985",
+    "updated_at": "2025-09-07T21:48:28.479112"
+  },
+  "37": {
+    "user_id": "37",
+    "first_name": "James",
+    "last_name": "Howard",
+    "email": "james.howard35@icloud.com",
+    "role": "trader",
+    "status": "deactivated",
+    "created_at": "2025-03-03T13:45:30.215202",
+    "updated_at": "2025-08-14T22:29:43.330981"
+  },
+  "38": {
+    "user_id": "38",
+    "first_name": "Samantha",
+    "last_name": "Jackson",
+    "email": "samantha.jackson34@gmail.com",
+    "role": "trader",
+    "status": "active",
+    "created_at": "2025-01-19T12:08:22.375132",
+    "updated_at": "2025-09-07T15:16:06.877054"
+  },
+  "39": {
+    "user_id": "39",
+    "first_name": "Brian",
+    "last_name": "Lowe",
+    "email": "brian.lowe8@outlook.com",
+    "role": "trader",
+    "status": "inactive",
+    "created_at": "2025-05-25T17:18:22.422698",
+    "updated_at": "2025-07-03T08:57:11.607442"
+  },
+  "40": {
+    "user_id": "40",
+    "first_name": "John",
+    "last_name": "Carlson",
+    "email": "john.carlson82@yahoo.com",
+    "role": "finance_officer",
+    "status": "active",
+    "created_at": "2024-08-04T06:09:55.381074",
+    "updated_at": "2024-10-14T11:23:23.454341"
+  },
+  "41": {
+    "user_id": "41",
+    "first_name": "Thomas",
+    "last_name": "Ortiz",
+    "email": "thomas.ortiz38@yahoo.com",
+    "role": "compliance_officer",
+    "status": "active",
+    "created_at": "2024-11-04T21:08:21.950809",
+    "updated_at": "2025-04-13T23:09:35.748226"
+  },
+  "42": {
+    "user_id": "42",
+    "first_name": "Larry",
+    "last_name": "Howard",
+    "email": "larry.howard63@outlook.com",
+    "role": "investor",
+    "status": "deactivated",
+    "created_at": "2025-05-20T01:12:06.074024",
+    "updated_at": "2025-06-18T19:22:03.616457"
+  },
+  "43": {
+    "user_id": "43",
+    "first_name": "Ann",
+    "last_name": "Smith",
+    "email": "ann.smith97@icloud.com",
+    "role": "fund_manager",
+    "status": "deactivated",
+    "created_at": "2025-03-10T20:39:14.704625",
+    "updated_at": "2025-05-13T06:33:19.695863"
+  },
+  "44": {
+    "user_id": "44",
+    "first_name": "Brandon",
+    "last_name": "Campbell",
+    "email": "brandon.campbell98@yahoo.com",
+    "role": "compliance_officer",
+    "status": "deactivated",
+    "created_at": "2024-03-09T13:34:44.770697",
+    "updated_at": "2025-08-20T14:51:09.457626"
+  },
+  "45": {
+    "user_id": "45",
+    "first_name": "Michael",
+    "last_name": "Roberts",
+    "email": "michael.roberts13@outlook.com",
+    "role": "trader",
+    "status": "deactivated",
+    "created_at": "2024-06-04T13:04:15.705241",
+    "updated_at": "2025-08-21T18:46:43.693934"
+  },
+  "46": {
+    "user_id": "46",
+    "first_name": "Cynthia",
+    "last_name": "Oliver",
+    "email": "cynthia.oliver66@yahoo.com",
+    "role": "finance_officer",
+    "status": "inactive",
+    "created_at": "2025-02-19T21:37:22.827909",
+    "updated_at": "2025-05-11T12:07:52.731715"
+  },
+  "47": {
+    "user_id": "47",
+    "first_name": "Robert",
+    "last_name": "Curtis",
+    "email": "robert.curtis22@icloud.com",
+    "role": "trader",
+    "status": "inactive",
+    "created_at": "2023-09-17T06:26:59.933476",
+    "updated_at": "2024-02-04T12:47:22.053430"
+  },
+  "48": {
+    "user_id": "48",
+    "first_name": "Matthew",
+    "last_name": "Allen",
+    "email": "matthew.allen86@icloud.com",
+    "role": "system_administrator",
+    "status": "deactivated",
+    "created_at": "2024-12-24T18:18:30.255991",
+    "updated_at": "2025-04-04T01:21:04.652327"
+  },
+  "49": {
+    "user_id": "49",
+    "first_name": "Nancy",
+    "last_name": "Carroll",
+    "email": "nancy.carroll65@gmail.com",
+    "role": "system_administrator",
+    "status": "inactive",
+    "created_at": "2024-07-14T20:54:07.513714",
+    "updated_at": "2025-01-02T22:42:53.880197"
+  },
+  "50": {
+    "user_id": "50",
+    "first_name": "Jacqueline",
+    "last_name": "Barnes",
+    "email": "jacqueline.barnes98@icloud.com",
+    "role": "trader",
+    "status": "deactivated",
+    "created_at": "2025-01-11T21:01:42.697264",
+    "updated_at": "2025-01-23T10:04:04.483582"
+  }
+}

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+
+    <title>Task Framework - Turing Tooling</title>
+    <script src="https://unpkg.com/vis-network@9.1.2/dist/vis-network.min.js"></script>
+    <link href="https://unpkg.com/vis-network@9.1.2/styles/vis-network.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/task_framework.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/task_framework_inline.css') }}">
+</head>
+
+<body>
+    <header class="dashboard-header">
+        <div class="logo">
+            <a href="/">
+                <img id="image-logo" src="{{ url_for('static', filename='images/turing-logo-new.jpg') }}" alt="turing image">
+            </a>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <main class="content-area">
+            <div class="selector-container">
+                <h1 class="selector-title">Task Framework</h1>
+                <div class="form-group">
+                    <label for="environment" class="form-label">Environment</label>
+                    <div class="input-container">
+                        <span class="input-icon">🌍</span>
+                        <input type="text" id="environment" class="form-input"
+                            placeholder="Enter environment name (e.g., hr_payroll)" value="">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="interface" class="form-label">Interface</label>
+                    <div class="input-container">
+                        <span class="input-icon">🔧</span>
+                        <select id="interface" class="form-select">
+                            <option value="">Select an interface</option>
+                            <option value="1">Interface 1</option>
+                            <option value="2">Interface 2</option>
+                            <option value="3">Interface 3</option>
+                            <option value="4">Interface 4</option>
+                            <option value="5">Interface 5</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="go-button-container">
+                    <button id="go-button" class="go-button">
+                        🚀 GO
+                    </button>
+                </div>
+            </div>
+
+            <div id="actions">
+                <div class="add-action-container">
+                    <button id="add-action-button" class="add-action-button">
+                        +
+                    </button>
+                    <span class="add-action-text">Add Action</span>
+                </div>
+
+                <div id="api-actions-container">
+                    <!-- Dynamic API actions will be added here -->
+                </div>
+
+                <div class="import-export-container">
+                    <div>
+                        <input type="file" id="fileInput" accept=".json" class="hidden-file-input">
+                        <button id="import-button" class="import-button">
+                            Import Actions
+                        </button>
+                    </div>
+
+                    <div>
+                        <button id="export-button" class="export-button">
+                            Export Actions
+                        </button>
+                    </div>
+                    <div>
+                        <button id="run-all-btn" class="run-all-button">
+                            🚀 Run All Actions
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Difference between actions -->
+            <div class="diff-container">
+                <div class="diff-header" id="diff-header">
+                    <div class="diff-title">
+                        Task Difference Analyzer
+                    </div>
+                    <button class="diff-toggle" id="diff-toggle">
+                        ▼
+                    </button>
+                </div>
+
+                <div id="task-diff-content">
+                    <h1>Task Diff Analyzer</h1>
+                    <div class="input-section">
+                        <div class="input-group">
+                            <label for="text1">📄 Original Task</label>
+                            <textarea class="textarea-diff" id="text1" placeholder="Paste your original text here...">The quick brown fox jumps over the lazy dog.
+            This is a sample text for comparison.
+            You can modify this text to see differences.</textarea>
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="text2">📝 New Task</label>
+                            <textarea class="textarea-diff" id="text2" placeholder="Paste your modified text here...">The quick red fox jumps over the sleepy cat.
+            This is a sample text for comparison and analysis.
+            You can modify this content to see differences highlighted.</textarea>
+                        </div>
+                    </div>
+                    
+                    <div class="controls-diff">
+                        <button id="compare-button" class="button-diff">🔍 Compare Texts</button>
+                        <button id="clear-all-button" class="button-diff">🗑️ Clear All</button>
+                        <button id="swap-texts-button" class="button-diff">🔄 Swap Texts</button>
+                    </div>
+                    
+                    <div class="stats stats-hidden" id="stats">
+                        <div class="stat-item">
+                            <div class="stat-number" id="addedCount">0</div>
+                            <div class="stat-label">Added</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number" id="removedCount">0</div>
+                            <div class="stat-label">Removed</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number" id="unchangedCount">0</div>
+                            <div class="stat-label">Unchanged</div>
+                        </div>
+                    </div>
+                    
+                    <div class="diff-section">
+                        <div class="diff-panel">
+                            <div class="diff-header">🔴 Old task</div>
+                            <div class="diff-content" id="originalDiff">
+                                <div class="empty-state">Click "Compare Texts" to see the original text with deletions highlighted</div>
+                            </div>
+                        </div>
+                        
+                        <div class="diff-panel">
+                            <div class="diff-header">🟢 New task</div>
+                            <div class="diff-content" id="modifiedDiff">
+                                <div class="empty-state">Click "Compare Texts" to see the modified text with additions highlighted</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Edge Creation Section -->
+            <div class="edge-creation-container">
+                <div class="edge-creation-header" id="edge-creation-header">
+                    <div class="edge-creation-title">
+                        Edge Creation Playground
+                    </div>
+                    <button class="edge-creation-toggle" id="edge-creation-toggle">
+                        ▼
+                    </button>
+                </div>
+                <div class="edge-creation-content" id="edge-creation-content">
+                    <textarea id="edge-creation-prompt" rows="4" class="edge-creation-textarea"
+                        placeholder="Enter edge creation prompt here..."></textarea>
+                </div>
+            </div>
+
+            <!-- Graph Editor Section -->
+            <div class="graph-editor-container">
+                <div class="graph-editor-header" id="graph-editor-header">
+                    <div class="graph-editor-title">
+                        Graph Editor Playground
+                    </div>
+                    <button class="graph-editor-toggle" id="graph-toggle">
+                        ▼
+                    </button>
+                </div>
+                <div class="graph-editor-content" id="graph-editor-content">
+                    <div class="graph-controls">
+                        <button id="graph-import-button" class="graph-import-button">
+                            📥 Import Graph
+                        </button>
+                        <button id="graph-export-button" class="graph-export-button">
+                            📤 Export Graph
+                        </button>
+                        <button id="populate-nodes-button" class="graph-import-button">
+                            📝 Populate Nodes from Actions
+                        </button>
+                    </div>
+                    <div id="network"></div>
+                    <input type="file" id="graphFileInput" accept=".json" class="graph-file-input-hidden">
+                </div>
+            </div>
+
+            <!-- <div class="save-button-container">
+                <button id="save-page-button" class="save-button">
+                    Save Page
+                </button>
+            </div> -->
+        </main>
+    </div>
+    
+    <script>
+        // Event Listeners - implementations to be added
+        document.addEventListener('DOMContentLoaded', function() {
+            // Main action buttons
+            document.getElementById('go-button').addEventListener('click', handleGo);
+            document.getElementById('add-action-button').addEventListener('click', addAction);
+            document.getElementById('import-button').addEventListener('click', importActions);
+            document.getElementById('export-button').addEventListener('click', exportActions);
+            document.getElementById('run-all-btn').addEventListener('click', runAllActions);
+            
+            // Diff analyzer buttons
+            document.getElementById('diff-header').addEventListener('click', toggleDiff);
+            document.getElementById('compare-button').addEventListener('click', compareDiff);
+            document.getElementById('clear-all-button').addEventListener('click', clearAll);
+            document.getElementById('swap-texts-button').addEventListener('click', swapTexts);
+            
+            // Edge creation section
+            document.getElementById('edge-creation-header').addEventListener('click', toggleEdgeCreation);
+            
+            // Graph editor buttons
+            document.getElementById('graph-editor-header').addEventListener('click', toggleGraphEditor);
+            document.getElementById('graph-import-button').addEventListener('click', importGraphJSON);
+            document.getElementById('graph-export-button').addEventListener('click', exportGraphJSON);
+            document.getElementById('populate-nodes-button').addEventListener('click', populateNodesFromActions);
+            
+            // Save button
+            // document.getElementById('save-page-button').addEventListener('click', saveFilteredHTML);
+        });
+
+    </script>
+
+    <script src="{{ url_for('static', filename='scripts/actions_processing.js') }}"></script>
+    <script src="{{ url_for('static', filename='scripts/graph_editor.js') }}"></script>
+    <script src="{{ url_for('static', filename='scripts/edge_creation.js') }}"></script>
+    <script src="{{ url_for('static', filename='scripts/task_difference.js') }}"></script>
+</body>
+
+</html>

@@ -1,0 +1,3822 @@
+{
+  "1": {
+    "payment_id": "1",
+    "reference_id": "167",
+    "reference_type": "subscription",
+    "amount": "271991.4404",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-08T08:55:41.152791"
+  },
+  "2": {
+    "payment_id": "2",
+    "reference_id": "293",
+    "reference_type": "subscription",
+    "amount": "851833.5352",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-07-01T17:04:51.818375"
+  },
+  "3": {
+    "payment_id": "3",
+    "reference_id": "259",
+    "reference_type": "subscription",
+    "amount": "291459.6125",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-05-25T06:48:57.303491"
+  },
+  "4": {
+    "payment_id": "4",
+    "reference_id": "147",
+    "reference_type": "subscription",
+    "amount": "128713.4000",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-03-03T01:52:09.303934"
+  },
+  "5": {
+    "payment_id": "5",
+    "reference_id": "20",
+    "reference_type": "subscription",
+    "amount": "437685.6541",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-02-05T22:43:42.441412"
+  },
+  "6": {
+    "payment_id": "6",
+    "reference_id": "72",
+    "reference_type": "subscription",
+    "amount": "467344.0919",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-07-30T05:09:42.309233"
+  },
+  "7": {
+    "payment_id": "7",
+    "reference_id": "19",
+    "reference_type": "subscription",
+    "amount": "744036.2325",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2024-12-02T19:13:17.659892"
+  },
+  "8": {
+    "payment_id": "8",
+    "reference_id": "36",
+    "reference_type": "subscription",
+    "amount": "389048.4546",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-04-17T08:07:04.163505"
+  },
+  "9": {
+    "payment_id": "9",
+    "reference_id": "103",
+    "reference_type": "subscription",
+    "amount": "974360.3866",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2024-11-23T00:53:02.868373"
+  },
+  "10": {
+    "payment_id": "10",
+    "reference_id": "16",
+    "reference_type": "subscription",
+    "amount": "475903.3689",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2025-08-21T21:08:58.005414"
+  },
+  "11": {
+    "payment_id": "11",
+    "reference_id": "100",
+    "reference_type": "subscription",
+    "amount": "584496.2460",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2024-10-22T05:14:26.456900"
+  },
+  "12": {
+    "payment_id": "12",
+    "reference_id": "291",
+    "reference_type": "subscription",
+    "amount": "381700.6524",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-08-23T14:24:01.110089"
+  },
+  "13": {
+    "payment_id": "13",
+    "reference_id": "256",
+    "reference_type": "subscription",
+    "amount": "749931.6494",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-08-08T21:23:46.487211"
+  },
+  "14": {
+    "payment_id": "14",
+    "reference_id": "125",
+    "reference_type": "subscription",
+    "amount": "78461.9334",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-09-03T20:48:24.443805"
+  },
+  "15": {
+    "payment_id": "15",
+    "reference_id": "288",
+    "reference_type": "subscription",
+    "amount": "442585.6868",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-06-05T20:17:41.385445"
+  },
+  "16": {
+    "payment_id": "16",
+    "reference_id": "250",
+    "reference_type": "subscription",
+    "amount": "856040.7741",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-08-26T15:03:14.007306"
+  },
+  "17": {
+    "payment_id": "17",
+    "reference_id": "151",
+    "reference_type": "subscription",
+    "amount": "698738.4120",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-09-20T19:41:09.777111"
+  },
+  "18": {
+    "payment_id": "18",
+    "reference_id": "201",
+    "reference_type": "subscription",
+    "amount": "598817.5051",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-01-25T20:55:54.070343"
+  },
+  "19": {
+    "payment_id": "19",
+    "reference_id": "287",
+    "reference_type": "subscription",
+    "amount": "258558.1282",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-03-27T06:44:14.157139"
+  },
+  "20": {
+    "payment_id": "20",
+    "reference_id": "239",
+    "reference_type": "subscription",
+    "amount": "470017.0430",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-04-10T05:57:33.506594"
+  },
+  "21": {
+    "payment_id": "21",
+    "reference_id": "113",
+    "reference_type": "subscription",
+    "amount": "695822.7253",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-09-26T02:27:56.560166"
+  },
+  "22": {
+    "payment_id": "22",
+    "reference_id": "319",
+    "reference_type": "subscription",
+    "amount": "541174.6778",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-07-29T23:55:37.003360"
+  },
+  "23": {
+    "payment_id": "23",
+    "reference_id": "21",
+    "reference_type": "subscription",
+    "amount": "530209.4015",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2024-11-04T17:36:01.392416"
+  },
+  "24": {
+    "payment_id": "24",
+    "reference_id": "310",
+    "reference_type": "subscription",
+    "amount": "769982.1969",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "3",
+    "transaction_date": "2024-11-04T15:23:41.898280"
+  },
+  "25": {
+    "payment_id": "25",
+    "reference_id": "107",
+    "reference_type": "subscription",
+    "amount": "830558.1874",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-10-13T01:23:15.526167"
+  },
+  "26": {
+    "payment_id": "26",
+    "reference_id": "57",
+    "reference_type": "subscription",
+    "amount": "192168.7170",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-08-08T10:54:15.247475"
+  },
+  "27": {
+    "payment_id": "27",
+    "reference_id": "296",
+    "reference_type": "subscription",
+    "amount": "341860.3629",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-12-03T06:14:22.690584"
+  },
+  "28": {
+    "payment_id": "28",
+    "reference_id": "295",
+    "reference_type": "subscription",
+    "amount": "548107.1812",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-04-30T13:39:22.082283"
+  },
+  "29": {
+    "payment_id": "29",
+    "reference_id": "172",
+    "reference_type": "subscription",
+    "amount": "268119.4699",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-08-10T01:28:43.411641"
+  },
+  "30": {
+    "payment_id": "30",
+    "reference_id": "31",
+    "reference_type": "subscription",
+    "amount": "612269.3487",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-05-26T09:54:08.605784"
+  },
+  "31": {
+    "payment_id": "31",
+    "reference_id": "243",
+    "reference_type": "subscription",
+    "amount": "209726.6610",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-05-23T20:34:17.175162"
+  },
+  "32": {
+    "payment_id": "32",
+    "reference_id": "215",
+    "reference_type": "subscription",
+    "amount": "206835.4064",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-07-10T13:09:48.736032"
+  },
+  "33": {
+    "payment_id": "33",
+    "reference_id": "92",
+    "reference_type": "subscription",
+    "amount": "603211.1373",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-10-15T02:15:49.386863"
+  },
+  "34": {
+    "payment_id": "34",
+    "reference_id": "134",
+    "reference_type": "subscription",
+    "amount": "481500.1087",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-12T13:33:30.259943"
+  },
+  "35": {
+    "payment_id": "35",
+    "reference_id": "284",
+    "reference_type": "subscription",
+    "amount": "142895.4373",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-02-14T12:53:33.653539"
+  },
+  "36": {
+    "payment_id": "36",
+    "reference_id": "308",
+    "reference_type": "subscription",
+    "amount": "428371.3915",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-06-04T04:56:02.161342"
+  },
+  "37": {
+    "payment_id": "37",
+    "reference_id": "281",
+    "reference_type": "subscription",
+    "amount": "441611.5463",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-05-11T06:35:28.195226"
+  },
+  "38": {
+    "payment_id": "38",
+    "reference_id": "199",
+    "reference_type": "subscription",
+    "amount": "623686.9335",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-08T01:50:46.376304"
+  },
+  "39": {
+    "payment_id": "39",
+    "reference_id": "268",
+    "reference_type": "subscription",
+    "amount": "982403.8240",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-04-10T20:36:31.598203"
+  },
+  "40": {
+    "payment_id": "40",
+    "reference_id": "24",
+    "reference_type": "subscription",
+    "amount": "101014.1023",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-06-21T19:20:02.155414"
+  },
+  "41": {
+    "payment_id": "41",
+    "reference_id": "197",
+    "reference_type": "subscription",
+    "amount": "458449.9690",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-08-11T23:01:26.147653"
+  },
+  "42": {
+    "payment_id": "42",
+    "reference_id": "7",
+    "reference_type": "subscription",
+    "amount": "785256.3991",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-08-06T00:09:31.662605"
+  },
+  "43": {
+    "payment_id": "43",
+    "reference_id": "8",
+    "reference_type": "subscription",
+    "amount": "609692.3533",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-11-23T20:21:40.104003"
+  },
+  "44": {
+    "payment_id": "44",
+    "reference_id": "315",
+    "reference_type": "subscription",
+    "amount": "76265.2777",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-02-10T16:48:47.380902"
+  },
+  "45": {
+    "payment_id": "45",
+    "reference_id": "139",
+    "reference_type": "subscription",
+    "amount": "958509.4544",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-08-19T08:59:40.424509"
+  },
+  "46": {
+    "payment_id": "46",
+    "reference_id": "77",
+    "reference_type": "subscription",
+    "amount": "270521.6920",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-04-21T12:56:53.763038"
+  },
+  "47": {
+    "payment_id": "47",
+    "reference_id": "97",
+    "reference_type": "subscription",
+    "amount": "232305.6481",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-10-13T12:37:45.878723"
+  },
+  "48": {
+    "payment_id": "48",
+    "reference_id": "266",
+    "reference_type": "subscription",
+    "amount": "778538.0061",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2024-12-11T21:34:50.939063"
+  },
+  "49": {
+    "payment_id": "49",
+    "reference_id": "273",
+    "reference_type": "subscription",
+    "amount": "916152.7819",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-12-31T06:40:16.599859"
+  },
+  "50": {
+    "payment_id": "50",
+    "reference_id": "182",
+    "reference_type": "subscription",
+    "amount": "459574.3082",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-06-02T05:42:56.453018"
+  },
+  "51": {
+    "payment_id": "51",
+    "reference_id": "127",
+    "reference_type": "subscription",
+    "amount": "50111.0199",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-02-21T10:34:21.805317"
+  },
+  "52": {
+    "payment_id": "52",
+    "reference_id": "15",
+    "reference_type": "subscription",
+    "amount": "124149.9979",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-02-12T02:13:37.581843"
+  },
+  "53": {
+    "payment_id": "53",
+    "reference_id": "101",
+    "reference_type": "subscription",
+    "amount": "987029.0276",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-07-01T13:36:39.828607"
+  },
+  "54": {
+    "payment_id": "54",
+    "reference_id": "81",
+    "reference_type": "subscription",
+    "amount": "388612.5265",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-10-08T04:45:38.518543"
+  },
+  "55": {
+    "payment_id": "55",
+    "reference_id": "137",
+    "reference_type": "subscription",
+    "amount": "971739.4796",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-02-05T10:57:04.011851"
+  },
+  "56": {
+    "payment_id": "56",
+    "reference_id": "83",
+    "reference_type": "subscription",
+    "amount": "108510.0007",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-09-09T11:05:06.053189"
+  },
+  "57": {
+    "payment_id": "57",
+    "reference_id": "270",
+    "reference_type": "subscription",
+    "amount": "267498.3740",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-07T00:23:52.888760"
+  },
+  "58": {
+    "payment_id": "58",
+    "reference_id": "237",
+    "reference_type": "subscription",
+    "amount": "704316.8128",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-07-04T05:09:51.395291"
+  },
+  "59": {
+    "payment_id": "59",
+    "reference_id": "254",
+    "reference_type": "subscription",
+    "amount": "121011.5787",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-10-22T15:26:16.737896"
+  },
+  "60": {
+    "payment_id": "60",
+    "reference_id": "314",
+    "reference_type": "subscription",
+    "amount": "637768.0511",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-10-26T15:16:43.963397"
+  },
+  "61": {
+    "payment_id": "61",
+    "reference_id": "253",
+    "reference_type": "subscription",
+    "amount": "488646.4067",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-09-22T19:12:22.338112"
+  },
+  "62": {
+    "payment_id": "62",
+    "reference_id": "123",
+    "reference_type": "subscription",
+    "amount": "776032.5754",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-10-01T12:36:29.784767"
+  },
+  "63": {
+    "payment_id": "63",
+    "reference_id": "75",
+    "reference_type": "subscription",
+    "amount": "593354.5862",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-09-01T21:57:41.529224"
+  },
+  "64": {
+    "payment_id": "64",
+    "reference_id": "142",
+    "reference_type": "subscription",
+    "amount": "883613.4728",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-08-25T22:53:20.031191"
+  },
+  "65": {
+    "payment_id": "65",
+    "reference_id": "88",
+    "reference_type": "subscription",
+    "amount": "616582.3088",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-08-31T04:14:01.972422"
+  },
+  "66": {
+    "payment_id": "66",
+    "reference_id": "307",
+    "reference_type": "subscription",
+    "amount": "241828.8426",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-04-08T17:19:22.338891"
+  },
+  "67": {
+    "payment_id": "67",
+    "reference_id": "238",
+    "reference_type": "subscription",
+    "amount": "445283.7472",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-11-06T16:24:51.929776"
+  },
+  "68": {
+    "payment_id": "68",
+    "reference_id": "248",
+    "reference_type": "subscription",
+    "amount": "449928.3182",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2024-10-19T21:26:41.838050"
+  },
+  "69": {
+    "payment_id": "69",
+    "reference_id": "2",
+    "reference_type": "subscription",
+    "amount": "868608.7046",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-07-20T04:35:41.399164"
+  },
+  "70": {
+    "payment_id": "70",
+    "reference_id": "143",
+    "reference_type": "subscription",
+    "amount": "759109.4839",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-04-12T14:52:36.443189"
+  },
+  "71": {
+    "payment_id": "71",
+    "reference_id": "185",
+    "reference_type": "subscription",
+    "amount": "101932.8016",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-09-04T00:32:55.103945"
+  },
+  "72": {
+    "payment_id": "72",
+    "reference_id": "91",
+    "reference_type": "subscription",
+    "amount": "141757.5453",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-11-29T07:28:30.608662"
+  },
+  "73": {
+    "payment_id": "73",
+    "reference_id": "102",
+    "reference_type": "subscription",
+    "amount": "937389.2151",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2024-12-10T16:07:03.899947"
+  },
+  "74": {
+    "payment_id": "74",
+    "reference_id": "177",
+    "reference_type": "subscription",
+    "amount": "958596.3768",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-06-27T17:58:32.646704"
+  },
+  "75": {
+    "payment_id": "75",
+    "reference_id": "65",
+    "reference_type": "subscription",
+    "amount": "70735.6795",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-10-11T20:02:46.521869"
+  },
+  "76": {
+    "payment_id": "76",
+    "reference_id": "87",
+    "reference_type": "subscription",
+    "amount": "446316.2684",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-05-13T23:07:37.546761"
+  },
+  "77": {
+    "payment_id": "77",
+    "reference_id": "114",
+    "reference_type": "subscription",
+    "amount": "531640.2612",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-12-03T23:20:35.059951"
+  },
+  "78": {
+    "payment_id": "78",
+    "reference_id": "71",
+    "reference_type": "subscription",
+    "amount": "750024.1882",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-05-12T12:56:43.486315"
+  },
+  "79": {
+    "payment_id": "79",
+    "reference_id": "148",
+    "reference_type": "subscription",
+    "amount": "472358.0356",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-07-01T03:47:20.869591"
+  },
+  "80": {
+    "payment_id": "80",
+    "reference_id": "174",
+    "reference_type": "subscription",
+    "amount": "66191.5200",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-08-11T13:00:39.749449"
+  },
+  "81": {
+    "payment_id": "81",
+    "reference_id": "242",
+    "reference_type": "subscription",
+    "amount": "758350.8315",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-07-25T07:14:58.256857"
+  },
+  "82": {
+    "payment_id": "82",
+    "reference_id": "165",
+    "reference_type": "subscription",
+    "amount": "175207.6628",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-03-31T04:08:55.434545"
+  },
+  "83": {
+    "payment_id": "83",
+    "reference_id": "235",
+    "reference_type": "subscription",
+    "amount": "189739.3474",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-05-30T14:11:53.952446"
+  },
+  "84": {
+    "payment_id": "84",
+    "reference_id": "207",
+    "reference_type": "subscription",
+    "amount": "891858.9995",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-01-20T16:25:36.424298"
+  },
+  "85": {
+    "payment_id": "85",
+    "reference_id": "208",
+    "reference_type": "subscription",
+    "amount": "385077.5187",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-05-16T21:48:13.969409"
+  },
+  "86": {
+    "payment_id": "86",
+    "reference_id": "282",
+    "reference_type": "subscription",
+    "amount": "177550.0374",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-04-26T07:31:21.331395"
+  },
+  "87": {
+    "payment_id": "87",
+    "reference_id": "69",
+    "reference_type": "subscription",
+    "amount": "999319.0721",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-02-21T05:45:12.383690"
+  },
+  "88": {
+    "payment_id": "88",
+    "reference_id": "244",
+    "reference_type": "subscription",
+    "amount": "564909.9819",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-01-31T20:12:04.474291"
+  },
+  "89": {
+    "payment_id": "89",
+    "reference_id": "128",
+    "reference_type": "subscription",
+    "amount": "656753.7593",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-03-11T00:18:24.157645"
+  },
+  "90": {
+    "payment_id": "90",
+    "reference_id": "299",
+    "reference_type": "subscription",
+    "amount": "195919.5957",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-08-23T08:57:08.420244"
+  },
+  "91": {
+    "payment_id": "91",
+    "reference_id": "252",
+    "reference_type": "subscription",
+    "amount": "139199.6908",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-07-13T01:28:20.802529"
+  },
+  "92": {
+    "payment_id": "92",
+    "reference_id": "48",
+    "reference_type": "subscription",
+    "amount": "211606.1766",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-09-18T00:49:53.772701"
+  },
+  "93": {
+    "payment_id": "93",
+    "reference_id": "317",
+    "reference_type": "subscription",
+    "amount": "646690.9297",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-05T02:41:19.472074"
+  },
+  "94": {
+    "payment_id": "94",
+    "reference_id": "221",
+    "reference_type": "subscription",
+    "amount": "604979.9794",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-02-09T07:54:58.270775"
+  },
+  "95": {
+    "payment_id": "95",
+    "reference_id": "227",
+    "reference_type": "subscription",
+    "amount": "811724.6438",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-09-07T16:09:42.881237"
+  },
+  "96": {
+    "payment_id": "96",
+    "reference_id": "130",
+    "reference_type": "subscription",
+    "amount": "754507.3137",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-11-01T23:48:49.191174"
+  },
+  "97": {
+    "payment_id": "97",
+    "reference_id": "278",
+    "reference_type": "subscription",
+    "amount": "162829.5425",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-22T11:36:50.806101"
+  },
+  "98": {
+    "payment_id": "98",
+    "reference_id": "233",
+    "reference_type": "subscription",
+    "amount": "796565.4067",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-03-13T09:55:06.415984"
+  },
+  "99": {
+    "payment_id": "99",
+    "reference_id": "145",
+    "reference_type": "subscription",
+    "amount": "171142.0090",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-12-21T23:25:19.966256"
+  },
+  "100": {
+    "payment_id": "100",
+    "reference_id": "170",
+    "reference_type": "subscription",
+    "amount": "499488.7125",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-08-19T01:29:43.348178"
+  },
+  "101": {
+    "payment_id": "101",
+    "reference_id": "37",
+    "reference_type": "subscription",
+    "amount": "583290.4513",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-04-08T12:53:36.954088"
+  },
+  "102": {
+    "payment_id": "102",
+    "reference_id": "216",
+    "reference_type": "subscription",
+    "amount": "612164.9669",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-06-29T05:00:26.766179"
+  },
+  "103": {
+    "payment_id": "103",
+    "reference_id": "269",
+    "reference_type": "subscription",
+    "amount": "282278.9902",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-02-14T14:30:03.735773"
+  },
+  "104": {
+    "payment_id": "104",
+    "reference_id": "212",
+    "reference_type": "subscription",
+    "amount": "98005.1489",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-01-11T22:11:35.761757"
+  },
+  "105": {
+    "payment_id": "105",
+    "reference_id": "76",
+    "reference_type": "subscription",
+    "amount": "565188.4723",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-08-01T17:34:41.719673"
+  },
+  "106": {
+    "payment_id": "106",
+    "reference_id": "132",
+    "reference_type": "subscription",
+    "amount": "693721.2694",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-02-13T21:01:46.797757"
+  },
+  "107": {
+    "payment_id": "107",
+    "reference_id": "316",
+    "reference_type": "subscription",
+    "amount": "706530.5799",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-11-19T08:14:31.011946"
+  },
+  "108": {
+    "payment_id": "108",
+    "reference_id": "179",
+    "reference_type": "subscription",
+    "amount": "853180.6417",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-12T06:41:27.942272"
+  },
+  "109": {
+    "payment_id": "109",
+    "reference_id": "89",
+    "reference_type": "subscription",
+    "amount": "509062.4537",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-06-14T00:44:23.550893"
+  },
+  "110": {
+    "payment_id": "110",
+    "reference_id": "110",
+    "reference_type": "subscription",
+    "amount": "542784.9736",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-08-14T06:14:29.137465"
+  },
+  "111": {
+    "payment_id": "111",
+    "reference_id": "158",
+    "reference_type": "subscription",
+    "amount": "664738.2086",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-05-20T00:56:34.369570"
+  },
+  "112": {
+    "payment_id": "112",
+    "reference_id": "90",
+    "reference_type": "subscription",
+    "amount": "995166.7892",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-01-09T00:44:04.246286"
+  },
+  "113": {
+    "payment_id": "113",
+    "reference_id": "61",
+    "reference_type": "subscription",
+    "amount": "945214.8359",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-11-25T16:06:32.053840"
+  },
+  "114": {
+    "payment_id": "114",
+    "reference_id": "22",
+    "reference_type": "subscription",
+    "amount": "569880.4252",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-04-17T20:49:12.313031"
+  },
+  "115": {
+    "payment_id": "115",
+    "reference_id": "63",
+    "reference_type": "subscription",
+    "amount": "361787.4407",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-11T19:55:43.308739"
+  },
+  "116": {
+    "payment_id": "116",
+    "reference_id": "184",
+    "reference_type": "subscription",
+    "amount": "466327.1734",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2024-10-25T04:30:31.452153"
+  },
+  "117": {
+    "payment_id": "117",
+    "reference_id": "169",
+    "reference_type": "subscription",
+    "amount": "759907.9625",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-06-23T15:04:07.514771"
+  },
+  "118": {
+    "payment_id": "118",
+    "reference_id": "53",
+    "reference_type": "subscription",
+    "amount": "947642.1561",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-07-24T12:04:08.969917"
+  },
+  "119": {
+    "payment_id": "119",
+    "reference_id": "115",
+    "reference_type": "subscription",
+    "amount": "86000.2763",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-04-08T11:18:03.034455"
+  },
+  "120": {
+    "payment_id": "120",
+    "reference_id": "258",
+    "reference_type": "subscription",
+    "amount": "249389.5090",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2025-05-03T00:17:12.681808"
+  },
+  "121": {
+    "payment_id": "121",
+    "reference_id": "140",
+    "reference_type": "subscription",
+    "amount": "83068.4689",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2025-09-10T16:55:42.150912"
+  },
+  "122": {
+    "payment_id": "122",
+    "reference_id": "260",
+    "reference_type": "subscription",
+    "amount": "965630.4065",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-06-13T11:47:28.613786"
+  },
+  "123": {
+    "payment_id": "123",
+    "reference_id": "226",
+    "reference_type": "subscription",
+    "amount": "526812.9301",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-02T20:00:46.502908"
+  },
+  "124": {
+    "payment_id": "124",
+    "reference_id": "187",
+    "reference_type": "subscription",
+    "amount": "982601.4337",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-07-04T17:33:51.643993"
+  },
+  "125": {
+    "payment_id": "125",
+    "reference_id": "209",
+    "reference_type": "subscription",
+    "amount": "760374.0069",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-04-18T00:39:35.735768"
+  },
+  "126": {
+    "payment_id": "126",
+    "reference_id": "104",
+    "reference_type": "subscription",
+    "amount": "132975.6840",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-01-25T15:11:59.236200"
+  },
+  "127": {
+    "payment_id": "127",
+    "reference_id": "49",
+    "reference_type": "subscription",
+    "amount": "412573.0080",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-08-17T21:32:22.144793"
+  },
+  "128": {
+    "payment_id": "128",
+    "reference_id": "283",
+    "reference_type": "subscription",
+    "amount": "131936.5187",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-16T06:38:34.388427"
+  },
+  "129": {
+    "payment_id": "129",
+    "reference_id": "196",
+    "reference_type": "subscription",
+    "amount": "394440.7989",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-04-19T05:15:09.313046"
+  },
+  "130": {
+    "payment_id": "130",
+    "reference_id": "318",
+    "reference_type": "subscription",
+    "amount": "88027.3730",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-09-04T22:42:24.164289"
+  },
+  "131": {
+    "payment_id": "131",
+    "reference_id": "11",
+    "reference_type": "subscription",
+    "amount": "68515.0177",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-08-13T20:23:19.783093"
+  },
+  "132": {
+    "payment_id": "132",
+    "reference_id": "152",
+    "reference_type": "subscription",
+    "amount": "728292.2358",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-08-29T11:32:58.235219"
+  },
+  "133": {
+    "payment_id": "133",
+    "reference_id": "263",
+    "reference_type": "subscription",
+    "amount": "222742.5352",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-20T18:43:06.729178"
+  },
+  "134": {
+    "payment_id": "134",
+    "reference_id": "300",
+    "reference_type": "subscription",
+    "amount": "661586.6742",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-12-14T17:22:06.338288"
+  },
+  "135": {
+    "payment_id": "135",
+    "reference_id": "159",
+    "reference_type": "subscription",
+    "amount": "838205.2553",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-05-20T04:00:31.430425"
+  },
+  "136": {
+    "payment_id": "136",
+    "reference_id": "246",
+    "reference_type": "subscription",
+    "amount": "465776.3372",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2024-11-27T10:27:09.757449"
+  },
+  "137": {
+    "payment_id": "137",
+    "reference_id": "117",
+    "reference_type": "subscription",
+    "amount": "282985.7419",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-08-05T06:02:17.739363"
+  },
+  "138": {
+    "payment_id": "138",
+    "reference_id": "5",
+    "reference_type": "subscription",
+    "amount": "764421.8127",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-01-12T12:40:33.988256"
+  },
+  "139": {
+    "payment_id": "139",
+    "reference_id": "126",
+    "reference_type": "subscription",
+    "amount": "200324.8577",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-07-16T14:38:49.582332"
+  },
+  "140": {
+    "payment_id": "140",
+    "reference_id": "12",
+    "reference_type": "subscription",
+    "amount": "724221.3128",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-08-22T21:45:01.160182"
+  },
+  "141": {
+    "payment_id": "141",
+    "reference_id": "203",
+    "reference_type": "subscription",
+    "amount": "286120.1524",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-08-25T20:47:50.803601"
+  },
+  "142": {
+    "payment_id": "142",
+    "reference_id": "230",
+    "reference_type": "subscription",
+    "amount": "944501.7295",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-30T06:31:50.565461"
+  },
+  "143": {
+    "payment_id": "143",
+    "reference_id": "225",
+    "reference_type": "subscription",
+    "amount": "863429.9351",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-16T04:56:12.913064"
+  },
+  "144": {
+    "payment_id": "144",
+    "reference_id": "144",
+    "reference_type": "subscription",
+    "amount": "792432.0623",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-05-03T06:48:55.438599"
+  },
+  "145": {
+    "payment_id": "145",
+    "reference_id": "47",
+    "reference_type": "subscription",
+    "amount": "749455.6611",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-09-24T03:41:12.063484"
+  },
+  "146": {
+    "payment_id": "146",
+    "reference_id": "302",
+    "reference_type": "subscription",
+    "amount": "643576.4963",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-09-12T04:28:06.332094"
+  },
+  "147": {
+    "payment_id": "147",
+    "reference_id": "265",
+    "reference_type": "subscription",
+    "amount": "879486.7035",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-25T04:36:54.968948"
+  },
+  "148": {
+    "payment_id": "148",
+    "reference_id": "311",
+    "reference_type": "subscription",
+    "amount": "378437.9637",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-02-23T00:52:37.969655"
+  },
+  "149": {
+    "payment_id": "149",
+    "reference_id": "173",
+    "reference_type": "subscription",
+    "amount": "572110.9910",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2024-12-25T04:29:18.310116"
+  },
+  "150": {
+    "payment_id": "150",
+    "reference_id": "161",
+    "reference_type": "subscription",
+    "amount": "398069.5795",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-08-20T09:13:09.218872"
+  },
+  "151": {
+    "payment_id": "151",
+    "reference_id": "44",
+    "reference_type": "subscription",
+    "amount": "206224.4678",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-07-20T04:52:26.515936"
+  },
+  "152": {
+    "payment_id": "152",
+    "reference_id": "84",
+    "reference_type": "subscription",
+    "amount": "53098.7136",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-03-30T02:28:23.042320"
+  },
+  "153": {
+    "payment_id": "153",
+    "reference_id": "156",
+    "reference_type": "subscription",
+    "amount": "447440.1067",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-04-20T12:50:52.965170"
+  },
+  "154": {
+    "payment_id": "154",
+    "reference_id": "112",
+    "reference_type": "subscription",
+    "amount": "394638.9397",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-08-26T00:39:31.683051"
+  },
+  "155": {
+    "payment_id": "155",
+    "reference_id": "78",
+    "reference_type": "subscription",
+    "amount": "135865.3966",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-10-29T03:49:06.018708"
+  },
+  "156": {
+    "payment_id": "156",
+    "reference_id": "240",
+    "reference_type": "subscription",
+    "amount": "382586.8742",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2024-10-09T07:14:52.668488"
+  },
+  "157": {
+    "payment_id": "157",
+    "reference_id": "194",
+    "reference_type": "subscription",
+    "amount": "920085.2854",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-12-13T17:06:22.912636"
+  },
+  "158": {
+    "payment_id": "158",
+    "reference_id": "257",
+    "reference_type": "subscription",
+    "amount": "307651.2531",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-10-05T19:56:24.711040"
+  },
+  "159": {
+    "payment_id": "159",
+    "reference_id": "206",
+    "reference_type": "subscription",
+    "amount": "292192.7207",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-04-08T15:53:38.033548"
+  },
+  "160": {
+    "payment_id": "160",
+    "reference_id": "105",
+    "reference_type": "subscription",
+    "amount": "995135.2495",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2025-01-16T06:26:53.674011"
+  },
+  "161": {
+    "payment_id": "161",
+    "reference_id": "120",
+    "reference_type": "subscription",
+    "amount": "834184.9485",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-07-27T02:03:12.986609"
+  },
+  "162": {
+    "payment_id": "162",
+    "reference_id": "108",
+    "reference_type": "subscription",
+    "amount": "950288.4796",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-10-13T04:56:34.381199"
+  },
+  "163": {
+    "payment_id": "163",
+    "reference_id": "186",
+    "reference_type": "subscription",
+    "amount": "75867.7508",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-11-05T16:52:41.121974"
+  },
+  "164": {
+    "payment_id": "164",
+    "reference_id": "80",
+    "reference_type": "subscription",
+    "amount": "178350.4679",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-04-14T00:22:17.985481"
+  },
+  "165": {
+    "payment_id": "165",
+    "reference_id": "109",
+    "reference_type": "subscription",
+    "amount": "214953.4390",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2024-11-18T07:32:43.708777"
+  },
+  "166": {
+    "payment_id": "166",
+    "reference_id": "303",
+    "reference_type": "subscription",
+    "amount": "750802.7009",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2025-06-22T18:33:46.860601"
+  },
+  "167": {
+    "payment_id": "167",
+    "reference_id": "4",
+    "reference_type": "subscription",
+    "amount": "137429.0916",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-11-03T07:51:12.992554"
+  },
+  "168": {
+    "payment_id": "168",
+    "reference_id": "160",
+    "reference_type": "subscription",
+    "amount": "385232.4147",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-03-27T06:27:44.613710"
+  },
+  "169": {
+    "payment_id": "169",
+    "reference_id": "162",
+    "reference_type": "subscription",
+    "amount": "52767.5569",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-05-11T23:57:17.248040"
+  },
+  "170": {
+    "payment_id": "170",
+    "reference_id": "74",
+    "reference_type": "subscription",
+    "amount": "566224.1365",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2024-12-25T19:38:40.359869"
+  },
+  "171": {
+    "payment_id": "171",
+    "reference_id": "274",
+    "reference_type": "subscription",
+    "amount": "873041.5985",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-05-29T01:20:03.887224"
+  },
+  "172": {
+    "payment_id": "172",
+    "reference_id": "178",
+    "reference_type": "subscription",
+    "amount": "897080.1665",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-03-30T21:45:17.441161"
+  },
+  "173": {
+    "payment_id": "173",
+    "reference_id": "6",
+    "reference_type": "subscription",
+    "amount": "869671.8295",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-09-16T15:02:55.334956"
+  },
+  "174": {
+    "payment_id": "174",
+    "reference_id": "164",
+    "reference_type": "subscription",
+    "amount": "551026.3062",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-12-02T15:10:26.925528"
+  },
+  "175": {
+    "payment_id": "175",
+    "reference_id": "38",
+    "reference_type": "subscription",
+    "amount": "93068.6963",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2024-11-25T18:25:34.114665"
+  },
+  "176": {
+    "payment_id": "176",
+    "reference_id": "264",
+    "reference_type": "subscription",
+    "amount": "955891.6618",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-03-14T14:19:52.825478"
+  },
+  "177": {
+    "payment_id": "177",
+    "reference_id": "198",
+    "reference_type": "subscription",
+    "amount": "84842.1998",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2024-12-17T16:16:36.622830"
+  },
+  "178": {
+    "payment_id": "178",
+    "reference_id": "119",
+    "reference_type": "subscription",
+    "amount": "171163.4188",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-09-20T01:25:32.395228"
+  },
+  "179": {
+    "payment_id": "179",
+    "reference_id": "294",
+    "reference_type": "subscription",
+    "amount": "752197.9625",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-06-30T02:55:55.702882"
+  },
+  "180": {
+    "payment_id": "180",
+    "reference_id": "86",
+    "reference_type": "subscription",
+    "amount": "56851.3831",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-21T05:51:49.631794"
+  },
+  "181": {
+    "payment_id": "181",
+    "reference_id": "183",
+    "reference_type": "subscription",
+    "amount": "458109.9274",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-01-04T11:12:10.890753"
+  },
+  "182": {
+    "payment_id": "182",
+    "reference_id": "150",
+    "reference_type": "subscription",
+    "amount": "269784.3028",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-09-10T11:28:44.318842"
+  },
+  "183": {
+    "payment_id": "183",
+    "reference_id": "218",
+    "reference_type": "subscription",
+    "amount": "578919.1592",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-11-05T16:24:53.089518"
+  },
+  "184": {
+    "payment_id": "184",
+    "reference_id": "34",
+    "reference_type": "subscription",
+    "amount": "430657.2663",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-01-12T00:26:44.198691"
+  },
+  "185": {
+    "payment_id": "185",
+    "reference_id": "41",
+    "reference_type": "subscription",
+    "amount": "699822.3498",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-04-08T06:22:45.436363"
+  },
+  "186": {
+    "payment_id": "186",
+    "reference_id": "304",
+    "reference_type": "subscription",
+    "amount": "737342.8713",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-07-27T20:44:06.466892"
+  },
+  "187": {
+    "payment_id": "187",
+    "reference_id": "59",
+    "reference_type": "subscription",
+    "amount": "242986.0367",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-10-24T14:21:40.649962"
+  },
+  "188": {
+    "payment_id": "188",
+    "reference_id": "55",
+    "reference_type": "subscription",
+    "amount": "886867.2808",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-01-16T15:27:24.899654"
+  },
+  "189": {
+    "payment_id": "189",
+    "reference_id": "66",
+    "reference_type": "subscription",
+    "amount": "947253.9682",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-04-27T17:46:56.151746"
+  },
+  "190": {
+    "payment_id": "190",
+    "reference_id": "247",
+    "reference_type": "subscription",
+    "amount": "208203.8688",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-07-06T09:11:29.467346"
+  },
+  "191": {
+    "payment_id": "191",
+    "reference_id": "157",
+    "reference_type": "subscription",
+    "amount": "253567.8850",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-17T00:38:54.437864"
+  },
+  "192": {
+    "payment_id": "192",
+    "reference_id": "309",
+    "reference_type": "subscription",
+    "amount": "806680.3349",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2024-12-31T19:52:29.820064"
+  },
+  "193": {
+    "payment_id": "193",
+    "reference_id": "222",
+    "reference_type": "subscription",
+    "amount": "185216.3287",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2024-09-29T22:24:21.089155"
+  },
+  "194": {
+    "payment_id": "194",
+    "reference_id": "154",
+    "reference_type": "subscription",
+    "amount": "667320.4488",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-09-20T23:26:43.268467"
+  },
+  "195": {
+    "payment_id": "195",
+    "reference_id": "146",
+    "reference_type": "subscription",
+    "amount": "818295.2315",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-07-20T04:43:27.396250"
+  },
+  "196": {
+    "payment_id": "196",
+    "reference_id": "313",
+    "reference_type": "subscription",
+    "amount": "383211.0859",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-01-05T15:07:59.512337"
+  },
+  "197": {
+    "payment_id": "197",
+    "reference_id": "181",
+    "reference_type": "subscription",
+    "amount": "609298.8006",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-05-15T05:23:07.634045"
+  },
+  "198": {
+    "payment_id": "198",
+    "reference_id": "223",
+    "reference_type": "subscription",
+    "amount": "284876.1818",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-02-18T01:10:33.342459"
+  },
+  "199": {
+    "payment_id": "199",
+    "reference_id": "32",
+    "reference_type": "subscription",
+    "amount": "153203.4694",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2025-02-15T10:59:01.363568"
+  },
+  "200": {
+    "payment_id": "200",
+    "reference_id": "275",
+    "reference_type": "subscription",
+    "amount": "346181.7158",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-05-10T05:42:48.436803"
+  },
+  "201": {
+    "payment_id": "201",
+    "reference_id": "189",
+    "reference_type": "subscription",
+    "amount": "961719.2986",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-04-26T13:06:53.769273"
+  },
+  "202": {
+    "payment_id": "202",
+    "reference_id": "153",
+    "reference_type": "subscription",
+    "amount": "409700.1604",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-03-27T06:39:22.947630"
+  },
+  "203": {
+    "payment_id": "203",
+    "reference_id": "195",
+    "reference_type": "subscription",
+    "amount": "945265.4379",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2024-10-26T19:09:01.177097"
+  },
+  "204": {
+    "payment_id": "204",
+    "reference_id": "136",
+    "reference_type": "subscription",
+    "amount": "200385.2116",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-07-15T08:52:32.592906"
+  },
+  "205": {
+    "payment_id": "205",
+    "reference_id": "96",
+    "reference_type": "subscription",
+    "amount": "813458.0275",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-02-26T15:54:44.702390"
+  },
+  "206": {
+    "payment_id": "206",
+    "reference_id": "3",
+    "reference_type": "subscription",
+    "amount": "128411.3853",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-01-03T11:15:39.168837"
+  },
+  "207": {
+    "payment_id": "207",
+    "reference_id": "306",
+    "reference_type": "subscription",
+    "amount": "83029.2694",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-03-08T05:50:48.626529"
+  },
+  "208": {
+    "payment_id": "208",
+    "reference_id": "298",
+    "reference_type": "subscription",
+    "amount": "279389.1175",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-08-05T04:44:56.644661"
+  },
+  "209": {
+    "payment_id": "209",
+    "reference_id": "271",
+    "reference_type": "subscription",
+    "amount": "809391.3376",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-05-26T19:48:52.671143"
+  },
+  "210": {
+    "payment_id": "210",
+    "reference_id": "40",
+    "reference_type": "subscription",
+    "amount": "794764.5167",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-23T21:22:00.321457"
+  },
+  "211": {
+    "payment_id": "211",
+    "reference_id": "17",
+    "reference_type": "subscription",
+    "amount": "379328.6180",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-08-09T05:30:14.579911"
+  },
+  "212": {
+    "payment_id": "212",
+    "reference_id": "272",
+    "reference_type": "subscription",
+    "amount": "663729.1079",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-09-14T00:07:39.850952"
+  },
+  "213": {
+    "payment_id": "213",
+    "reference_id": "205",
+    "reference_type": "subscription",
+    "amount": "690889.2506",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2024-10-23T17:36:09.687473"
+  },
+  "214": {
+    "payment_id": "214",
+    "reference_id": "28",
+    "reference_type": "subscription",
+    "amount": "804144.8445",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-02-25T01:39:53.694691"
+  },
+  "215": {
+    "payment_id": "215",
+    "reference_id": "305",
+    "reference_type": "subscription",
+    "amount": "975756.7061",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-11-15T04:51:31.760151"
+  },
+  "216": {
+    "payment_id": "216",
+    "reference_id": "131",
+    "reference_type": "subscription",
+    "amount": "384815.5043",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-04-23T15:47:28.343874"
+  },
+  "217": {
+    "payment_id": "217",
+    "reference_id": "99",
+    "reference_type": "subscription",
+    "amount": "51829.0508",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-04-10T21:57:18.951873"
+  },
+  "218": {
+    "payment_id": "218",
+    "reference_id": "297",
+    "reference_type": "subscription",
+    "amount": "419277.1848",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-11-24T07:18:13.607102"
+  },
+  "219": {
+    "payment_id": "219",
+    "reference_id": "236",
+    "reference_type": "subscription",
+    "amount": "773565.3522",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2024-11-13T08:54:09.313963"
+  },
+  "220": {
+    "payment_id": "220",
+    "reference_id": "312",
+    "reference_type": "subscription",
+    "amount": "111300.7217",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-08-20T09:19:35.191249"
+  },
+  "221": {
+    "payment_id": "221",
+    "reference_id": "116",
+    "reference_type": "subscription",
+    "amount": "831961.5486",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-10-19T08:32:14.320461"
+  },
+  "222": {
+    "payment_id": "222",
+    "reference_id": "245",
+    "reference_type": "subscription",
+    "amount": "871469.4868",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-08-06T01:12:33.963281"
+  },
+  "223": {
+    "payment_id": "223",
+    "reference_id": "9",
+    "reference_type": "subscription",
+    "amount": "872153.1925",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-01-27T06:35:04.056249"
+  },
+  "224": {
+    "payment_id": "224",
+    "reference_id": "25",
+    "reference_type": "redemption",
+    "amount": "224773.8962",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-07-01T12:00:24.126183"
+  },
+  "225": {
+    "payment_id": "225",
+    "reference_id": "84",
+    "reference_type": "redemption",
+    "amount": "186547.0950",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-07-02T13:52:46.075290"
+  },
+  "226": {
+    "payment_id": "226",
+    "reference_id": "43",
+    "reference_type": "redemption",
+    "amount": "51916.5826",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-03-13T23:29:20.969744"
+  },
+  "227": {
+    "payment_id": "227",
+    "reference_id": "74",
+    "reference_type": "redemption",
+    "amount": "207043.5354",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-03-17T18:22:29.033727"
+  },
+  "228": {
+    "payment_id": "228",
+    "reference_id": "101",
+    "reference_type": "redemption",
+    "amount": "161551.5238",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2024-09-30T12:26:27.063968"
+  },
+  "229": {
+    "payment_id": "229",
+    "reference_id": "39",
+    "reference_type": "redemption",
+    "amount": "119991.1443",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2024-12-25T16:40:17.890991"
+  },
+  "230": {
+    "payment_id": "230",
+    "reference_id": "103",
+    "reference_type": "redemption",
+    "amount": "140646.3688",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-02-19T10:59:17.792535"
+  },
+  "231": {
+    "payment_id": "231",
+    "reference_id": "3",
+    "reference_type": "redemption",
+    "amount": "52465.6422",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2025-04-06T02:23:20.967556"
+  },
+  "232": {
+    "payment_id": "232",
+    "reference_id": "86",
+    "reference_type": "redemption",
+    "amount": "235557.0158",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-04-17T18:50:09.435055"
+  },
+  "233": {
+    "payment_id": "233",
+    "reference_id": "14",
+    "reference_type": "redemption",
+    "amount": "12111.7548",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2024-12-27T09:54:41.116294"
+  },
+  "234": {
+    "payment_id": "234",
+    "reference_id": "95",
+    "reference_type": "redemption",
+    "amount": "80634.2030",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "27",
+    "transaction_date": "2025-02-17T23:02:46.475415"
+  },
+  "235": {
+    "payment_id": "235",
+    "reference_id": "99",
+    "reference_type": "redemption",
+    "amount": "144636.9228",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-11-25T00:53:30.719697"
+  },
+  "236": {
+    "payment_id": "236",
+    "reference_id": "24",
+    "reference_type": "redemption",
+    "amount": "209743.7118",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-05-26T22:03:47.998534"
+  },
+  "237": {
+    "payment_id": "237",
+    "reference_id": "22",
+    "reference_type": "redemption",
+    "amount": "43249.2278",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2024-12-12T04:06:04.465528"
+  },
+  "238": {
+    "payment_id": "238",
+    "reference_id": "71",
+    "reference_type": "redemption",
+    "amount": "86267.9434",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-09T12:00:35.504245"
+  },
+  "239": {
+    "payment_id": "239",
+    "reference_id": "5",
+    "reference_type": "redemption",
+    "amount": "212840.3847",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2025-09-06T22:22:18.152358"
+  },
+  "240": {
+    "payment_id": "240",
+    "reference_id": "104",
+    "reference_type": "redemption",
+    "amount": "26218.5446",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-06T12:14:19.604713"
+  },
+  "241": {
+    "payment_id": "241",
+    "reference_id": "79",
+    "reference_type": "redemption",
+    "amount": "237143.6744",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-09-23T22:29:18.450948"
+  },
+  "242": {
+    "payment_id": "242",
+    "reference_id": "69",
+    "reference_type": "redemption",
+    "amount": "115980.6287",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-02-14T05:01:42.772770"
+  },
+  "243": {
+    "payment_id": "243",
+    "reference_id": "85",
+    "reference_type": "redemption",
+    "amount": "180847.8471",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-10-16T02:17:59.067980"
+  },
+  "244": {
+    "payment_id": "244",
+    "reference_id": "2",
+    "reference_type": "redemption",
+    "amount": "210187.5108",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "27",
+    "transaction_date": "2025-03-28T07:23:03.411590"
+  },
+  "245": {
+    "payment_id": "245",
+    "reference_id": "58",
+    "reference_type": "redemption",
+    "amount": "58050.9176",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-08-28T16:10:43.980185"
+  },
+  "246": {
+    "payment_id": "246",
+    "reference_id": "50",
+    "reference_type": "redemption",
+    "amount": "46714.2242",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "32",
+    "transaction_date": "2024-12-20T15:18:14.617587"
+  },
+  "247": {
+    "payment_id": "247",
+    "reference_id": "125",
+    "reference_type": "redemption",
+    "amount": "243940.0347",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-10-21T02:17:43.344272"
+  },
+  "248": {
+    "payment_id": "248",
+    "reference_id": "57",
+    "reference_type": "redemption",
+    "amount": "128697.0077",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-02-01T17:30:16.510454"
+  },
+  "249": {
+    "payment_id": "249",
+    "reference_id": "122",
+    "reference_type": "redemption",
+    "amount": "100923.3025",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-06-02T00:55:26.610625"
+  },
+  "250": {
+    "payment_id": "250",
+    "reference_id": "32",
+    "reference_type": "redemption",
+    "amount": "115448.4475",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-08-02T17:38:53.042697"
+  },
+  "251": {
+    "payment_id": "251",
+    "reference_id": "35",
+    "reference_type": "redemption",
+    "amount": "56448.7445",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-02-25T16:14:22.610594"
+  },
+  "252": {
+    "payment_id": "252",
+    "reference_id": "19",
+    "reference_type": "redemption",
+    "amount": "125414.0699",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-09-20T16:04:29.073594"
+  },
+  "253": {
+    "payment_id": "253",
+    "reference_id": "93",
+    "reference_type": "redemption",
+    "amount": "241525.9923",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-07-01T10:11:38.836553"
+  },
+  "254": {
+    "payment_id": "254",
+    "reference_id": "67",
+    "reference_type": "redemption",
+    "amount": "64641.1956",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2024-11-13T22:30:17.357120"
+  },
+  "255": {
+    "payment_id": "255",
+    "reference_id": "107",
+    "reference_type": "redemption",
+    "amount": "121240.4233",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-03-15T22:59:55.948720"
+  },
+  "256": {
+    "payment_id": "256",
+    "reference_id": "87",
+    "reference_type": "redemption",
+    "amount": "84147.6369",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-12-01T20:31:05.320110"
+  },
+  "257": {
+    "payment_id": "257",
+    "reference_id": "105",
+    "reference_type": "redemption",
+    "amount": "36172.0194",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "32",
+    "transaction_date": "2025-01-22T00:08:13.112942"
+  },
+  "258": {
+    "payment_id": "258",
+    "reference_id": "29",
+    "reference_type": "redemption",
+    "amount": "234031.6161",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-06-26T16:08:04.332468"
+  },
+  "259": {
+    "payment_id": "259",
+    "reference_id": "119",
+    "reference_type": "redemption",
+    "amount": "46754.7036",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-11-08T12:14:51.250865"
+  },
+  "260": {
+    "payment_id": "260",
+    "reference_id": "81",
+    "reference_type": "redemption",
+    "amount": "75660.9238",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-03-16T00:08:04.140365"
+  },
+  "261": {
+    "payment_id": "261",
+    "reference_id": "115",
+    "reference_type": "redemption",
+    "amount": "81718.2252",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2025-03-14T18:45:33.825346"
+  },
+  "262": {
+    "payment_id": "262",
+    "reference_id": "27",
+    "reference_type": "redemption",
+    "amount": "57522.7863",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "8",
+    "transaction_date": "2024-11-21T17:51:17.428828"
+  },
+  "263": {
+    "payment_id": "263",
+    "reference_id": "83",
+    "reference_type": "redemption",
+    "amount": "33737.6177",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-01-12T16:59:02.888416"
+  },
+  "264": {
+    "payment_id": "264",
+    "reference_id": "51",
+    "reference_type": "redemption",
+    "amount": "214533.8938",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-05-24T03:01:57.377365"
+  },
+  "265": {
+    "payment_id": "265",
+    "reference_id": "45",
+    "reference_type": "redemption",
+    "amount": "182369.0497",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2024-11-11T03:44:09.778241"
+  },
+  "266": {
+    "payment_id": "266",
+    "reference_id": "31",
+    "reference_type": "redemption",
+    "amount": "218520.6880",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2025-07-11T09:37:08.191818"
+  },
+  "267": {
+    "payment_id": "267",
+    "reference_id": "77",
+    "reference_type": "redemption",
+    "amount": "166203.5762",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-10-13T05:53:25.407359"
+  },
+  "268": {
+    "payment_id": "268",
+    "reference_id": "1",
+    "reference_type": "redemption",
+    "amount": "230365.9605",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-02-22T07:31:20.488363"
+  },
+  "269": {
+    "payment_id": "269",
+    "reference_id": "56",
+    "reference_type": "redemption",
+    "amount": "33949.2328",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-03-29T16:18:57.134628"
+  },
+  "270": {
+    "payment_id": "270",
+    "reference_id": "38",
+    "reference_type": "redemption",
+    "amount": "27548.8590",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-02-17T09:22:11.047471"
+  },
+  "271": {
+    "payment_id": "271",
+    "reference_id": "116",
+    "reference_type": "redemption",
+    "amount": "39890.8922",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-06-14T16:58:10.094895"
+  },
+  "272": {
+    "payment_id": "272",
+    "reference_id": "4",
+    "reference_type": "redemption",
+    "amount": "85199.5012",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-02-25T19:47:34.227620"
+  },
+  "273": {
+    "payment_id": "273",
+    "reference_id": "97",
+    "reference_type": "redemption",
+    "amount": "61014.5098",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-03-31T00:15:39.382688"
+  },
+  "274": {
+    "payment_id": "274",
+    "reference_id": "80",
+    "reference_type": "redemption",
+    "amount": "82959.5016",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-05-22T23:18:28.835278"
+  },
+  "275": {
+    "payment_id": "275",
+    "reference_id": "53",
+    "reference_type": "redemption",
+    "amount": "74916.0656",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-10-24T02:22:49.542168"
+  },
+  "276": {
+    "payment_id": "276",
+    "reference_id": "68",
+    "reference_type": "redemption",
+    "amount": "45106.6281",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-12-25T16:42:09.635463"
+  },
+  "277": {
+    "payment_id": "277",
+    "reference_id": "124",
+    "reference_type": "redemption",
+    "amount": "49346.5961",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-04-14T16:44:13.410033"
+  },
+  "278": {
+    "payment_id": "278",
+    "reference_id": "73",
+    "reference_type": "redemption",
+    "amount": "64276.9615",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-08-20T10:11:32.294068"
+  },
+  "279": {
+    "payment_id": "279",
+    "reference_id": "46",
+    "reference_type": "redemption",
+    "amount": "162392.8131",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-03-16T13:01:44.301038"
+  },
+  "280": {
+    "payment_id": "280",
+    "reference_id": "70",
+    "reference_type": "redemption",
+    "amount": "57928.6075",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-11-23T12:24:32.183638"
+  },
+  "281": {
+    "payment_id": "281",
+    "reference_id": "72",
+    "reference_type": "redemption",
+    "amount": "48460.5545",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "17",
+    "transaction_date": "2024-11-21T21:52:40.319738"
+  },
+  "282": {
+    "payment_id": "282",
+    "reference_id": "100",
+    "reference_type": "redemption",
+    "amount": "29764.7810",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-09-26T19:13:01.474553"
+  },
+  "283": {
+    "payment_id": "283",
+    "reference_id": "91",
+    "reference_type": "redemption",
+    "amount": "68414.2956",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2024-10-30T13:39:41.100372"
+  },
+  "284": {
+    "payment_id": "284",
+    "reference_id": "123",
+    "reference_type": "redemption",
+    "amount": "115687.4048",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-04-19T21:32:04.653244"
+  },
+  "285": {
+    "payment_id": "285",
+    "reference_id": "40",
+    "reference_type": "redemption",
+    "amount": "64586.0060",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2024-10-26T21:51:10.768843"
+  },
+  "286": {
+    "payment_id": "286",
+    "reference_id": "110",
+    "reference_type": "redemption",
+    "amount": "158556.7356",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-11-12T02:02:54.489993"
+  },
+  "287": {
+    "payment_id": "287",
+    "reference_id": "109",
+    "reference_type": "redemption",
+    "amount": "188002.1126",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-01-14T08:11:46.707364"
+  },
+  "288": {
+    "payment_id": "288",
+    "reference_id": "108",
+    "reference_type": "redemption",
+    "amount": "226857.5339",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-01-03T02:12:01.986440"
+  },
+  "289": {
+    "payment_id": "289",
+    "reference_id": "9",
+    "reference_type": "redemption",
+    "amount": "84652.1166",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-08-07T07:27:22.473706"
+  },
+  "290": {
+    "payment_id": "290",
+    "reference_id": "121",
+    "reference_type": "redemption",
+    "amount": "104138.1543",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2024-10-26T13:53:35.336539"
+  },
+  "291": {
+    "payment_id": "291",
+    "reference_id": "18",
+    "reference_type": "redemption",
+    "amount": "164428.8510",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2025-04-02T05:51:05.014459"
+  },
+  "292": {
+    "payment_id": "292",
+    "reference_id": "23",
+    "reference_type": "redemption",
+    "amount": "225296.2254",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-01-18T20:20:35.868537"
+  },
+  "293": {
+    "payment_id": "293",
+    "reference_id": "42",
+    "reference_type": "redemption",
+    "amount": "87655.3652",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-02T01:05:47.594302"
+  },
+  "294": {
+    "payment_id": "294",
+    "reference_id": "41",
+    "reference_type": "redemption",
+    "amount": "228681.9783",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "36",
+    "transaction_date": "2025-08-04T04:11:39.198815"
+  },
+  "295": {
+    "payment_id": "295",
+    "reference_id": "10",
+    "reference_type": "redemption",
+    "amount": "76990.1557",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-11-07T11:28:58.174721"
+  },
+  "296": {
+    "payment_id": "296",
+    "reference_id": "112",
+    "reference_type": "redemption",
+    "amount": "238926.9945",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-01-16T22:15:18.945710"
+  },
+  "297": {
+    "payment_id": "297",
+    "reference_id": "49",
+    "reference_type": "redemption",
+    "amount": "110135.5898",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-06-24T10:10:05.167789"
+  },
+  "298": {
+    "payment_id": "298",
+    "reference_id": "82",
+    "reference_type": "redemption",
+    "amount": "81687.5314",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2024-12-15T14:17:36.221593"
+  },
+  "299": {
+    "payment_id": "299",
+    "reference_id": "21",
+    "reference_type": "redemption",
+    "amount": "30710.9897",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-12-28T20:28:10.033447"
+  },
+  "300": {
+    "payment_id": "300",
+    "reference_id": "113",
+    "reference_type": "redemption",
+    "amount": "157312.9864",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-09-17T06:33:05.108948"
+  },
+  "301": {
+    "payment_id": "301",
+    "reference_id": "33",
+    "reference_type": "redemption",
+    "amount": "227522.9549",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2024-12-16T13:56:11.420191"
+  },
+  "302": {
+    "payment_id": "302",
+    "reference_id": "15",
+    "reference_type": "redemption",
+    "amount": "240436.5120",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-06-27T17:37:15.054852"
+  },
+  "303": {
+    "payment_id": "303",
+    "reference_id": "20",
+    "reference_type": "redemption",
+    "amount": "12173.5864",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2025-04-30T15:56:10.677078"
+  },
+  "304": {
+    "payment_id": "304",
+    "reference_id": "8",
+    "reference_type": "redemption",
+    "amount": "26494.9061",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-05-07T01:48:16.947934"
+  },
+  "305": {
+    "payment_id": "305",
+    "reference_id": "30",
+    "reference_type": "redemption",
+    "amount": "131830.3309",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "3",
+    "transaction_date": "2024-11-30T00:19:50.978362"
+  },
+  "306": {
+    "payment_id": "306",
+    "reference_id": "52",
+    "reference_type": "redemption",
+    "amount": "198098.1838",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-05-31T01:28:05.489194"
+  },
+  "307": {
+    "payment_id": "307",
+    "reference_id": "36",
+    "reference_type": "redemption",
+    "amount": "23380.0261",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-08-30T17:13:19.718202"
+  },
+  "308": {
+    "payment_id": "308",
+    "reference_id": "78",
+    "reference_type": "redemption",
+    "amount": "186274.3618",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "40",
+    "transaction_date": "2024-09-24T07:45:47.309975"
+  },
+  "309": {
+    "payment_id": "309",
+    "reference_id": "55",
+    "reference_type": "redemption",
+    "amount": "104646.3550",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-02-27T07:46:51.400779"
+  },
+  "310": {
+    "payment_id": "310",
+    "reference_id": "117",
+    "reference_type": "redemption",
+    "amount": "47862.4201",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-02-10T16:22:14.242613"
+  },
+  "311": {
+    "payment_id": "311",
+    "reference_id": "47",
+    "reference_type": "redemption",
+    "amount": "226633.8013",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-03-20T02:42:02.213685"
+  },
+  "312": {
+    "payment_id": "312",
+    "reference_id": "20",
+    "reference_type": "commitment",
+    "amount": "927041.4877",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-06-30T10:58:28.163768"
+  },
+  "313": {
+    "payment_id": "313",
+    "reference_id": "63",
+    "reference_type": "commitment",
+    "amount": "746021.4372",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-06-08T00:13:35.653471"
+  },
+  "314": {
+    "payment_id": "314",
+    "reference_id": "50",
+    "reference_type": "commitment",
+    "amount": "1770472.9241",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "23",
+    "transaction_date": "2025-09-05T23:30:00.261853"
+  },
+  "315": {
+    "payment_id": "315",
+    "reference_id": "83",
+    "reference_type": "commitment",
+    "amount": "1210482.5915",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-05-18T06:36:22.867093"
+  },
+  "316": {
+    "payment_id": "316",
+    "reference_id": "86",
+    "reference_type": "commitment",
+    "amount": "916982.6966",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-05-21T09:14:33.134095"
+  },
+  "317": {
+    "payment_id": "317",
+    "reference_id": "53",
+    "reference_type": "commitment",
+    "amount": "921096.5703",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-03-10T21:52:21.072012"
+  },
+  "318": {
+    "payment_id": "318",
+    "reference_id": "34",
+    "reference_type": "commitment",
+    "amount": "1516713.2363",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "27",
+    "transaction_date": "2024-12-23T09:21:24.926040"
+  },
+  "319": {
+    "payment_id": "319",
+    "reference_id": "14",
+    "reference_type": "commitment",
+    "amount": "454130.4907",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "36",
+    "transaction_date": "2025-02-18T22:22:22.769539"
+  },
+  "320": {
+    "payment_id": "320",
+    "reference_id": "36",
+    "reference_type": "commitment",
+    "amount": "1803997.0031",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-11-25T23:03:38.980224"
+  },
+  "321": {
+    "payment_id": "321",
+    "reference_id": "40",
+    "reference_type": "commitment",
+    "amount": "1217762.7912",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-06-04T22:03:15.789920"
+  },
+  "322": {
+    "payment_id": "322",
+    "reference_id": "45",
+    "reference_type": "commitment",
+    "amount": "802059.6413",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2024-10-14T09:45:01.064207"
+  },
+  "323": {
+    "payment_id": "323",
+    "reference_id": "39",
+    "reference_type": "commitment",
+    "amount": "439167.5716",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-01-21T05:05:56.486734"
+  },
+  "324": {
+    "payment_id": "324",
+    "reference_id": "85",
+    "reference_type": "commitment",
+    "amount": "1934109.4897",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2024-10-16T05:32:36.996511"
+  },
+  "325": {
+    "payment_id": "325",
+    "reference_id": "89",
+    "reference_type": "commitment",
+    "amount": "518215.5132",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "32",
+    "transaction_date": "2025-05-27T03:34:46.910647"
+  },
+  "326": {
+    "payment_id": "326",
+    "reference_id": "61",
+    "reference_type": "commitment",
+    "amount": "406820.5395",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-07-27T12:17:02.173006"
+  },
+  "327": {
+    "payment_id": "327",
+    "reference_id": "80",
+    "reference_type": "commitment",
+    "amount": "665862.6315",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-02-14T12:34:04.155456"
+  },
+  "328": {
+    "payment_id": "328",
+    "reference_id": "56",
+    "reference_type": "commitment",
+    "amount": "1792428.4881",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-01-18T19:17:29.692567"
+  },
+  "329": {
+    "payment_id": "329",
+    "reference_id": "88",
+    "reference_type": "commitment",
+    "amount": "777312.8073",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-07-05T11:41:21.216656"
+  },
+  "330": {
+    "payment_id": "330",
+    "reference_id": "9",
+    "reference_type": "commitment",
+    "amount": "377917.3734",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-03-14T12:06:58.564044"
+  },
+  "331": {
+    "payment_id": "331",
+    "reference_id": "98",
+    "reference_type": "commitment",
+    "amount": "1598927.0461",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-01-08T13:56:25.993879"
+  },
+  "332": {
+    "payment_id": "332",
+    "reference_id": "73",
+    "reference_type": "commitment",
+    "amount": "1779428.8865",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2024-11-03T02:38:59.665272"
+  },
+  "333": {
+    "payment_id": "333",
+    "reference_id": "44",
+    "reference_type": "commitment",
+    "amount": "941068.9866",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-12-31T20:13:00.514483"
+  },
+  "334": {
+    "payment_id": "334",
+    "reference_id": "57",
+    "reference_type": "commitment",
+    "amount": "1754321.0458",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2025-06-06T18:21:46.962954"
+  },
+  "335": {
+    "payment_id": "335",
+    "reference_id": "60",
+    "reference_type": "commitment",
+    "amount": "1526090.2813",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2024-09-18T20:35:09.952238"
+  },
+  "336": {
+    "payment_id": "336",
+    "reference_id": "19",
+    "reference_type": "commitment",
+    "amount": "1379281.2096",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-11-01T19:16:12.949486"
+  },
+  "337": {
+    "payment_id": "337",
+    "reference_id": "92",
+    "reference_type": "commitment",
+    "amount": "254232.5002",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-07-23T10:08:06.655940"
+  },
+  "338": {
+    "payment_id": "338",
+    "reference_id": "22",
+    "reference_type": "commitment",
+    "amount": "1689501.8035",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-04-04T18:24:56.112569"
+  },
+  "339": {
+    "payment_id": "339",
+    "reference_id": "29",
+    "reference_type": "commitment",
+    "amount": "1648939.9919",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "27",
+    "transaction_date": "2025-01-11T16:50:19.826475"
+  },
+  "340": {
+    "payment_id": "340",
+    "reference_id": "15",
+    "reference_type": "commitment",
+    "amount": "952846.5771",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-04-23T12:33:39.299399"
+  },
+  "341": {
+    "payment_id": "341",
+    "reference_id": "102",
+    "reference_type": "commitment",
+    "amount": "1107090.0789",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "32",
+    "transaction_date": "2025-02-10T00:53:55.325733"
+  },
+  "342": {
+    "payment_id": "342",
+    "reference_id": "66",
+    "reference_type": "commitment",
+    "amount": "1316026.8152",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-12-07T21:51:06.356853"
+  },
+  "343": {
+    "payment_id": "343",
+    "reference_id": "48",
+    "reference_type": "commitment",
+    "amount": "1591029.3760",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2025-01-14T15:30:09.719643"
+  },
+  "344": {
+    "payment_id": "344",
+    "reference_id": "72",
+    "reference_type": "commitment",
+    "amount": "1181496.6749",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "3",
+    "transaction_date": "2025-07-06T01:37:57.000448"
+  },
+  "345": {
+    "payment_id": "345",
+    "reference_id": "12",
+    "reference_type": "commitment",
+    "amount": "1604114.3753",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "14",
+    "transaction_date": "2025-07-25T07:11:44.980136"
+  },
+  "346": {
+    "payment_id": "346",
+    "reference_id": "3",
+    "reference_type": "commitment",
+    "amount": "549290.7508",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "27",
+    "transaction_date": "2024-11-19T04:22:25.541043"
+  },
+  "347": {
+    "payment_id": "347",
+    "reference_id": "37",
+    "reference_type": "commitment",
+    "amount": "1881429.0138",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-07-29T11:47:00.877483"
+  },
+  "348": {
+    "payment_id": "348",
+    "reference_id": "76",
+    "reference_type": "commitment",
+    "amount": "1004499.6566",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2024-12-23T05:16:00.335519"
+  },
+  "349": {
+    "payment_id": "349",
+    "reference_id": "65",
+    "reference_type": "commitment",
+    "amount": "947443.1646",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-06-18T15:32:35.946831"
+  },
+  "350": {
+    "payment_id": "350",
+    "reference_id": "26",
+    "reference_type": "commitment",
+    "amount": "477516.7472",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2024-12-05T23:32:58.208618"
+  },
+  "351": {
+    "payment_id": "351",
+    "reference_id": "18",
+    "reference_type": "commitment",
+    "amount": "301268.8707",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-06-27T19:01:26.664952"
+  },
+  "352": {
+    "payment_id": "352",
+    "reference_id": "1",
+    "reference_type": "commitment",
+    "amount": "1511148.1998",
+    "payment_method": "check",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-06-28T15:02:20.030100"
+  },
+  "353": {
+    "payment_id": "353",
+    "reference_id": "81",
+    "reference_type": "commitment",
+    "amount": "1960600.6205",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2025-06-26T18:40:51.137720"
+  },
+  "354": {
+    "payment_id": "354",
+    "reference_id": "59",
+    "reference_type": "commitment",
+    "amount": "1397550.9709",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-05-14T20:47:29.769913"
+  },
+  "355": {
+    "payment_id": "355",
+    "reference_id": "82",
+    "reference_type": "commitment",
+    "amount": "1946567.9559",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-02-10T08:41:42.814958"
+  },
+  "356": {
+    "payment_id": "356",
+    "reference_id": "93",
+    "reference_type": "commitment",
+    "amount": "1653187.7680",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "32",
+    "transaction_date": "2025-05-18T00:01:04.626961"
+  },
+  "357": {
+    "payment_id": "357",
+    "reference_id": "33",
+    "reference_type": "commitment",
+    "amount": "1422741.3555",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-10-30T07:26:34.078220"
+  },
+  "358": {
+    "payment_id": "358",
+    "reference_id": "99",
+    "reference_type": "commitment",
+    "amount": "774045.7306",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "25",
+    "transaction_date": "2025-07-17T05:13:23.424001"
+  },
+  "359": {
+    "payment_id": "359",
+    "reference_id": "31",
+    "reference_type": "commitment",
+    "amount": "1506049.8991",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "3",
+    "transaction_date": "2025-02-23T08:11:16.255546"
+  },
+  "360": {
+    "payment_id": "360",
+    "reference_id": "11",
+    "reference_type": "commitment",
+    "amount": "389842.2881",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "12",
+    "transaction_date": "2025-05-16T16:13:49.568968"
+  },
+  "361": {
+    "payment_id": "361",
+    "reference_id": "62",
+    "reference_type": "commitment",
+    "amount": "1182315.4509",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "46",
+    "transaction_date": "2024-10-17T16:57:37.926234"
+  },
+  "362": {
+    "payment_id": "362",
+    "reference_id": "74",
+    "reference_type": "commitment",
+    "amount": "1159200.2755",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-09-18T07:42:26.784212"
+  },
+  "363": {
+    "payment_id": "363",
+    "reference_id": "79",
+    "reference_type": "commitment",
+    "amount": "452772.9632",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-01-06T05:05:39.260632"
+  },
+  "364": {
+    "payment_id": "364",
+    "reference_id": "70",
+    "reference_type": "commitment",
+    "amount": "1308727.1903",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-12-08T09:29:18.712077"
+  },
+  "365": {
+    "payment_id": "365",
+    "reference_id": "4",
+    "reference_type": "commitment",
+    "amount": "503889.8379",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2025-07-19T20:21:17.964538"
+  },
+  "366": {
+    "payment_id": "366",
+    "reference_id": "77",
+    "reference_type": "commitment",
+    "amount": "222221.0070",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-05-24T08:58:08.391795"
+  },
+  "367": {
+    "payment_id": "367",
+    "reference_id": "43",
+    "reference_type": "commitment",
+    "amount": "663309.0502",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "8",
+    "transaction_date": "2025-05-22T11:40:24.703840"
+  },
+  "368": {
+    "payment_id": "368",
+    "reference_id": "35",
+    "reference_type": "commitment",
+    "amount": "952209.0939",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-07-14T19:06:31.869020"
+  },
+  "369": {
+    "payment_id": "369",
+    "reference_id": "8",
+    "reference_type": "commitment",
+    "amount": "1475774.4392",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "40",
+    "transaction_date": "2024-11-02T15:09:46.727598"
+  },
+  "370": {
+    "payment_id": "370",
+    "reference_id": "47",
+    "reference_type": "commitment",
+    "amount": "596673.3755",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "40",
+    "transaction_date": "2025-08-07T09:07:49.539853"
+  },
+  "371": {
+    "payment_id": "371",
+    "reference_id": "71",
+    "reference_type": "commitment",
+    "amount": "1410050.6619",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "17",
+    "transaction_date": "2024-11-17T02:18:13.190634"
+  },
+  "372": {
+    "payment_id": "372",
+    "reference_id": "41",
+    "reference_type": "commitment",
+    "amount": "1522485.0742",
+    "payment_method": "wire_transfer",
+    "status": "completed",
+    "processed_by_id": "20",
+    "transaction_date": "2025-02-17T08:13:12.525529"
+  },
+  "373": {
+    "payment_id": "373",
+    "reference_id": "84",
+    "reference_type": "commitment",
+    "amount": "1367450.3100",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "27",
+    "transaction_date": "2025-09-14T23:58:19.361379"
+  },
+  "374": {
+    "payment_id": "374",
+    "reference_id": "94",
+    "reference_type": "commitment",
+    "amount": "1428480.2470",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "12",
+    "transaction_date": "2025-04-30T21:55:09.867057"
+  },
+  "375": {
+    "payment_id": "375",
+    "reference_id": "100",
+    "reference_type": "commitment",
+    "amount": "1041620.7524",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2025-03-27T18:32:15.329673"
+  },
+  "376": {
+    "payment_id": "376",
+    "reference_id": "75",
+    "reference_type": "commitment",
+    "amount": "577646.6747",
+    "payment_method": "check",
+    "status": "failed",
+    "processed_by_id": "23",
+    "transaction_date": "2024-09-30T02:13:40.697117"
+  },
+  "377": {
+    "payment_id": "377",
+    "reference_id": "28",
+    "reference_type": "commitment",
+    "amount": "1545229.8193",
+    "payment_method": "ach",
+    "status": "failed",
+    "processed_by_id": "36",
+    "transaction_date": "2024-11-19T15:34:27.462578"
+  },
+  "378": {
+    "payment_id": "378",
+    "reference_id": "78",
+    "reference_type": "commitment",
+    "amount": "1917980.7741",
+    "payment_method": "check",
+    "status": "pending",
+    "processed_by_id": "25",
+    "transaction_date": "2025-08-08T10:34:33.240532"
+  },
+  "379": {
+    "payment_id": "379",
+    "reference_id": "91",
+    "reference_type": "commitment",
+    "amount": "1661482.2253",
+    "payment_method": "ach",
+    "status": "pending",
+    "processed_by_id": "20",
+    "transaction_date": "2025-04-24T03:24:58.421506"
+  },
+  "380": {
+    "payment_id": "380",
+    "reference_id": "46",
+    "reference_type": "commitment",
+    "amount": "806075.4742",
+    "payment_method": "ach",
+    "status": "completed",
+    "processed_by_id": "12",
+    "transaction_date": "2024-11-03T00:45:13.770619"
+  },
+  "381": {
+    "payment_id": "381",
+    "reference_id": "30",
+    "reference_type": "commitment",
+    "amount": "1848712.3377",
+    "payment_method": "wire_transfer",
+    "status": "failed",
+    "processed_by_id": "14",
+    "transaction_date": "2024-12-26T08:28:00.220787"
+  },
+  "382": {
+    "payment_id": "382",
+    "reference_id": "90",
+    "reference_type": "commitment",
+    "amount": "1019965.3894",
+    "payment_method": "wire_transfer",
+    "status": "pending",
+    "processed_by_id": "46",
+    "transaction_date": "2025-06-23T05:41:30.450955"
+  }
+}

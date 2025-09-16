@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <title>Turing Tooling</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+
+
+<body>
+    <header class="dashboard-header">
+        <div class="logo">
+            <a href='/'><img src="{{ url_for('static', filename='images/turing_logo.svg') }}" alt="turing image" style="width: 100px; scale: 1.5; display: block; margin: 0 auto;"></a>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-section" id="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1>Welcome to Turing <div id="amazon-word">Amazon</div> Tooling</h1>
+                <p>Streamline your Amazon agentic workflows with our comprehensive management platform. Optimize processes, extract actionable insights, and enhance team collaboration—all from a single, integrated dashboard.</p>            </div>
+            <!-- <div class="hero-image">
+                <div class="turing-logo">
+                    TURING
+                </div>
+            </div>
+            <div>
+                <img src="{{ url_for('static', filename='images/amazon_logo.svg') }}" alt="Turing Logo" style="display: block; margin: 0 auto; width: 400px; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);">
+            </div> -->
+        </div>
+    </section>
+
+    <!-- Functionalities Section -->
+    <section class="functionalities-section">
+        <div class="functionalities-container">
+            <h2 class="functionalities-title">Available Tools & Features</h2>
+            
+            <div class="cards-grid">
+                <a href="/tracker" class="functionality-card">
+                    <div class="card-icon">🔍</div>
+                    <div class="card-title">Tasks Tracker & Analysis</div>
+                    <div class="card-description">
+                        Tracks the tasks done by Turing trainers across pods, providing insights into task completion and performance metrics.
+                    </div>
+                </a>
+
+                <a href="/task-framework" class="functionality-card">
+                    <img  class="card-icon" src="{{ url_for('static', filename='images/block-build.svg') }}" alt="Task Framework Icon">
+                    <div class="card-title">Task Framework</div>
+                    <div class="card-description">
+                        A Framework for creating tasks encompassing tools that execute the actions, visualize the connections between APIs.
+                    </div>
+                </a>
+
+                <a href="/interface_connections" class="functionality-card">
+                    <img  class="card-icon" src="{{ url_for('static', filename='images/connections-scheme.svg') }}" alt="Connections Icon">
+                    <div class="card-title">Interface Connections Visualizer</div>
+                    <div class="card-description">
+                        Visualizes the connections between the APIs, helping to understand how different APIs interact.
+                    </div>
+                </a>
+
+                <!-- <a href="/chain_analyzer" class="functionality-card">
+                    <div class="card-icon">🔗</div>
+                    <div class="card-title">Chain Analyzer</div>
+                    <div class="card-description">
+                        Analyze Python functions and JSON data to suggest optimal chaining patterns.
+                    </div>
+                </a> -->
+
+                <a href="/instruction_relevant_actions_or_policies" class="functionality-card">
+                    <img  class="card-icon" src="{{ url_for('static', filename='images/extract-button.svg') }}" alt="Extract Icon">
+                    <div class="card-title">Relevant actions and policies extractor</div>
+                    <div class="card-description">
+                        Extract relevant actions and policies from the provided Instruction.
+                    </div>
+                </a>
+
+                <a href="/db_utilities" class="functionality-card">
+                    <img  class="card-icon" src="{{ url_for('static', filename='images/database.svg') }}" alt="Database Icon">
+                    <div class="card-title">Database Creation Utilities</div>
+                    <div class="card-description">
+                        Tools for creating database domains.
+                    </div>
+                </a>
+                <a href="/instruction_validation" class="functionality-card">
+                    <img  class="card-icon" src="{{ url_for('static', filename='images/task-validation.svg') }}" alt="Task Validation Icon">
+                    <div class="card-title">Instruction Validation</div>
+                    <div class="card-description">
+                        Validate your instructions.
+                    </div>
+                </a>
+
+            </div>
+
+            <!-- <div class="cta-section">
+                <a href="#" class="cta-button">Get Started with Turing Tooling</a>
+            </div> -->
+        </div>
+    </section>
+
+    <script>
+        document.getElementById('hero').style.backgroundImage = 
+            "url('{{ url_for('static', filename='images/home-page-image.avif') }}')";
+    </script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <title>Task Tracker - Turing Tooling</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/task_tracker.css') }}">
+    <script src="{{ url_for('static', filename='scripts/task_tracker.js') }}"></script>
+</head>
+<body>
+    <header class="dashboard-header">
+        <a href='/'> <div class="logo">
+            <img src="{{ url_for('static', filename='images/turing_logo.svg') }}" alt="turing image" style="width: 100px; scale: 1.5; display: block; margin: 0 auto;">
+        </div></a>
+    </header>
+
+    <!-- Task Tracker Section -->
+    <section class="task-tracker-section">
+        <div class="tracker-header">
+            <div class="header-visual">
+                <div class="task-icon">
+                    <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="taskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                            </linearGradient>
+                            <filter id="glow">
+                                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+                                <feMerge> 
+                                    <feMergeNode in="coloredBlur"/>
+                                    <feMergeNode in="SourceGraphic"/>
+                                </feMerge>
+                            </filter>
+                        </defs>
+                        <!-- Task board background -->
+                        <rect x="20" y="25" width="80" height="70" rx="8" fill="url(#taskGradient)" opacity="0.3" filter="url(#glow)"/>
+                        
+                        <!-- Task cards/items -->
+                        <rect x="30" y="35" width="60" height="8" rx="4" fill="url(#taskGradient)" opacity="0.8"/>
+                        <rect x="30" y="48" width="45" height="8" rx="4" fill="url(#taskGradient)" opacity="0.6"/>
+                        <rect x="30" y="61" width="55" height="8" rx="4" fill="url(#taskGradient)" opacity="0.9"/>
+                        <rect x="30" y="74" width="40" height="8" rx="4" fill="url(#taskGradient)" opacity="0.7"/>
+                        
+                        <!-- Progress indicators -->
+                        <circle cx="25" cy="39" r="3" fill="#4CAF50" opacity="0.9"/>
+                        <circle cx="25" cy="52" r="3" fill="#FFA726" opacity="0.9"/>
+                        <circle cx="25" cy="65" r="3" fill="#4CAF50" opacity="0.9"/>
+                        <circle cx="25" cy="78" r="3" fill="#FF6B6B" opacity="0.9"/>
+                        
+                        <!-- Analytics chart -->
+                        <path d="M 25 105 Q 35 100, 45 102 T 65 98 T 85 95 T 95 90" stroke="url(#taskGradient)" stroke-width="3" fill="none" opacity="0.8"/>
+                        <circle cx="35" cy="101" r="2" fill="url(#taskGradient)" opacity="0.9"/>
+                        <circle cx="55" cy="100" r="2" fill="url(#taskGradient)" opacity="0.9"/>
+                        <circle cx="75" cy="96" r="2" fill="url(#taskGradient)" opacity="0.9"/>
+                        <circle cx="95" cy="90" r="2" fill="url(#taskGradient)" opacity="0.9"/>
+                    </svg>
+                </div>
+            </div>
+            <h1>Task Tracker</h1>
+            <div class="subtitle-container">
+                <div class="subtitle-line"></div>
+                <span class="subtitle">Real-Time Analytics Dashboard</span>
+                <div class="subtitle-line"></div>
+            </div>
+            <p class="tracker-description">
+                Comprehensive task analysis and monitoring system that provides real-time insights into task distribution, 
+                completion rates, and performance metrics across all pods. Track the number of active tasks, monitor 
+                workload distribution, and analyze productivity patterns to optimize Amazon agentic project workflow.
+            </p>
+        </div>
+
+        <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 2rem;">
+            <h2 style="display: inline;"> Current Domain: <span id="currentDomain" style="font-weight: bold; color: #4CAF50;">?</span> </h2>
+            
+        </div>
+        <!-- Analytics Overview -->
+        <div class="analytics-container">
+            <div class="analytics-card">
+                <div class="analytics-number" id="totalTasks">?</div>
+                <div class="analytics-label">Total Tasks</div>
+                <div class="analytics-description">Completed tasks across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="totalMergedTasks">?</div>
+                <div class="analytics-label">Total Merged Tasks</div>
+                <div class="analytics-description">Merged tasks across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="pendingReviewTasks">?</div>
+                <div class="analytics-label">Total Pending Review Tasks</div>
+                <div class="analytics-description">Tasks pending review across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="totalNeedsChangesTasks">?</div>
+                <div class="analytics-label">Total Needs Changes Tasks</div>
+                <div class="analytics-description">Tasks needing changes across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="totalResubmittedTasks">?</div>
+                <div class="analytics-label">Total Resubmitted Tasks</div>
+                <div class="analytics-description">Resubmitted tasks across all pods</div>
+            </div>
+            
+            <div class="analytics-card">
+                <div class="analytics-number" id="totalDiscardedTasks">?</div>
+                <div class="analytics-label">Total Discarded Tasks</div>
+                <div class="analytics-description">Discarded tasks across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="readyToMergeTasks">?</div>
+                <div class="analytics-label">Ready to Merge Tasks</div>
+                <div class="analytics-description">Tasks ready to be merged across all pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="activePods">?</div>
+                <div class="analytics-label">Active Pods</div>
+                <div class="analytics-description">Currently operational Pods</div>
+            </div>
+            <div class="analytics-card">
+                <div class="analytics-number" id="completionRate">?%</div>
+                <div class="analytics-label">Completion Rate</div>
+                <div class="analytics-description">Overall merged/accepted tasks percentage</div>
+            </div>
+        </div>
+
+        <!-- Filters Container -->
+        <div class="filters-container">
+            <div class="filters-header">
+                <h2 class="filters-title">Filters & Controls</h2>
+                <button id="reloadBtn" class="reload-button">
+                    &#x21bb Reload Data
+                </button>
+            </div>
+            
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label" for="domainFilter">Domain</label>
+                    <select id="domainFilter" class="filter-select">
+                        <option value="all">All Domains</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="interfaceFilter">Interface</label>
+                    <select id="interfaceFilter" class="filter-select">
+                        <option value="all">All Interfaces</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="weekFilter">Week</label>
+                    <select id="weekFilter" class="filter-select">
+                        <option value="all">All Weeks</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="calibratorFilter">Calibrator</label>
+                    <select id="calibratorFilter" class="filter-select">
+                        <option value="all">All Calibrators</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="podFilter">Pod</label>
+                    <select id="podFilter" class="filter-select">
+                        <option value="all">All Pods</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-label" for="trainerFilter">Trainer</label>
+                    <select id="trainerFilter" class="filter-select">
+                        <option value="all">All Trainers</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-label" for="complexityFilter">Complexity</label>
+                    <select id="complexityFilter" class="filter-select">
+                        <option value="all">All Complexities</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tasks Display Container -->
+        <div class="tasks-container">
+            <div class="tasks-header">
+                <span>Task Distribution</span>
+                <span style="font-size: 0.9rem; color: rgba(255, 255, 255, 0.6);">Real-time task monitoring</span>
+            </div>
+            
+            <!-- This is where your task data table will be displayed -->
+            <div id="tasksDisplay" style="color: rgba(255, 255, 255, 0.6); text-align: center; padding: 2rem;">
+                Loading task data...
+            </div>
+
+        </div>
+        <!-- Trainer Stats Display -->
+        <div class="tasks-container">
+            <div class="tasks-header">
+                <span>Statistics based on filters</span>
+                <span style="font-size: 0.9rem; color: rgba(255, 255, 255, 0.6);">Performance metrics for trainers</span>
+            </div>
+            <div id="trainerStatsDisplay" class="trainer-stats-display">
+                <!-- Trainer stats table will be rendered here -->
+                <div class="no-data">No trainer statistics available until data is fetched</div>
+            </div>
+    </section>
+</body>
+</html>

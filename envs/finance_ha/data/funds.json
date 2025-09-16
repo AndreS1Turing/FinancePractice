@@ -1,0 +1,222 @@
+{
+  "1": {
+    "fund_id": "1",
+    "name": "Brooks-Anderson Fund",
+    "fund_type": "real_estate",
+    "base_currency": "USD",
+    "initial_size": "145375320.0109",
+    "manager_id": "24",
+    "status": "closed",
+    "created_at": "2025-03-01T19:01:06.428332",
+    "updated_at": "2025-05-03T05:34:55.796475"
+  },
+  "2": {
+    "fund_id": "2",
+    "name": "Mann-Mcclure Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "328533598.2746",
+    "manager_id": "43",
+    "status": "closed",
+    "created_at": "2025-06-26T01:55:12.179436",
+    "updated_at": "2025-09-10T08:30:19.884461"
+  },
+  "3": {
+    "fund_id": "3",
+    "name": "Conner Inc Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "203295881.0290",
+    "manager_id": "35",
+    "status": "closed",
+    "created_at": "2025-02-16T04:00:09.421244",
+    "updated_at": "2025-07-12T23:47:04.548137"
+  },
+  "4": {
+    "fund_id": "4",
+    "name": "Lee LLC Fund",
+    "fund_type": "hedge_fund",
+    "base_currency": "USD",
+    "initial_size": "63679036.1001",
+    "manager_id": "33",
+    "status": "closed",
+    "created_at": "2025-04-22T11:49:55.563467",
+    "updated_at": "2025-08-23T00:59:01.988531"
+  },
+  "5": {
+    "fund_id": "5",
+    "name": "Brown, Abbott and Hartman Fund",
+    "fund_type": "real_estate",
+    "base_currency": "USD",
+    "initial_size": "287465021.3806",
+    "manager_id": "18",
+    "status": "open",
+    "created_at": "2025-04-28T12:08:11.653693",
+    "updated_at": "2025-09-09T11:32:44.045432"
+  },
+  "6": {
+    "fund_id": "6",
+    "name": "Martin Group Fund",
+    "fund_type": "real_estate",
+    "base_currency": "USD",
+    "initial_size": "435236093.1544",
+    "manager_id": "35",
+    "status": "open",
+    "created_at": "2024-10-20T20:59:34.430192",
+    "updated_at": "2024-11-05T04:35:28.076293"
+  },
+  "7": {
+    "fund_id": "7",
+    "name": "Ponce-Patterson Fund",
+    "fund_type": "real_estate",
+    "base_currency": "USD",
+    "initial_size": "201740204.7878",
+    "manager_id": "18",
+    "status": "pending_approval",
+    "created_at": "2024-07-15T11:36:39.134049",
+    "updated_at": "2024-11-20T15:36:18.051684"
+  },
+  "8": {
+    "fund_id": "8",
+    "name": "Alvarado and Sons Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "109021532.0252",
+    "manager_id": "24",
+    "status": "open",
+    "created_at": "2024-01-19T00:26:48.907798",
+    "updated_at": "2024-10-18T12:24:05.053872"
+  },
+  "9": {
+    "fund_id": "9",
+    "name": "Stewart-Johnson Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "275914653.8962",
+    "manager_id": "35",
+    "status": "pending_approval",
+    "created_at": "2024-07-11T02:05:48.162084",
+    "updated_at": "2025-09-07T23:15:34.548431"
+  },
+  "10": {
+    "fund_id": "10",
+    "name": "Nguyen-Harris Fund",
+    "fund_type": "real_estate",
+    "base_currency": "USD",
+    "initial_size": "495709344.7784",
+    "manager_id": "35",
+    "status": "pending_approval",
+    "created_at": "2025-06-26T01:43:53.319712",
+    "updated_at": "2025-07-07T21:20:12.471630"
+  },
+  "11": {
+    "fund_id": "11",
+    "name": "Williams, Hale and Salas Fund",
+    "fund_type": "venture_capital",
+    "base_currency": "USD",
+    "initial_size": "332397022.2238",
+    "manager_id": "18",
+    "status": "closed",
+    "created_at": "2025-02-17T13:14:23.763971",
+    "updated_at": "2025-04-19T09:00:45.367275"
+  },
+  "12": {
+    "fund_id": "12",
+    "name": "Hall, Gibson and Jones Fund",
+    "fund_type": "hedge_fund",
+    "base_currency": "USD",
+    "initial_size": "47529753.1596",
+    "manager_id": "35",
+    "status": "open",
+    "created_at": "2025-08-28T12:36:18.436713",
+    "updated_at": "2025-09-13T08:31:12.351879"
+  },
+  "13": {
+    "fund_id": "13",
+    "name": "Stuart, Bartlett and Gonzalez Fund",
+    "fund_type": "hedge_fund",
+    "base_currency": "USD",
+    "initial_size": "123763884.6518",
+    "manager_id": "18",
+    "status": "closed",
+    "created_at": "2023-11-10T16:53:37.831752",
+    "updated_at": "2024-03-29T10:56:54.573576"
+  },
+  "14": {
+    "fund_id": "14",
+    "name": "Jefferson-Smith Fund",
+    "fund_type": "hedge_fund",
+    "base_currency": "USD",
+    "initial_size": "190121575.4187",
+    "manager_id": "33",
+    "status": "closed",
+    "created_at": "2024-06-13T12:07:59.798664",
+    "updated_at": "2024-10-27T21:04:08.196975"
+  },
+  "15": {
+    "fund_id": "15",
+    "name": "Miller-Estrada Fund",
+    "fund_type": "private_equity",
+    "base_currency": "USD",
+    "initial_size": "462625521.3500",
+    "manager_id": "18",
+    "status": "closed",
+    "created_at": "2024-12-10T01:19:50.416599",
+    "updated_at": "2025-03-16T09:15:31.216542"
+  },
+  "16": {
+    "fund_id": "16",
+    "name": "Keller Group Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "373404338.4147",
+    "manager_id": "24",
+    "status": "open",
+    "created_at": "2025-07-19T11:26:25.596126",
+    "updated_at": "2025-09-09T13:17:18.835707"
+  },
+  "17": {
+    "fund_id": "17",
+    "name": "Smith-Johnson Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "91074286.0467",
+    "manager_id": "24",
+    "status": "closed",
+    "created_at": "2025-09-12T19:18:41.881733",
+    "updated_at": "2025-09-14T16:52:40.159096"
+  },
+  "18": {
+    "fund_id": "18",
+    "name": "Fox Ltd Fund",
+    "fund_type": "venture_capital",
+    "base_currency": "USD",
+    "initial_size": "357706866.5225",
+    "manager_id": "33",
+    "status": "closed",
+    "created_at": "2024-08-21T04:41:31.857347",
+    "updated_at": "2025-05-24T09:00:04.434419"
+  },
+  "19": {
+    "fund_id": "19",
+    "name": "Anderson-Woods Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "261763438.0835",
+    "manager_id": "35",
+    "status": "open",
+    "created_at": "2023-12-04T15:47:18.087603",
+    "updated_at": "2024-08-07T05:29:31.662836"
+  },
+  "20": {
+    "fund_id": "20",
+    "name": "Smith-Callahan Fund",
+    "fund_type": "mutual_fund",
+    "base_currency": "USD",
+    "initial_size": "35918189.3048",
+    "manager_id": "1",
+    "status": "pending_approval",
+    "created_at": "2024-11-03T11:36:43.817197",
+    "updated_at": "2025-02-07T13:19:38.110022"
+  }
+}

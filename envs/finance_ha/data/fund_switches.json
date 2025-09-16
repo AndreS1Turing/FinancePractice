@@ -1,0 +1,492 @@
+{
+  "1": {
+    "switch_id": "1",
+    "investor_id": "10",
+    "source_fund_id": "3",
+    "target_fund_id": "14",
+    "switch_amount": "92279.3122",
+    "status": "failed",
+    "requested_at": "2025-08-01T02:07:54.466448",
+    "processed_at": null
+  },
+  "2": {
+    "switch_id": "2",
+    "investor_id": "84",
+    "source_fund_id": "3",
+    "target_fund_id": "6",
+    "switch_amount": "13864.4507",
+    "status": "failed",
+    "requested_at": "2025-03-01T14:21:39.222091",
+    "processed_at": null
+  },
+  "3": {
+    "switch_id": "3",
+    "investor_id": "10",
+    "source_fund_id": "20",
+    "target_fund_id": "15",
+    "switch_amount": "34520.5180",
+    "status": "processed",
+    "requested_at": "2025-01-30T05:02:54.699698",
+    "processed_at": "2025-02-01T05:02:54.699698"
+  },
+  "4": {
+    "switch_id": "4",
+    "investor_id": "48",
+    "source_fund_id": "2",
+    "target_fund_id": "15",
+    "switch_amount": "12885.8989",
+    "status": "failed",
+    "requested_at": "2024-11-05T06:04:41.482956",
+    "processed_at": null
+  },
+  "5": {
+    "switch_id": "5",
+    "investor_id": "98",
+    "source_fund_id": "5",
+    "target_fund_id": "8",
+    "switch_amount": "12002.9554",
+    "status": "failed",
+    "requested_at": "2025-01-05T00:08:27.981399",
+    "processed_at": null
+  },
+  "6": {
+    "switch_id": "6",
+    "investor_id": "47",
+    "source_fund_id": "11",
+    "target_fund_id": "5",
+    "switch_amount": "61389.2937",
+    "status": "processed",
+    "requested_at": "2025-08-04T23:37:39.567021",
+    "processed_at": "2025-08-06T23:37:39.567021"
+  },
+  "7": {
+    "switch_id": "7",
+    "investor_id": "67",
+    "source_fund_id": "7",
+    "target_fund_id": "8",
+    "switch_amount": "79456.9264",
+    "status": "processed",
+    "requested_at": "2025-05-16T14:07:21.740056",
+    "processed_at": "2025-05-18T14:07:21.740056"
+  },
+  "8": {
+    "switch_id": "8",
+    "investor_id": "3",
+    "source_fund_id": "20",
+    "target_fund_id": "10",
+    "switch_amount": "75970.9990",
+    "status": "pending",
+    "requested_at": "2024-10-06T22:47:23.903214",
+    "processed_at": null
+  },
+  "9": {
+    "switch_id": "9",
+    "investor_id": "12",
+    "source_fund_id": "7",
+    "target_fund_id": "8",
+    "switch_amount": "43582.2146",
+    "status": "failed",
+    "requested_at": "2025-02-09T12:52:45.399004",
+    "processed_at": null
+  },
+  "10": {
+    "switch_id": "10",
+    "investor_id": "81",
+    "source_fund_id": "1",
+    "target_fund_id": "17",
+    "switch_amount": "75175.6095",
+    "status": "pending",
+    "requested_at": "2025-02-20T02:31:06.055699",
+    "processed_at": null
+  },
+  "11": {
+    "switch_id": "11",
+    "investor_id": "86",
+    "source_fund_id": "14",
+    "target_fund_id": "19",
+    "switch_amount": "54790.2521",
+    "status": "pending",
+    "requested_at": "2025-08-14T20:29:25.115373",
+    "processed_at": null
+  },
+  "12": {
+    "switch_id": "12",
+    "investor_id": "6",
+    "source_fund_id": "19",
+    "target_fund_id": "4",
+    "switch_amount": "82787.0456",
+    "status": "failed",
+    "requested_at": "2025-04-18T00:18:31.946106",
+    "processed_at": null
+  },
+  "13": {
+    "switch_id": "13",
+    "investor_id": "50",
+    "source_fund_id": "18",
+    "target_fund_id": "1",
+    "switch_amount": "84505.4552",
+    "status": "pending",
+    "requested_at": "2025-06-28T14:25:49.039953",
+    "processed_at": null
+  },
+  "14": {
+    "switch_id": "14",
+    "investor_id": "65",
+    "source_fund_id": "12",
+    "target_fund_id": "17",
+    "switch_amount": "42536.7431",
+    "status": "processed",
+    "requested_at": "2025-07-11T20:58:00.245058",
+    "processed_at": "2025-07-13T20:58:00.245058"
+  },
+  "15": {
+    "switch_id": "15",
+    "investor_id": "87",
+    "source_fund_id": "4",
+    "target_fund_id": "14",
+    "switch_amount": "23725.3254",
+    "status": "failed",
+    "requested_at": "2024-09-29T16:02:36.154828",
+    "processed_at": null
+  },
+  "16": {
+    "switch_id": "16",
+    "investor_id": "69",
+    "source_fund_id": "11",
+    "target_fund_id": "14",
+    "switch_amount": "17770.4708",
+    "status": "pending",
+    "requested_at": "2025-06-29T10:18:23.128620",
+    "processed_at": null
+  },
+  "17": {
+    "switch_id": "17",
+    "investor_id": "56",
+    "source_fund_id": "8",
+    "target_fund_id": "17",
+    "switch_amount": "70011.5436",
+    "status": "pending",
+    "requested_at": "2025-03-18T07:05:06.758059",
+    "processed_at": null
+  },
+  "18": {
+    "switch_id": "18",
+    "investor_id": "63",
+    "source_fund_id": "3",
+    "target_fund_id": "7",
+    "switch_amount": "42706.5654",
+    "status": "processed",
+    "requested_at": "2025-03-29T17:50:27.877960",
+    "processed_at": "2025-03-31T17:50:27.877960"
+  },
+  "19": {
+    "switch_id": "19",
+    "investor_id": "35",
+    "source_fund_id": "12",
+    "target_fund_id": "14",
+    "switch_amount": "74926.9696",
+    "status": "pending",
+    "requested_at": "2025-01-27T00:48:00.709402",
+    "processed_at": null
+  },
+  "20": {
+    "switch_id": "20",
+    "investor_id": "96",
+    "source_fund_id": "8",
+    "target_fund_id": "11",
+    "switch_amount": "34596.0392",
+    "status": "pending",
+    "requested_at": "2025-06-26T05:42:49.453297",
+    "processed_at": null
+  },
+  "21": {
+    "switch_id": "21",
+    "investor_id": "55",
+    "source_fund_id": "5",
+    "target_fund_id": "17",
+    "switch_amount": "22230.4088",
+    "status": "failed",
+    "requested_at": "2024-10-17T23:29:04.765964",
+    "processed_at": null
+  },
+  "22": {
+    "switch_id": "22",
+    "investor_id": "59",
+    "source_fund_id": "17",
+    "target_fund_id": "20",
+    "switch_amount": "28589.3240",
+    "status": "processed",
+    "requested_at": "2024-10-24T01:41:24.082403",
+    "processed_at": "2024-10-26T01:41:24.082403"
+  },
+  "23": {
+    "switch_id": "23",
+    "investor_id": "84",
+    "source_fund_id": "5",
+    "target_fund_id": "14",
+    "switch_amount": "31259.5462",
+    "status": "failed",
+    "requested_at": "2025-05-30T04:39:54.724775",
+    "processed_at": null
+  },
+  "24": {
+    "switch_id": "24",
+    "investor_id": "43",
+    "source_fund_id": "17",
+    "target_fund_id": "7",
+    "switch_amount": "51893.6971",
+    "status": "pending",
+    "requested_at": "2025-09-05T12:44:50.614703",
+    "processed_at": null
+  },
+  "25": {
+    "switch_id": "25",
+    "investor_id": "18",
+    "source_fund_id": "10",
+    "target_fund_id": "8",
+    "switch_amount": "88119.8761",
+    "status": "processed",
+    "requested_at": "2025-09-01T23:07:54.521487",
+    "processed_at": "2025-09-03T23:07:54.521487"
+  },
+  "26": {
+    "switch_id": "26",
+    "investor_id": "30",
+    "source_fund_id": "2",
+    "target_fund_id": "5",
+    "switch_amount": "88072.5952",
+    "status": "failed",
+    "requested_at": "2025-02-04T05:53:00.012525",
+    "processed_at": null
+  },
+  "27": {
+    "switch_id": "27",
+    "investor_id": "41",
+    "source_fund_id": "4",
+    "target_fund_id": "15",
+    "switch_amount": "12882.4263",
+    "status": "pending",
+    "requested_at": "2024-11-29T20:52:59.648049",
+    "processed_at": null
+  },
+  "28": {
+    "switch_id": "28",
+    "investor_id": "25",
+    "source_fund_id": "16",
+    "target_fund_id": "10",
+    "switch_amount": "96935.6623",
+    "status": "failed",
+    "requested_at": "2025-02-11T19:46:17.749589",
+    "processed_at": null
+  },
+  "29": {
+    "switch_id": "29",
+    "investor_id": "31",
+    "source_fund_id": "8",
+    "target_fund_id": "20",
+    "switch_amount": "97285.9548",
+    "status": "pending",
+    "requested_at": "2024-11-27T02:25:40.799500",
+    "processed_at": null
+  },
+  "30": {
+    "switch_id": "30",
+    "investor_id": "39",
+    "source_fund_id": "18",
+    "target_fund_id": "14",
+    "switch_amount": "10873.7597",
+    "status": "processed",
+    "requested_at": "2025-06-20T16:01:27.464304",
+    "processed_at": "2025-06-22T16:01:27.464304"
+  },
+  "31": {
+    "switch_id": "31",
+    "investor_id": "97",
+    "source_fund_id": "4",
+    "target_fund_id": "16",
+    "switch_amount": "71808.8325",
+    "status": "processed",
+    "requested_at": "2025-06-02T19:51:39.872988",
+    "processed_at": "2025-06-04T19:51:39.872988"
+  },
+  "32": {
+    "switch_id": "32",
+    "investor_id": "61",
+    "source_fund_id": "10",
+    "target_fund_id": "20",
+    "switch_amount": "31181.6275",
+    "status": "processed",
+    "requested_at": "2025-03-06T07:24:29.276375",
+    "processed_at": "2025-03-08T07:24:29.276375"
+  },
+  "33": {
+    "switch_id": "33",
+    "investor_id": "20",
+    "source_fund_id": "9",
+    "target_fund_id": "11",
+    "switch_amount": "96957.0461",
+    "status": "failed",
+    "requested_at": "2025-02-12T08:10:18.839744",
+    "processed_at": null
+  },
+  "34": {
+    "switch_id": "34",
+    "investor_id": "20",
+    "source_fund_id": "10",
+    "target_fund_id": "9",
+    "switch_amount": "74552.2856",
+    "status": "processed",
+    "requested_at": "2025-01-22T07:58:39.721552",
+    "processed_at": "2025-01-24T07:58:39.721552"
+  },
+  "35": {
+    "switch_id": "35",
+    "investor_id": "94",
+    "source_fund_id": "2",
+    "target_fund_id": "11",
+    "switch_amount": "58539.9817",
+    "status": "failed",
+    "requested_at": "2025-06-11T02:57:36.093184",
+    "processed_at": null
+  },
+  "36": {
+    "switch_id": "36",
+    "investor_id": "9",
+    "source_fund_id": "6",
+    "target_fund_id": "10",
+    "switch_amount": "88127.6748",
+    "status": "failed",
+    "requested_at": "2025-06-05T22:18:09.102587",
+    "processed_at": null
+  },
+  "37": {
+    "switch_id": "37",
+    "investor_id": "49",
+    "source_fund_id": "19",
+    "target_fund_id": "16",
+    "switch_amount": "66358.5512",
+    "status": "processed",
+    "requested_at": "2025-01-01T20:36:46.247065",
+    "processed_at": "2025-01-03T20:36:46.247065"
+  },
+  "38": {
+    "switch_id": "38",
+    "investor_id": "71",
+    "source_fund_id": "2",
+    "target_fund_id": "6",
+    "switch_amount": "72301.8430",
+    "status": "failed",
+    "requested_at": "2025-08-02T20:36:14.927866",
+    "processed_at": null
+  },
+  "39": {
+    "switch_id": "39",
+    "investor_id": "61",
+    "source_fund_id": "18",
+    "target_fund_id": "17",
+    "switch_amount": "87791.1949",
+    "status": "processed",
+    "requested_at": "2025-01-30T02:02:59.580763",
+    "processed_at": "2025-02-01T02:02:59.580763"
+  },
+  "40": {
+    "switch_id": "40",
+    "investor_id": "52",
+    "source_fund_id": "1",
+    "target_fund_id": "10",
+    "switch_amount": "12854.1073",
+    "status": "pending",
+    "requested_at": "2025-08-23T01:18:18.813640",
+    "processed_at": null
+  },
+  "41": {
+    "switch_id": "41",
+    "investor_id": "71",
+    "source_fund_id": "5",
+    "target_fund_id": "17",
+    "switch_amount": "43392.7865",
+    "status": "processed",
+    "requested_at": "2024-12-13T07:27:18.905447",
+    "processed_at": "2024-12-15T07:27:18.905447"
+  },
+  "42": {
+    "switch_id": "42",
+    "investor_id": "91",
+    "source_fund_id": "17",
+    "target_fund_id": "18",
+    "switch_amount": "31330.6371",
+    "status": "pending",
+    "requested_at": "2024-11-27T02:05:07.310571",
+    "processed_at": null
+  },
+  "43": {
+    "switch_id": "43",
+    "investor_id": "55",
+    "source_fund_id": "10",
+    "target_fund_id": "6",
+    "switch_amount": "16271.2297",
+    "status": "pending",
+    "requested_at": "2025-05-13T10:05:00.152642",
+    "processed_at": null
+  },
+  "44": {
+    "switch_id": "44",
+    "investor_id": "35",
+    "source_fund_id": "5",
+    "target_fund_id": "14",
+    "switch_amount": "84907.4195",
+    "status": "processed",
+    "requested_at": "2025-08-16T03:54:05.494173",
+    "processed_at": "2025-08-18T03:54:05.494173"
+  },
+  "45": {
+    "switch_id": "45",
+    "investor_id": "11",
+    "source_fund_id": "12",
+    "target_fund_id": "6",
+    "switch_amount": "82245.7768",
+    "status": "pending",
+    "requested_at": "2025-02-10T06:50:55.394763",
+    "processed_at": null
+  },
+  "46": {
+    "switch_id": "46",
+    "investor_id": "36",
+    "source_fund_id": "2",
+    "target_fund_id": "1",
+    "switch_amount": "15702.5193",
+    "status": "failed",
+    "requested_at": "2024-12-27T07:53:38.090978",
+    "processed_at": null
+  },
+  "47": {
+    "switch_id": "47",
+    "investor_id": "43",
+    "source_fund_id": "17",
+    "target_fund_id": "3",
+    "switch_amount": "66841.5834",
+    "status": "processed",
+    "requested_at": "2025-08-14T12:56:26.262387",
+    "processed_at": "2025-08-16T12:56:26.262387"
+  },
+  "48": {
+    "switch_id": "48",
+    "investor_id": "34",
+    "source_fund_id": "6",
+    "target_fund_id": "8",
+    "switch_amount": "91774.0360",
+    "status": "pending",
+    "requested_at": "2025-08-09T14:44:13.186677",
+    "processed_at": null
+  },
+  "49": {
+    "switch_id": "49",
+    "investor_id": "80",
+    "source_fund_id": "4",
+    "target_fund_id": "20",
+    "switch_amount": "86344.2991",
+    "status": "processed",
+    "requested_at": "2024-11-15T23:14:48.776909",
+    "processed_at": "2024-11-17T23:14:48.776909"
+  }
+}

@@ -1,0 +1,27 @@
+I have a set of tools that are used to interact with a database which is represented in json files. These tools allow me to perform various operations such as creating, reading, updating, and deleting records in the database.
+Your task is to implement those tools by creating for me the tools' files. Each tool file will include a class that comprises of two functions: one for the implementation of the tool and another for the schema of the tool. The implementation function should return a json string that represents the result of the operation, while the schema function should return a dictionary that describes the parameters and their types. The schema function should also include a description of the tool and its parameters as well as required parameters if any. I will provide you with examples of tools with their implementations and schemas, and you should use them as a reference to create your own tools. Also, I will provide the database schema to use as a reference when determining the parameters and their types. The table names will be the names of the json files that you are going to access to retrieve the data related to that entity.
+
+# Database schema:
+{db_schema}
+
+# Examples of a tool implementation and schema:
+{examples_tools}
+
+# Required tools:
+{required_tools}
+
+Please create the tools based on the examples and the database schema. 
+
+Notes: 
+- assign this timestamp to the created_at and updated_at fields: "2025-10-01T00:00:00".
+- All IDs are strings, not integers.
+- Use the generate_id function to generate unique IDs for the records.
+- Each tool should have its own imports and utility functions without being shared across tools.
+- The tools should be implemented in a way that they can be used independently.
+- return json.dumps stating the problem instead of ValueError
+- Do not return message stating that an entity is created/update. Rather, return the updated entry/record
+- boolean parameters should have (True/False) in their description to show that those values are the only values to be provided
+- Any enum parameter should have its allowed values presented in the parameter description to show what argument can be passed
+
+
+Your generated tools content should be presented in a bash script that can be executed to create them in files that hold the same name as the class name. Each file should contain the class definition and its methods. The files should be named as follows: {{tool_name}}.py, where {{tool_name}} is the name of the tool class. Take care that all names should be in snake_case format.

@@ -1,0 +1,802 @@
+{
+  "1": {
+    "portfolio_id": "1",
+    "investor_id": "1",
+    "name": "Portfolio for Investor 1",
+    "status": "inactive",
+    "created_at": "2023-10-09T05:27:54.948093",
+    "updated_at": "2024-03-10T18:09:18.507373"
+  },
+  "2": {
+    "portfolio_id": "2",
+    "investor_id": "2",
+    "name": "Portfolio for Investor 2",
+    "status": "inactive",
+    "created_at": "2024-01-15T11:56:22.718267",
+    "updated_at": "2024-05-02T14:11:38.151013"
+  },
+  "3": {
+    "portfolio_id": "3",
+    "investor_id": "3",
+    "name": "Portfolio for Investor 3",
+    "status": "active",
+    "created_at": "2025-09-03T19:10:34.449172",
+    "updated_at": "2025-09-09T03:45:12.427536"
+  },
+  "4": {
+    "portfolio_id": "4",
+    "investor_id": "4",
+    "name": "Portfolio for Investor 4",
+    "status": "inactive",
+    "created_at": "2023-09-24T05:20:29.277057",
+    "updated_at": "2025-03-31T07:10:56.770770"
+  },
+  "5": {
+    "portfolio_id": "5",
+    "investor_id": "5",
+    "name": "Portfolio for Investor 5",
+    "status": "active",
+    "created_at": "2025-07-26T15:40:09.993712",
+    "updated_at": "2025-08-19T15:33:25.742253"
+  },
+  "6": {
+    "portfolio_id": "6",
+    "investor_id": "6",
+    "name": "Portfolio for Investor 6",
+    "status": "inactive",
+    "created_at": "2024-09-04T05:38:01.613892",
+    "updated_at": "2024-12-14T02:44:51.619840"
+  },
+  "7": {
+    "portfolio_id": "7",
+    "investor_id": "7",
+    "name": "Portfolio for Investor 7",
+    "status": "inactive",
+    "created_at": "2025-01-05T23:24:17.011702",
+    "updated_at": "2025-08-24T10:43:07.254388"
+  },
+  "8": {
+    "portfolio_id": "8",
+    "investor_id": "8",
+    "name": "Portfolio for Investor 8",
+    "status": "active",
+    "created_at": "2024-08-12T19:26:27.931474",
+    "updated_at": "2025-04-15T02:42:20.762273"
+  },
+  "9": {
+    "portfolio_id": "9",
+    "investor_id": "9",
+    "name": "Portfolio for Investor 9",
+    "status": "active",
+    "created_at": "2024-10-17T12:40:52.765409",
+    "updated_at": "2025-05-16T08:48:31.430641"
+  },
+  "10": {
+    "portfolio_id": "10",
+    "investor_id": "10",
+    "name": "Portfolio for Investor 10",
+    "status": "inactive",
+    "created_at": "2025-03-24T11:37:45.907138",
+    "updated_at": "2025-07-03T06:24:32.798839"
+  },
+  "11": {
+    "portfolio_id": "11",
+    "investor_id": "11",
+    "name": "Portfolio for Investor 11",
+    "status": "active",
+    "created_at": "2025-01-04T12:17:04.306112",
+    "updated_at": "2025-06-20T04:59:48.296211"
+  },
+  "12": {
+    "portfolio_id": "12",
+    "investor_id": "12",
+    "name": "Portfolio for Investor 12",
+    "status": "active",
+    "created_at": "2024-08-08T01:38:03.314672",
+    "updated_at": "2025-07-29T06:54:59.025056"
+  },
+  "13": {
+    "portfolio_id": "13",
+    "investor_id": "13",
+    "name": "Portfolio for Investor 13",
+    "status": "active",
+    "created_at": "2024-03-29T10:24:50.605351",
+    "updated_at": "2024-07-28T01:20:39.212380"
+  },
+  "14": {
+    "portfolio_id": "14",
+    "investor_id": "14",
+    "name": "Portfolio for Investor 14",
+    "status": "inactive",
+    "created_at": "2025-04-18T08:05:54.423733",
+    "updated_at": "2025-04-25T08:30:48.942562"
+  },
+  "15": {
+    "portfolio_id": "15",
+    "investor_id": "15",
+    "name": "Portfolio for Investor 15",
+    "status": "active",
+    "created_at": "2025-03-04T12:36:00.902792",
+    "updated_at": "2025-09-04T10:09:14.516734"
+  },
+  "16": {
+    "portfolio_id": "16",
+    "investor_id": "16",
+    "name": "Portfolio for Investor 16",
+    "status": "active",
+    "created_at": "2024-05-12T07:03:39.348167",
+    "updated_at": "2025-01-06T00:56:41.468950"
+  },
+  "17": {
+    "portfolio_id": "17",
+    "investor_id": "17",
+    "name": "Portfolio for Investor 17",
+    "status": "inactive",
+    "created_at": "2024-12-01T22:24:58.233820",
+    "updated_at": "2024-12-08T13:47:43.996132"
+  },
+  "18": {
+    "portfolio_id": "18",
+    "investor_id": "18",
+    "name": "Portfolio for Investor 18",
+    "status": "active",
+    "created_at": "2024-12-17T13:53:39.815457",
+    "updated_at": "2025-02-09T21:43:10.335540"
+  },
+  "19": {
+    "portfolio_id": "19",
+    "investor_id": "19",
+    "name": "Portfolio for Investor 19",
+    "status": "inactive",
+    "created_at": "2024-11-03T06:13:46.902906",
+    "updated_at": "2025-02-17T04:11:00.097896"
+  },
+  "20": {
+    "portfolio_id": "20",
+    "investor_id": "20",
+    "name": "Portfolio for Investor 20",
+    "status": "active",
+    "created_at": "2024-02-05T01:56:56.213072",
+    "updated_at": "2024-05-07T00:01:50.851135"
+  },
+  "21": {
+    "portfolio_id": "21",
+    "investor_id": "21",
+    "name": "Portfolio for Investor 21",
+    "status": "inactive",
+    "created_at": "2024-04-18T02:31:09.019271",
+    "updated_at": "2025-01-19T23:46:29.061680"
+  },
+  "22": {
+    "portfolio_id": "22",
+    "investor_id": "22",
+    "name": "Portfolio for Investor 22",
+    "status": "active",
+    "created_at": "2024-01-26T21:17:02.593784",
+    "updated_at": "2025-06-30T07:50:35.686571"
+  },
+  "23": {
+    "portfolio_id": "23",
+    "investor_id": "23",
+    "name": "Portfolio for Investor 23",
+    "status": "active",
+    "created_at": "2024-12-13T17:48:29.994820",
+    "updated_at": "2025-01-11T22:51:48.088380"
+  },
+  "24": {
+    "portfolio_id": "24",
+    "investor_id": "24",
+    "name": "Portfolio for Investor 24",
+    "status": "inactive",
+    "created_at": "2025-02-08T21:41:13.723809",
+    "updated_at": "2025-05-03T19:10:27.798188"
+  },
+  "25": {
+    "portfolio_id": "25",
+    "investor_id": "25",
+    "name": "Portfolio for Investor 25",
+    "status": "inactive",
+    "created_at": "2023-11-01T01:02:37.148286",
+    "updated_at": "2025-07-31T10:20:50.917113"
+  },
+  "26": {
+    "portfolio_id": "26",
+    "investor_id": "26",
+    "name": "Portfolio for Investor 26",
+    "status": "inactive",
+    "created_at": "2025-05-07T20:30:20.718481",
+    "updated_at": "2025-05-27T09:03:00.419126"
+  },
+  "27": {
+    "portfolio_id": "27",
+    "investor_id": "27",
+    "name": "Portfolio for Investor 27",
+    "status": "inactive",
+    "created_at": "2025-04-27T15:03:56.564217",
+    "updated_at": "2025-09-08T06:57:58.808807"
+  },
+  "28": {
+    "portfolio_id": "28",
+    "investor_id": "28",
+    "name": "Portfolio for Investor 28",
+    "status": "inactive",
+    "created_at": "2024-07-12T12:08:31.910234",
+    "updated_at": "2025-02-27T17:05:40.534932"
+  },
+  "29": {
+    "portfolio_id": "29",
+    "investor_id": "29",
+    "name": "Portfolio for Investor 29",
+    "status": "active",
+    "created_at": "2025-06-23T11:10:32.815407",
+    "updated_at": "2025-07-15T16:50:56.375995"
+  },
+  "30": {
+    "portfolio_id": "30",
+    "investor_id": "30",
+    "name": "Portfolio for Investor 30",
+    "status": "inactive",
+    "created_at": "2024-06-03T05:20:28.979474",
+    "updated_at": "2025-07-08T13:15:01.528425"
+  },
+  "31": {
+    "portfolio_id": "31",
+    "investor_id": "31",
+    "name": "Portfolio for Investor 31",
+    "status": "active",
+    "created_at": "2025-07-03T04:58:06.389541",
+    "updated_at": "2025-08-29T09:27:35.926539"
+  },
+  "32": {
+    "portfolio_id": "32",
+    "investor_id": "32",
+    "name": "Portfolio for Investor 32",
+    "status": "active",
+    "created_at": "2024-06-01T23:39:45.226781",
+    "updated_at": "2025-09-01T16:13:58.207294"
+  },
+  "33": {
+    "portfolio_id": "33",
+    "investor_id": "33",
+    "name": "Portfolio for Investor 33",
+    "status": "inactive",
+    "created_at": "2024-07-12T17:40:38.397593",
+    "updated_at": "2024-11-02T00:11:27.483570"
+  },
+  "34": {
+    "portfolio_id": "34",
+    "investor_id": "34",
+    "name": "Portfolio for Investor 34",
+    "status": "active",
+    "created_at": "2024-02-15T08:41:37.285964",
+    "updated_at": "2024-11-05T23:15:44.523812"
+  },
+  "35": {
+    "portfolio_id": "35",
+    "investor_id": "35",
+    "name": "Portfolio for Investor 35",
+    "status": "active",
+    "created_at": "2024-02-20T01:58:38.300972",
+    "updated_at": "2024-08-19T17:59:01.103848"
+  },
+  "36": {
+    "portfolio_id": "36",
+    "investor_id": "36",
+    "name": "Portfolio for Investor 36",
+    "status": "active",
+    "created_at": "2024-06-16T05:40:57.670039",
+    "updated_at": "2025-08-11T03:13:16.198947"
+  },
+  "37": {
+    "portfolio_id": "37",
+    "investor_id": "37",
+    "name": "Portfolio for Investor 37",
+    "status": "active",
+    "created_at": "2024-02-11T17:23:55.901673",
+    "updated_at": "2024-10-16T02:28:20.838291"
+  },
+  "38": {
+    "portfolio_id": "38",
+    "investor_id": "38",
+    "name": "Portfolio for Investor 38",
+    "status": "active",
+    "created_at": "2024-03-15T13:39:33.859787",
+    "updated_at": "2025-03-07T16:56:46.287073"
+  },
+  "39": {
+    "portfolio_id": "39",
+    "investor_id": "39",
+    "name": "Portfolio for Investor 39",
+    "status": "inactive",
+    "created_at": "2025-06-29T15:36:33.950981",
+    "updated_at": "2025-08-22T22:23:25.882973"
+  },
+  "40": {
+    "portfolio_id": "40",
+    "investor_id": "40",
+    "name": "Portfolio for Investor 40",
+    "status": "inactive",
+    "created_at": "2025-01-15T07:13:31.630458",
+    "updated_at": "2025-04-02T17:44:13.199801"
+  },
+  "41": {
+    "portfolio_id": "41",
+    "investor_id": "41",
+    "name": "Portfolio for Investor 41",
+    "status": "active",
+    "created_at": "2023-09-28T11:06:29.246862",
+    "updated_at": "2024-12-27T12:28:22.640838"
+  },
+  "42": {
+    "portfolio_id": "42",
+    "investor_id": "42",
+    "name": "Portfolio for Investor 42",
+    "status": "active",
+    "created_at": "2023-11-09T15:48:22.254908",
+    "updated_at": "2024-05-31T15:40:18.403006"
+  },
+  "43": {
+    "portfolio_id": "43",
+    "investor_id": "43",
+    "name": "Portfolio for Investor 43",
+    "status": "inactive",
+    "created_at": "2023-11-17T16:36:54.071618",
+    "updated_at": "2024-03-03T11:53:34.043406"
+  },
+  "44": {
+    "portfolio_id": "44",
+    "investor_id": "44",
+    "name": "Portfolio for Investor 44",
+    "status": "active",
+    "created_at": "2024-11-09T22:59:20.678023",
+    "updated_at": "2025-07-07T15:37:48.962267"
+  },
+  "45": {
+    "portfolio_id": "45",
+    "investor_id": "45",
+    "name": "Portfolio for Investor 45",
+    "status": "inactive",
+    "created_at": "2024-07-29T13:36:30.902465",
+    "updated_at": "2024-12-10T23:14:37.183749"
+  },
+  "46": {
+    "portfolio_id": "46",
+    "investor_id": "46",
+    "name": "Portfolio for Investor 46",
+    "status": "inactive",
+    "created_at": "2025-07-04T07:58:03.333148",
+    "updated_at": "2025-09-14T03:10:05.543971"
+  },
+  "47": {
+    "portfolio_id": "47",
+    "investor_id": "47",
+    "name": "Portfolio for Investor 47",
+    "status": "active",
+    "created_at": "2024-03-09T18:16:39.962891",
+    "updated_at": "2024-12-23T17:10:55.920561"
+  },
+  "48": {
+    "portfolio_id": "48",
+    "investor_id": "48",
+    "name": "Portfolio for Investor 48",
+    "status": "inactive",
+    "created_at": "2023-09-21T06:03:27.797344",
+    "updated_at": "2023-12-25T13:28:15.906612"
+  },
+  "49": {
+    "portfolio_id": "49",
+    "investor_id": "49",
+    "name": "Portfolio for Investor 49",
+    "status": "active",
+    "created_at": "2024-12-27T12:31:34.984617",
+    "updated_at": "2025-01-13T22:06:59.383466"
+  },
+  "50": {
+    "portfolio_id": "50",
+    "investor_id": "50",
+    "name": "Portfolio for Investor 50",
+    "status": "active",
+    "created_at": "2024-04-27T21:09:40.310893",
+    "updated_at": "2024-12-08T01:43:52.870703"
+  },
+  "51": {
+    "portfolio_id": "51",
+    "investor_id": "51",
+    "name": "Portfolio for Investor 51",
+    "status": "inactive",
+    "created_at": "2024-03-29T16:37:22.507004",
+    "updated_at": "2024-12-30T02:44:46.595373"
+  },
+  "52": {
+    "portfolio_id": "52",
+    "investor_id": "52",
+    "name": "Portfolio for Investor 52",
+    "status": "active",
+    "created_at": "2024-10-16T22:11:28.206047",
+    "updated_at": "2024-12-02T18:23:43.408101"
+  },
+  "53": {
+    "portfolio_id": "53",
+    "investor_id": "53",
+    "name": "Portfolio for Investor 53",
+    "status": "active",
+    "created_at": "2025-05-27T12:04:03.122477",
+    "updated_at": "2025-08-11T18:55:17.983021"
+  },
+  "54": {
+    "portfolio_id": "54",
+    "investor_id": "54",
+    "name": "Portfolio for Investor 54",
+    "status": "active",
+    "created_at": "2024-05-22T02:47:28.430768",
+    "updated_at": "2024-07-26T12:59:00.077287"
+  },
+  "55": {
+    "portfolio_id": "55",
+    "investor_id": "55",
+    "name": "Portfolio for Investor 55",
+    "status": "active",
+    "created_at": "2025-04-03T10:17:15.818991",
+    "updated_at": "2025-06-09T01:52:33.352635"
+  },
+  "56": {
+    "portfolio_id": "56",
+    "investor_id": "56",
+    "name": "Portfolio for Investor 56",
+    "status": "active",
+    "created_at": "2025-02-14T11:39:06.042923",
+    "updated_at": "2025-04-30T02:35:19.750091"
+  },
+  "57": {
+    "portfolio_id": "57",
+    "investor_id": "57",
+    "name": "Portfolio for Investor 57",
+    "status": "inactive",
+    "created_at": "2024-09-02T02:27:04.239783",
+    "updated_at": "2025-02-06T01:18:47.944586"
+  },
+  "58": {
+    "portfolio_id": "58",
+    "investor_id": "58",
+    "name": "Portfolio for Investor 58",
+    "status": "active",
+    "created_at": "2024-11-23T12:50:10.740744",
+    "updated_at": "2025-01-24T12:15:14.699725"
+  },
+  "59": {
+    "portfolio_id": "59",
+    "investor_id": "59",
+    "name": "Portfolio for Investor 59",
+    "status": "active",
+    "created_at": "2025-03-27T16:36:57.949613",
+    "updated_at": "2025-07-17T20:31:47.794567"
+  },
+  "60": {
+    "portfolio_id": "60",
+    "investor_id": "60",
+    "name": "Portfolio for Investor 60",
+    "status": "active",
+    "created_at": "2025-05-01T19:06:14.922286",
+    "updated_at": "2025-07-07T22:02:06.302960"
+  },
+  "61": {
+    "portfolio_id": "61",
+    "investor_id": "61",
+    "name": "Portfolio for Investor 61",
+    "status": "inactive",
+    "created_at": "2024-05-23T12:31:16.248831",
+    "updated_at": "2025-06-07T14:25:23.099741"
+  },
+  "62": {
+    "portfolio_id": "62",
+    "investor_id": "62",
+    "name": "Portfolio for Investor 62",
+    "status": "inactive",
+    "created_at": "2024-09-09T02:43:58.946604",
+    "updated_at": "2025-04-29T15:12:55.503349"
+  },
+  "63": {
+    "portfolio_id": "63",
+    "investor_id": "63",
+    "name": "Portfolio for Investor 63",
+    "status": "active",
+    "created_at": "2024-05-09T08:23:10.967320",
+    "updated_at": "2024-11-05T17:01:29.089061"
+  },
+  "64": {
+    "portfolio_id": "64",
+    "investor_id": "64",
+    "name": "Portfolio for Investor 64",
+    "status": "inactive",
+    "created_at": "2024-12-21T01:48:42.481647",
+    "updated_at": "2025-08-20T14:47:10.214392"
+  },
+  "65": {
+    "portfolio_id": "65",
+    "investor_id": "65",
+    "name": "Portfolio for Investor 65",
+    "status": "inactive",
+    "created_at": "2025-09-14T05:55:35.977315",
+    "updated_at": "2025-09-15T09:38:09.607432"
+  },
+  "66": {
+    "portfolio_id": "66",
+    "investor_id": "66",
+    "name": "Portfolio for Investor 66",
+    "status": "active",
+    "created_at": "2025-06-04T16:28:54.615998",
+    "updated_at": "2025-07-03T20:23:46.281756"
+  },
+  "67": {
+    "portfolio_id": "67",
+    "investor_id": "67",
+    "name": "Portfolio for Investor 67",
+    "status": "active",
+    "created_at": "2025-06-19T06:24:02.796677",
+    "updated_at": "2025-08-13T08:59:42.063088"
+  },
+  "68": {
+    "portfolio_id": "68",
+    "investor_id": "68",
+    "name": "Portfolio for Investor 68",
+    "status": "inactive",
+    "created_at": "2025-05-24T21:37:28.947796",
+    "updated_at": "2025-09-02T14:30:24.765716"
+  },
+  "69": {
+    "portfolio_id": "69",
+    "investor_id": "69",
+    "name": "Portfolio for Investor 69",
+    "status": "inactive",
+    "created_at": "2024-12-31T13:46:02.888063",
+    "updated_at": "2025-09-13T03:34:55.806267"
+  },
+  "70": {
+    "portfolio_id": "70",
+    "investor_id": "70",
+    "name": "Portfolio for Investor 70",
+    "status": "inactive",
+    "created_at": "2024-05-26T07:19:39.131070",
+    "updated_at": "2024-12-25T14:59:06.127656"
+  },
+  "71": {
+    "portfolio_id": "71",
+    "investor_id": "71",
+    "name": "Portfolio for Investor 71",
+    "status": "inactive",
+    "created_at": "2024-12-31T03:26:46.075029",
+    "updated_at": "2025-05-21T09:11:12.629485"
+  },
+  "72": {
+    "portfolio_id": "72",
+    "investor_id": "72",
+    "name": "Portfolio for Investor 72",
+    "status": "active",
+    "created_at": "2024-07-03T02:20:57.917230",
+    "updated_at": "2024-12-04T13:27:09.497704"
+  },
+  "73": {
+    "portfolio_id": "73",
+    "investor_id": "73",
+    "name": "Portfolio for Investor 73",
+    "status": "active",
+    "created_at": "2023-09-20T21:31:11.365282",
+    "updated_at": "2025-04-04T21:03:14.570075"
+  },
+  "74": {
+    "portfolio_id": "74",
+    "investor_id": "74",
+    "name": "Portfolio for Investor 74",
+    "status": "inactive",
+    "created_at": "2023-10-02T22:33:32.322750",
+    "updated_at": "2024-11-28T08:39:01.942457"
+  },
+  "75": {
+    "portfolio_id": "75",
+    "investor_id": "75",
+    "name": "Portfolio for Investor 75",
+    "status": "inactive",
+    "created_at": "2025-08-06T09:29:18.164495",
+    "updated_at": "2025-08-31T01:11:53.179979"
+  },
+  "76": {
+    "portfolio_id": "76",
+    "investor_id": "76",
+    "name": "Portfolio for Investor 76",
+    "status": "inactive",
+    "created_at": "2024-02-24T04:32:06.029406",
+    "updated_at": "2025-04-07T21:36:38.701475"
+  },
+  "77": {
+    "portfolio_id": "77",
+    "investor_id": "77",
+    "name": "Portfolio for Investor 77",
+    "status": "inactive",
+    "created_at": "2025-08-24T03:20:32.921743",
+    "updated_at": "2025-09-04T17:19:18.102796"
+  },
+  "78": {
+    "portfolio_id": "78",
+    "investor_id": "78",
+    "name": "Portfolio for Investor 78",
+    "status": "active",
+    "created_at": "2024-10-12T00:12:50.519006",
+    "updated_at": "2025-05-04T21:34:34.478006"
+  },
+  "79": {
+    "portfolio_id": "79",
+    "investor_id": "79",
+    "name": "Portfolio for Investor 79",
+    "status": "active",
+    "created_at": "2025-06-16T16:54:30.696151",
+    "updated_at": "2025-08-18T00:05:12.866487"
+  },
+  "80": {
+    "portfolio_id": "80",
+    "investor_id": "80",
+    "name": "Portfolio for Investor 80",
+    "status": "active",
+    "created_at": "2024-09-19T09:31:37.216129",
+    "updated_at": "2024-11-01T00:30:46.202953"
+  },
+  "81": {
+    "portfolio_id": "81",
+    "investor_id": "81",
+    "name": "Portfolio for Investor 81",
+    "status": "active",
+    "created_at": "2023-10-25T09:09:05.978441",
+    "updated_at": "2024-06-01T17:01:25.857770"
+  },
+  "82": {
+    "portfolio_id": "82",
+    "investor_id": "82",
+    "name": "Portfolio for Investor 82",
+    "status": "inactive",
+    "created_at": "2023-10-23T10:32:21.893737",
+    "updated_at": "2025-02-09T14:04:22.998174"
+  },
+  "83": {
+    "portfolio_id": "83",
+    "investor_id": "83",
+    "name": "Portfolio for Investor 83",
+    "status": "inactive",
+    "created_at": "2025-04-02T14:50:22.422853",
+    "updated_at": "2025-06-26T00:28:22.642615"
+  },
+  "84": {
+    "portfolio_id": "84",
+    "investor_id": "84",
+    "name": "Portfolio for Investor 84",
+    "status": "active",
+    "created_at": "2023-09-29T09:56:04.355263",
+    "updated_at": "2025-01-08T16:02:52.186869"
+  },
+  "85": {
+    "portfolio_id": "85",
+    "investor_id": "85",
+    "name": "Portfolio for Investor 85",
+    "status": "active",
+    "created_at": "2025-04-22T15:35:22.835289",
+    "updated_at": "2025-07-20T15:59:08.044579"
+  },
+  "86": {
+    "portfolio_id": "86",
+    "investor_id": "86",
+    "name": "Portfolio for Investor 86",
+    "status": "active",
+    "created_at": "2024-03-16T23:48:16.526319",
+    "updated_at": "2024-08-13T03:51:28.733141"
+  },
+  "87": {
+    "portfolio_id": "87",
+    "investor_id": "87",
+    "name": "Portfolio for Investor 87",
+    "status": "active",
+    "created_at": "2025-03-05T17:05:15.495955",
+    "updated_at": "2025-08-30T06:56:45.580905"
+  },
+  "88": {
+    "portfolio_id": "88",
+    "investor_id": "88",
+    "name": "Portfolio for Investor 88",
+    "status": "active",
+    "created_at": "2024-02-26T02:27:53.997524",
+    "updated_at": "2024-05-28T03:00:29.801464"
+  },
+  "89": {
+    "portfolio_id": "89",
+    "investor_id": "89",
+    "name": "Portfolio for Investor 89",
+    "status": "active",
+    "created_at": "2025-07-23T03:49:23.584857",
+    "updated_at": "2025-08-03T02:45:42.952596"
+  },
+  "90": {
+    "portfolio_id": "90",
+    "investor_id": "90",
+    "name": "Portfolio for Investor 90",
+    "status": "inactive",
+    "created_at": "2024-09-08T14:22:01.798401",
+    "updated_at": "2024-12-07T21:42:24.165993"
+  },
+  "91": {
+    "portfolio_id": "91",
+    "investor_id": "91",
+    "name": "Portfolio for Investor 91",
+    "status": "inactive",
+    "created_at": "2024-03-12T06:15:41.949323",
+    "updated_at": "2025-05-09T16:41:11.456785"
+  },
+  "92": {
+    "portfolio_id": "92",
+    "investor_id": "92",
+    "name": "Portfolio for Investor 92",
+    "status": "active",
+    "created_at": "2025-05-05T11:07:52.224513",
+    "updated_at": "2025-05-30T13:17:51.608344"
+  },
+  "93": {
+    "portfolio_id": "93",
+    "investor_id": "93",
+    "name": "Portfolio for Investor 93",
+    "status": "active",
+    "created_at": "2024-11-06T14:09:29.364340",
+    "updated_at": "2025-02-16T15:00:11.269799"
+  },
+  "94": {
+    "portfolio_id": "94",
+    "investor_id": "94",
+    "name": "Portfolio for Investor 94",
+    "status": "inactive",
+    "created_at": "2023-11-01T01:20:20.893869",
+    "updated_at": "2024-07-21T05:36:44.534003"
+  },
+  "95": {
+    "portfolio_id": "95",
+    "investor_id": "95",
+    "name": "Portfolio for Investor 95",
+    "status": "active",
+    "created_at": "2025-03-25T12:28:04.772544",
+    "updated_at": "2025-08-16T20:05:56.765505"
+  },
+  "96": {
+    "portfolio_id": "96",
+    "investor_id": "96",
+    "name": "Portfolio for Investor 96",
+    "status": "inactive",
+    "created_at": "2024-11-30T01:22:12.904190",
+    "updated_at": "2025-07-29T19:14:02.829681"
+  },
+  "97": {
+    "portfolio_id": "97",
+    "investor_id": "97",
+    "name": "Portfolio for Investor 97",
+    "status": "inactive",
+    "created_at": "2025-06-10T06:39:46.856675",
+    "updated_at": "2025-07-27T14:31:37.823957"
+  },
+  "98": {
+    "portfolio_id": "98",
+    "investor_id": "98",
+    "name": "Portfolio for Investor 98",
+    "status": "active",
+    "created_at": "2024-04-23T08:10:16.263284",
+    "updated_at": "2024-06-02T22:26:17.219180"
+  },
+  "99": {
+    "portfolio_id": "99",
+    "investor_id": "99",
+    "name": "Portfolio for Investor 99",
+    "status": "inactive",
+    "created_at": "2025-03-12T12:22:11.165642",
+    "updated_at": "2025-08-03T01:52:37.291564"
+  },
+  "100": {
+    "portfolio_id": "100",
+    "investor_id": "100",
+    "name": "Portfolio for Investor 100",
+    "status": "active",
+    "created_at": "2025-02-18T19:05:20.896212",
+    "updated_at": "2025-04-05T09:56:21.359866"
+  }
+}

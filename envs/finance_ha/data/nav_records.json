@@ -1,0 +1,2402 @@
+{
+  "1": {
+    "nav_id": "1",
+    "fund_id": "1",
+    "nav_date": "2025-09-15",
+    "total_assets": "388045868.5941",
+    "liabilities": "19514476.9555",
+    "nav_value": "368531391.6386",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098486"
+  },
+  "2": {
+    "nav_id": "2",
+    "fund_id": "1",
+    "nav_date": "2025-09-08",
+    "total_assets": "45938696.9679",
+    "liabilities": "2898252.3994",
+    "nav_value": "43040444.5685",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098518"
+  },
+  "3": {
+    "nav_id": "3",
+    "fund_id": "1",
+    "nav_date": "2025-09-01",
+    "total_assets": "337553298.7658",
+    "liabilities": "35322544.2434",
+    "nav_value": "302230754.5224",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098539"
+  },
+  "4": {
+    "nav_id": "4",
+    "fund_id": "1",
+    "nav_date": "2025-08-25",
+    "total_assets": "195642290.2499",
+    "liabilities": "13526750.5135",
+    "nav_value": "182115539.7364",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.098553"
+  },
+  "5": {
+    "nav_id": "5",
+    "fund_id": "1",
+    "nav_date": "2025-08-18",
+    "total_assets": "361075418.3731",
+    "liabilities": "28093723.0773",
+    "nav_value": "332981695.2958",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098566"
+  },
+  "6": {
+    "nav_id": "6",
+    "fund_id": "1",
+    "nav_date": "2025-08-11",
+    "total_assets": "346870439.9502",
+    "liabilities": "51856786.7976",
+    "nav_value": "295013653.1526",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098578"
+  },
+  "7": {
+    "nav_id": "7",
+    "fund_id": "1",
+    "nav_date": "2025-08-04",
+    "total_assets": "188626816.4163",
+    "liabilities": "37534172.5272",
+    "nav_value": "151092643.8891",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098590"
+  },
+  "8": {
+    "nav_id": "8",
+    "fund_id": "1",
+    "nav_date": "2025-07-28",
+    "total_assets": "488427038.8287",
+    "liabilities": "38735404.7847",
+    "nav_value": "449691634.0441",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098607"
+  },
+  "9": {
+    "nav_id": "9",
+    "fund_id": "1",
+    "nav_date": "2025-07-21",
+    "total_assets": "141868959.8496",
+    "liabilities": "17144055.7965",
+    "nav_value": "124724904.0531",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.098621"
+  },
+  "10": {
+    "nav_id": "10",
+    "fund_id": "1",
+    "nav_date": "2025-07-14",
+    "total_assets": "471598123.9359",
+    "liabilities": "73626598.2750",
+    "nav_value": "397971525.6609",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098639"
+  },
+  "11": {
+    "nav_id": "11",
+    "fund_id": "1",
+    "nav_date": "2025-07-07",
+    "total_assets": "105008357.8146",
+    "liabilities": "15644560.8462",
+    "nav_value": "89363796.9684",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.098652"
+  },
+  "12": {
+    "nav_id": "12",
+    "fund_id": "1",
+    "nav_date": "2025-06-30",
+    "total_assets": "239064095.7165",
+    "liabilities": "18472248.4341",
+    "nav_value": "220591847.2825",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098669"
+  },
+  "13": {
+    "nav_id": "13",
+    "fund_id": "2",
+    "nav_date": "2025-09-15",
+    "total_assets": "182541619.0766",
+    "liabilities": "31298887.5065",
+    "nav_value": "151242731.5700",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.098684"
+  },
+  "14": {
+    "nav_id": "14",
+    "fund_id": "2",
+    "nav_date": "2025-09-08",
+    "total_assets": "121687926.7849",
+    "liabilities": "24334090.9421",
+    "nav_value": "97353835.8429",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.098696"
+  },
+  "15": {
+    "nav_id": "15",
+    "fund_id": "2",
+    "nav_date": "2025-09-01",
+    "total_assets": "25995192.8724",
+    "liabilities": "4518544.7052",
+    "nav_value": "21476648.1672",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.098711"
+  },
+  "16": {
+    "nav_id": "16",
+    "fund_id": "2",
+    "nav_date": "2025-08-25",
+    "total_assets": "67438372.2580",
+    "liabilities": "12174656.7224",
+    "nav_value": "55263715.5357",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098726"
+  },
+  "17": {
+    "nav_id": "17",
+    "fund_id": "2",
+    "nav_date": "2025-08-18",
+    "total_assets": "389374024.0040",
+    "liabilities": "35491076.5136",
+    "nav_value": "353882947.4904",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.098738"
+  },
+  "18": {
+    "nav_id": "18",
+    "fund_id": "2",
+    "nav_date": "2025-08-11",
+    "total_assets": "21049517.3232",
+    "liabilities": "2671799.5395",
+    "nav_value": "18377717.7837",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.098750"
+  },
+  "19": {
+    "nav_id": "19",
+    "fund_id": "2",
+    "nav_date": "2025-08-04",
+    "total_assets": "436562335.8964",
+    "liabilities": "69235744.4693",
+    "nav_value": "367326591.4271",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098762"
+  },
+  "20": {
+    "nav_id": "20",
+    "fund_id": "2",
+    "nav_date": "2025-07-28",
+    "total_assets": "483052042.2187",
+    "liabilities": "69431328.7189",
+    "nav_value": "413620713.4998",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098775"
+  },
+  "21": {
+    "nav_id": "21",
+    "fund_id": "2",
+    "nav_date": "2025-07-21",
+    "total_assets": "428539404.2870",
+    "liabilities": "83473002.5017",
+    "nav_value": "345066401.7854",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098786"
+  },
+  "22": {
+    "nav_id": "22",
+    "fund_id": "2",
+    "nav_date": "2025-07-14",
+    "total_assets": "167839794.0080",
+    "liabilities": "18738824.0233",
+    "nav_value": "149100969.9847",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098792"
+  },
+  "23": {
+    "nav_id": "23",
+    "fund_id": "2",
+    "nav_date": "2025-07-07",
+    "total_assets": "302225346.3979",
+    "liabilities": "60381917.7150",
+    "nav_value": "241843428.6830",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.098799"
+  },
+  "24": {
+    "nav_id": "24",
+    "fund_id": "2",
+    "nav_date": "2025-06-30",
+    "total_assets": "344936875.6331",
+    "liabilities": "26089343.6720",
+    "nav_value": "318847531.9611",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.098805"
+  },
+  "25": {
+    "nav_id": "25",
+    "fund_id": "3",
+    "nav_date": "2025-09-15",
+    "total_assets": "25833319.1145",
+    "liabilities": "1731880.7200",
+    "nav_value": "24101438.3945",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098811"
+  },
+  "26": {
+    "nav_id": "26",
+    "fund_id": "3",
+    "nav_date": "2025-09-08",
+    "total_assets": "21099619.8560",
+    "liabilities": "2218357.2487",
+    "nav_value": "18881262.6073",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098818"
+  },
+  "27": {
+    "nav_id": "27",
+    "fund_id": "3",
+    "nav_date": "2025-09-01",
+    "total_assets": "294451379.4002",
+    "liabilities": "57533975.3899",
+    "nav_value": "236917404.0103",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098828"
+  },
+  "28": {
+    "nav_id": "28",
+    "fund_id": "3",
+    "nav_date": "2025-08-25",
+    "total_assets": "428703303.1719",
+    "liabilities": "63330896.1058",
+    "nav_value": "365372407.0661",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.098835"
+  },
+  "29": {
+    "nav_id": "29",
+    "fund_id": "3",
+    "nav_date": "2025-08-18",
+    "total_assets": "257198813.0327",
+    "liabilities": "24921692.2366",
+    "nav_value": "232277120.7961",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.098843"
+  },
+  "30": {
+    "nav_id": "30",
+    "fund_id": "3",
+    "nav_date": "2025-08-11",
+    "total_assets": "280752407.9813",
+    "liabilities": "33740922.1962",
+    "nav_value": "247011485.7852",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098849"
+  },
+  "31": {
+    "nav_id": "31",
+    "fund_id": "3",
+    "nav_date": "2025-08-04",
+    "total_assets": "471494057.1089",
+    "liabilities": "37827349.9182",
+    "nav_value": "433666707.1907",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098856"
+  },
+  "32": {
+    "nav_id": "32",
+    "fund_id": "3",
+    "nav_date": "2025-07-28",
+    "total_assets": "221761900.0936",
+    "liabilities": "40433771.4521",
+    "nav_value": "181328128.6415",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.098862"
+  },
+  "33": {
+    "nav_id": "33",
+    "fund_id": "3",
+    "nav_date": "2025-07-21",
+    "total_assets": "302213888.5306",
+    "liabilities": "24224376.0306",
+    "nav_value": "277989512.5000",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098868"
+  },
+  "34": {
+    "nav_id": "34",
+    "fund_id": "3",
+    "nav_date": "2025-07-14",
+    "total_assets": "73485272.6860",
+    "liabilities": "12316968.0799",
+    "nav_value": "61168304.6061",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.098874"
+  },
+  "35": {
+    "nav_id": "35",
+    "fund_id": "3",
+    "nav_date": "2025-07-07",
+    "total_assets": "54275500.9127",
+    "liabilities": "10712485.0049",
+    "nav_value": "43563015.9078",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098880"
+  },
+  "36": {
+    "nav_id": "36",
+    "fund_id": "3",
+    "nav_date": "2025-06-30",
+    "total_assets": "123564232.6861",
+    "liabilities": "22393341.4813",
+    "nav_value": "101170891.2048",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.098886"
+  },
+  "37": {
+    "nav_id": "37",
+    "fund_id": "4",
+    "nav_date": "2025-09-15",
+    "total_assets": "495789714.5124",
+    "liabilities": "31487907.1311",
+    "nav_value": "464301807.3813",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.098892"
+  },
+  "38": {
+    "nav_id": "38",
+    "fund_id": "4",
+    "nav_date": "2025-09-08",
+    "total_assets": "248265778.1801",
+    "liabilities": "43763599.9686",
+    "nav_value": "204502178.2115",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.098901"
+  },
+  "39": {
+    "nav_id": "39",
+    "fund_id": "4",
+    "nav_date": "2025-09-01",
+    "total_assets": "453198786.4848",
+    "liabilities": "28827475.6905",
+    "nav_value": "424371310.7942",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.098907"
+  },
+  "40": {
+    "nav_id": "40",
+    "fund_id": "4",
+    "nav_date": "2025-08-25",
+    "total_assets": "285226613.5010",
+    "liabilities": "35766498.0718",
+    "nav_value": "249460115.4292",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.098915"
+  },
+  "41": {
+    "nav_id": "41",
+    "fund_id": "4",
+    "nav_date": "2025-08-18",
+    "total_assets": "468871735.9615",
+    "liabilities": "89382910.2215",
+    "nav_value": "379488825.7401",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.098921"
+  },
+  "42": {
+    "nav_id": "42",
+    "fund_id": "4",
+    "nav_date": "2025-08-11",
+    "total_assets": "422809566.3138",
+    "liabilities": "48712632.3712",
+    "nav_value": "374096933.9426",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.098927"
+  },
+  "43": {
+    "nav_id": "43",
+    "fund_id": "4",
+    "nav_date": "2025-08-04",
+    "total_assets": "457029477.7049",
+    "liabilities": "89773442.8217",
+    "nav_value": "367256034.8832",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.098933"
+  },
+  "44": {
+    "nav_id": "44",
+    "fund_id": "4",
+    "nav_date": "2025-07-28",
+    "total_assets": "285918218.4439",
+    "liabilities": "33535638.6566",
+    "nav_value": "252382579.7874",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.098940"
+  },
+  "45": {
+    "nav_id": "45",
+    "fund_id": "4",
+    "nav_date": "2025-07-21",
+    "total_assets": "391841458.4050",
+    "liabilities": "29933478.3829",
+    "nav_value": "361907980.0221",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.098945"
+  },
+  "46": {
+    "nav_id": "46",
+    "fund_id": "4",
+    "nav_date": "2025-07-14",
+    "total_assets": "472470909.3736",
+    "liabilities": "23692363.7031",
+    "nav_value": "448778545.6705",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.098951"
+  },
+  "47": {
+    "nav_id": "47",
+    "fund_id": "4",
+    "nav_date": "2025-07-07",
+    "total_assets": "492711555.9596",
+    "liabilities": "91364483.2513",
+    "nav_value": "401347072.7082",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.098957"
+  },
+  "48": {
+    "nav_id": "48",
+    "fund_id": "4",
+    "nav_date": "2025-06-30",
+    "total_assets": "41196288.8923",
+    "liabilities": "7566478.9554",
+    "nav_value": "33629809.9369",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098965"
+  },
+  "49": {
+    "nav_id": "49",
+    "fund_id": "5",
+    "nav_date": "2025-09-15",
+    "total_assets": "380407956.8597",
+    "liabilities": "33690656.7413",
+    "nav_value": "346717300.1184",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.098972"
+  },
+  "50": {
+    "nav_id": "50",
+    "fund_id": "5",
+    "nav_date": "2025-09-08",
+    "total_assets": "373783500.3664",
+    "liabilities": "53418300.8024",
+    "nav_value": "320365199.5640",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.098978"
+  },
+  "51": {
+    "nav_id": "51",
+    "fund_id": "5",
+    "nav_date": "2025-09-01",
+    "total_assets": "369860679.8126",
+    "liabilities": "67118847.1126",
+    "nav_value": "302741832.7000",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.098984"
+  },
+  "52": {
+    "nav_id": "52",
+    "fund_id": "5",
+    "nav_date": "2025-08-25",
+    "total_assets": "455563303.6263",
+    "liabilities": "31007262.4287",
+    "nav_value": "424556041.1976",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.098993"
+  },
+  "53": {
+    "nav_id": "53",
+    "fund_id": "5",
+    "nav_date": "2025-08-18",
+    "total_assets": "161067592.2944",
+    "liabilities": "25023190.6458",
+    "nav_value": "136044401.6486",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.098999"
+  },
+  "54": {
+    "nav_id": "54",
+    "fund_id": "5",
+    "nav_date": "2025-08-11",
+    "total_assets": "449818719.7774",
+    "liabilities": "58999206.2156",
+    "nav_value": "390819513.5618",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099005"
+  },
+  "55": {
+    "nav_id": "55",
+    "fund_id": "5",
+    "nav_date": "2025-08-04",
+    "total_assets": "78264147.7997",
+    "liabilities": "13199739.6086",
+    "nav_value": "65064408.1910",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099011"
+  },
+  "56": {
+    "nav_id": "56",
+    "fund_id": "5",
+    "nav_date": "2025-07-28",
+    "total_assets": "13782921.0068",
+    "liabilities": "1645143.3308",
+    "nav_value": "12137777.6760",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099017"
+  },
+  "57": {
+    "nav_id": "57",
+    "fund_id": "5",
+    "nav_date": "2025-07-21",
+    "total_assets": "259526034.2962",
+    "liabilities": "47770319.5442",
+    "nav_value": "211755714.7521",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099023"
+  },
+  "58": {
+    "nav_id": "58",
+    "fund_id": "5",
+    "nav_date": "2025-07-14",
+    "total_assets": "340349137.8917",
+    "liabilities": "42694218.2687",
+    "nav_value": "297654919.6230",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099030"
+  },
+  "59": {
+    "nav_id": "59",
+    "fund_id": "5",
+    "nav_date": "2025-07-07",
+    "total_assets": "468011811.9098",
+    "liabilities": "68133363.7989",
+    "nav_value": "399878448.1109",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099036"
+  },
+  "60": {
+    "nav_id": "60",
+    "fund_id": "5",
+    "nav_date": "2025-06-30",
+    "total_assets": "46954949.4876",
+    "liabilities": "6470674.4306",
+    "nav_value": "40484275.0570",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099042"
+  },
+  "61": {
+    "nav_id": "61",
+    "fund_id": "6",
+    "nav_date": "2025-09-15",
+    "total_assets": "216403316.4644",
+    "liabilities": "32047235.2513",
+    "nav_value": "184356081.2131",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099048"
+  },
+  "62": {
+    "nav_id": "62",
+    "fund_id": "6",
+    "nav_date": "2025-09-08",
+    "total_assets": "264806821.1362",
+    "liabilities": "50221815.0634",
+    "nav_value": "214585006.0727",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099054"
+  },
+  "63": {
+    "nav_id": "63",
+    "fund_id": "6",
+    "nav_date": "2025-09-01",
+    "total_assets": "19674187.3562",
+    "liabilities": "1970460.7412",
+    "nav_value": "17703726.6151",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099060"
+  },
+  "64": {
+    "nav_id": "64",
+    "fund_id": "6",
+    "nav_date": "2025-08-25",
+    "total_assets": "422615283.1717",
+    "liabilities": "59588598.3228",
+    "nav_value": "363026684.8489",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099068"
+  },
+  "65": {
+    "nav_id": "65",
+    "fund_id": "6",
+    "nav_date": "2025-08-18",
+    "total_assets": "202237034.2524",
+    "liabilities": "34335549.9063",
+    "nav_value": "167901484.3461",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099075"
+  },
+  "66": {
+    "nav_id": "66",
+    "fund_id": "6",
+    "nav_date": "2025-08-11",
+    "total_assets": "316282263.9487",
+    "liabilities": "61729912.7679",
+    "nav_value": "254552351.1808",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099083"
+  },
+  "67": {
+    "nav_id": "67",
+    "fund_id": "6",
+    "nav_date": "2025-08-04",
+    "total_assets": "419058809.4000",
+    "liabilities": "79904211.1375",
+    "nav_value": "339154598.2626",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099089"
+  },
+  "68": {
+    "nav_id": "68",
+    "fund_id": "6",
+    "nav_date": "2025-07-28",
+    "total_assets": "371214062.1674",
+    "liabilities": "74022057.8314",
+    "nav_value": "297192004.3360",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099099"
+  },
+  "69": {
+    "nav_id": "69",
+    "fund_id": "6",
+    "nav_date": "2025-07-21",
+    "total_assets": "407508487.9240",
+    "liabilities": "72862882.4154",
+    "nav_value": "334645605.5086",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099105"
+  },
+  "70": {
+    "nav_id": "70",
+    "fund_id": "6",
+    "nav_date": "2025-07-14",
+    "total_assets": "354118839.1007",
+    "liabilities": "28986734.1610",
+    "nav_value": "325132104.9397",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099111"
+  },
+  "71": {
+    "nav_id": "71",
+    "fund_id": "6",
+    "nav_date": "2025-07-07",
+    "total_assets": "391847656.1795",
+    "liabilities": "30804830.2306",
+    "nav_value": "361042825.9490",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099117"
+  },
+  "72": {
+    "nav_id": "72",
+    "fund_id": "6",
+    "nav_date": "2025-06-30",
+    "total_assets": "173414876.2336",
+    "liabilities": "33325285.1670",
+    "nav_value": "140089591.0667",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099123"
+  },
+  "73": {
+    "nav_id": "73",
+    "fund_id": "7",
+    "nav_date": "2025-09-15",
+    "total_assets": "279929110.7595",
+    "liabilities": "41573078.9681",
+    "nav_value": "238356031.7915",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099130"
+  },
+  "74": {
+    "nav_id": "74",
+    "fund_id": "7",
+    "nav_date": "2025-09-08",
+    "total_assets": "254279118.3129",
+    "liabilities": "27276704.4681",
+    "nav_value": "227002413.8448",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099136"
+  },
+  "75": {
+    "nav_id": "75",
+    "fund_id": "7",
+    "nav_date": "2025-09-01",
+    "total_assets": "179341646.6360",
+    "liabilities": "18791968.8257",
+    "nav_value": "160549677.8102",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099142"
+  },
+  "76": {
+    "nav_id": "76",
+    "fund_id": "7",
+    "nav_date": "2025-08-25",
+    "total_assets": "360079420.0287",
+    "liabilities": "51704459.7447",
+    "nav_value": "308374960.2840",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099152"
+  },
+  "77": {
+    "nav_id": "77",
+    "fund_id": "7",
+    "nav_date": "2025-08-18",
+    "total_assets": "170193654.0916",
+    "liabilities": "33260928.4109",
+    "nav_value": "136932725.6807",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099159"
+  },
+  "78": {
+    "nav_id": "78",
+    "fund_id": "7",
+    "nav_date": "2025-08-11",
+    "total_assets": "471437178.6052",
+    "liabilities": "91150845.3692",
+    "nav_value": "380286333.2360",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099165"
+  },
+  "79": {
+    "nav_id": "79",
+    "fund_id": "7",
+    "nav_date": "2025-08-04",
+    "total_assets": "140686602.7715",
+    "liabilities": "12426859.2109",
+    "nav_value": "128259743.5606",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099171"
+  },
+  "80": {
+    "nav_id": "80",
+    "fund_id": "7",
+    "nav_date": "2025-07-28",
+    "total_assets": "479444837.9903",
+    "liabilities": "90929833.7172",
+    "nav_value": "388515004.2730",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099179"
+  },
+  "81": {
+    "nav_id": "81",
+    "fund_id": "7",
+    "nav_date": "2025-07-21",
+    "total_assets": "350597590.6857",
+    "liabilities": "44082645.0357",
+    "nav_value": "306514945.6500",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099185"
+  },
+  "82": {
+    "nav_id": "82",
+    "fund_id": "7",
+    "nav_date": "2025-07-14",
+    "total_assets": "181353587.3535",
+    "liabilities": "29356402.6920",
+    "nav_value": "151997184.6615",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099191"
+  },
+  "83": {
+    "nav_id": "83",
+    "fund_id": "7",
+    "nav_date": "2025-07-07",
+    "total_assets": "168645386.4769",
+    "liabilities": "15304974.8118",
+    "nav_value": "153340411.6651",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099197"
+  },
+  "84": {
+    "nav_id": "84",
+    "fund_id": "7",
+    "nav_date": "2025-06-30",
+    "total_assets": "238348538.4457",
+    "liabilities": "18810658.0206",
+    "nav_value": "219537880.4252",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099203"
+  },
+  "85": {
+    "nav_id": "85",
+    "fund_id": "8",
+    "nav_date": "2025-09-15",
+    "total_assets": "472902766.9778",
+    "liabilities": "76614448.1589",
+    "nav_value": "396288318.8188",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099209"
+  },
+  "86": {
+    "nav_id": "86",
+    "fund_id": "8",
+    "nav_date": "2025-09-08",
+    "total_assets": "465621493.6094",
+    "liabilities": "49743204.5667",
+    "nav_value": "415878289.0426",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099240"
+  },
+  "87": {
+    "nav_id": "87",
+    "fund_id": "8",
+    "nav_date": "2025-09-01",
+    "total_assets": "301031999.5556",
+    "liabilities": "34966386.2465",
+    "nav_value": "266065613.3091",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099254"
+  },
+  "88": {
+    "nav_id": "88",
+    "fund_id": "8",
+    "nav_date": "2025-08-25",
+    "total_assets": "311872593.9483",
+    "liabilities": "39383614.1216",
+    "nav_value": "272488979.8267",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099263"
+  },
+  "89": {
+    "nav_id": "89",
+    "fund_id": "8",
+    "nav_date": "2025-08-18",
+    "total_assets": "499082323.4722",
+    "liabilities": "51542973.1758",
+    "nav_value": "447539350.2964",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099270"
+  },
+  "90": {
+    "nav_id": "90",
+    "fund_id": "8",
+    "nav_date": "2025-08-11",
+    "total_assets": "214434116.8111",
+    "liabilities": "28176436.1547",
+    "nav_value": "186257680.6564",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099276"
+  },
+  "91": {
+    "nav_id": "91",
+    "fund_id": "8",
+    "nav_date": "2025-08-04",
+    "total_assets": "79486308.7068",
+    "liabilities": "11737360.7928",
+    "nav_value": "67748947.9141",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099282"
+  },
+  "92": {
+    "nav_id": "92",
+    "fund_id": "8",
+    "nav_date": "2025-07-28",
+    "total_assets": "199357968.3506",
+    "liabilities": "28654873.6548",
+    "nav_value": "170703094.6958",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099288"
+  },
+  "93": {
+    "nav_id": "93",
+    "fund_id": "8",
+    "nav_date": "2025-07-21",
+    "total_assets": "495943770.8480",
+    "liabilities": "72143509.7175",
+    "nav_value": "423800261.1305",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099294"
+  },
+  "94": {
+    "nav_id": "94",
+    "fund_id": "8",
+    "nav_date": "2025-07-14",
+    "total_assets": "312713342.8079",
+    "liabilities": "58653108.8595",
+    "nav_value": "254060233.9484",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099302"
+  },
+  "95": {
+    "nav_id": "95",
+    "fund_id": "8",
+    "nav_date": "2025-07-07",
+    "total_assets": "329716500.4458",
+    "liabilities": "51638436.6514",
+    "nav_value": "278078063.7944",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099308"
+  },
+  "96": {
+    "nav_id": "96",
+    "fund_id": "8",
+    "nav_date": "2025-06-30",
+    "total_assets": "236282640.6909",
+    "liabilities": "29911586.8433",
+    "nav_value": "206371053.8476",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099315"
+  },
+  "97": {
+    "nav_id": "97",
+    "fund_id": "9",
+    "nav_date": "2025-09-15",
+    "total_assets": "66137063.7101",
+    "liabilities": "10240678.8708",
+    "nav_value": "55896384.8392",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099321"
+  },
+  "98": {
+    "nav_id": "98",
+    "fund_id": "9",
+    "nav_date": "2025-09-08",
+    "total_assets": "306946603.8309",
+    "liabilities": "38183003.7961",
+    "nav_value": "268763600.0348",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099327"
+  },
+  "99": {
+    "nav_id": "99",
+    "fund_id": "9",
+    "nav_date": "2025-09-01",
+    "total_assets": "254015484.4388",
+    "liabilities": "46325176.3482",
+    "nav_value": "207690308.0906",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099333"
+  },
+  "100": {
+    "nav_id": "100",
+    "fund_id": "9",
+    "nav_date": "2025-08-25",
+    "total_assets": "117313889.6518",
+    "liabilities": "6185955.7538",
+    "nav_value": "111127933.8980",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099341"
+  },
+  "101": {
+    "nav_id": "101",
+    "fund_id": "9",
+    "nav_date": "2025-08-18",
+    "total_assets": "329744728.9719",
+    "liabilities": "28623279.3216",
+    "nav_value": "301121449.6503",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099348"
+  },
+  "102": {
+    "nav_id": "102",
+    "fund_id": "9",
+    "nav_date": "2025-08-11",
+    "total_assets": "203269015.8906",
+    "liabilities": "25902878.2236",
+    "nav_value": "177366137.6670",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099353"
+  },
+  "103": {
+    "nav_id": "103",
+    "fund_id": "9",
+    "nav_date": "2025-08-04",
+    "total_assets": "14903910.4365",
+    "liabilities": "2713514.6221",
+    "nav_value": "12190395.8144",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099359"
+  },
+  "104": {
+    "nav_id": "104",
+    "fund_id": "9",
+    "nav_date": "2025-07-28",
+    "total_assets": "477713562.5083",
+    "liabilities": "63149271.7182",
+    "nav_value": "414564290.7902",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099365"
+  },
+  "105": {
+    "nav_id": "105",
+    "fund_id": "9",
+    "nav_date": "2025-07-21",
+    "total_assets": "174031319.7898",
+    "liabilities": "25615533.2064",
+    "nav_value": "148415786.5834",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099371"
+  },
+  "106": {
+    "nav_id": "106",
+    "fund_id": "9",
+    "nav_date": "2025-07-14",
+    "total_assets": "164351864.9983",
+    "liabilities": "20726177.0273",
+    "nav_value": "143625687.9710",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099377"
+  },
+  "107": {
+    "nav_id": "107",
+    "fund_id": "9",
+    "nav_date": "2025-07-07",
+    "total_assets": "470076453.8776",
+    "liabilities": "68809583.9500",
+    "nav_value": "401266869.9276",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099386"
+  },
+  "108": {
+    "nav_id": "108",
+    "fund_id": "9",
+    "nav_date": "2025-06-30",
+    "total_assets": "453258793.6263",
+    "liabilities": "61075939.3753",
+    "nav_value": "392182854.2510",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099392"
+  },
+  "109": {
+    "nav_id": "109",
+    "fund_id": "10",
+    "nav_date": "2025-09-15",
+    "total_assets": "220177789.6279",
+    "liabilities": "42773154.9377",
+    "nav_value": "177404634.6902",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099398"
+  },
+  "110": {
+    "nav_id": "110",
+    "fund_id": "10",
+    "nav_date": "2025-09-08",
+    "total_assets": "154702656.6850",
+    "liabilities": "17312468.0614",
+    "nav_value": "137390188.6236",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099404"
+  },
+  "111": {
+    "nav_id": "111",
+    "fund_id": "10",
+    "nav_date": "2025-09-01",
+    "total_assets": "113554445.4838",
+    "liabilities": "17178064.0890",
+    "nav_value": "96376381.3948",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099410"
+  },
+  "112": {
+    "nav_id": "112",
+    "fund_id": "10",
+    "nav_date": "2025-08-25",
+    "total_assets": "227851319.6529",
+    "liabilities": "31604579.9451",
+    "nav_value": "196246739.7078",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099418"
+  },
+  "113": {
+    "nav_id": "113",
+    "fund_id": "10",
+    "nav_date": "2025-08-18",
+    "total_assets": "365207784.0703",
+    "liabilities": "66295644.1424",
+    "nav_value": "298912139.9279",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099424"
+  },
+  "114": {
+    "nav_id": "114",
+    "fund_id": "10",
+    "nav_date": "2025-08-11",
+    "total_assets": "98404245.6618",
+    "liabilities": "18148936.2940",
+    "nav_value": "80255309.3678",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099430"
+  },
+  "115": {
+    "nav_id": "115",
+    "fund_id": "10",
+    "nav_date": "2025-08-04",
+    "total_assets": "288719725.4834",
+    "liabilities": "36596403.2861",
+    "nav_value": "252123322.1972",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099436"
+  },
+  "116": {
+    "nav_id": "116",
+    "fund_id": "10",
+    "nav_date": "2025-07-28",
+    "total_assets": "310918037.1411",
+    "liabilities": "21496071.2086",
+    "nav_value": "289421965.9325",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099443"
+  },
+  "117": {
+    "nav_id": "117",
+    "fund_id": "10",
+    "nav_date": "2025-07-21",
+    "total_assets": "212321784.9733",
+    "liabilities": "19899757.9176",
+    "nav_value": "192422027.0557",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099449"
+  },
+  "118": {
+    "nav_id": "118",
+    "fund_id": "10",
+    "nav_date": "2025-07-14",
+    "total_assets": "359728402.7675",
+    "liabilities": "58715204.0438",
+    "nav_value": "301013198.7237",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099455"
+  },
+  "119": {
+    "nav_id": "119",
+    "fund_id": "10",
+    "nav_date": "2025-07-07",
+    "total_assets": "249254047.5079",
+    "liabilities": "45317320.5755",
+    "nav_value": "203936726.9324",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099461"
+  },
+  "120": {
+    "nav_id": "120",
+    "fund_id": "10",
+    "nav_date": "2025-06-30",
+    "total_assets": "30027027.1081",
+    "liabilities": "1643579.3184",
+    "nav_value": "28383447.7897",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.099466"
+  },
+  "121": {
+    "nav_id": "121",
+    "fund_id": "11",
+    "nav_date": "2025-09-15",
+    "total_assets": "88651096.4646",
+    "liabilities": "6454018.8091",
+    "nav_value": "82197077.6556",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099473"
+  },
+  "122": {
+    "nav_id": "122",
+    "fund_id": "11",
+    "nav_date": "2025-09-08",
+    "total_assets": "10773957.7806",
+    "liabilities": "1548049.4885",
+    "nav_value": "9225908.2921",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099482"
+  },
+  "123": {
+    "nav_id": "123",
+    "fund_id": "11",
+    "nav_date": "2025-09-01",
+    "total_assets": "50865545.5952",
+    "liabilities": "9183023.5645",
+    "nav_value": "41682522.0307",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099488"
+  },
+  "124": {
+    "nav_id": "124",
+    "fund_id": "11",
+    "nav_date": "2025-08-25",
+    "total_assets": "493449801.3353",
+    "liabilities": "93049273.5642",
+    "nav_value": "400400527.7711",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099496"
+  },
+  "125": {
+    "nav_id": "125",
+    "fund_id": "11",
+    "nav_date": "2025-08-18",
+    "total_assets": "433484295.9463",
+    "liabilities": "64188024.4729",
+    "nav_value": "369296271.4734",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099502"
+  },
+  "126": {
+    "nav_id": "126",
+    "fund_id": "11",
+    "nav_date": "2025-08-11",
+    "total_assets": "467430960.9344",
+    "liabilities": "37989127.8403",
+    "nav_value": "429441833.0941",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099510"
+  },
+  "127": {
+    "nav_id": "127",
+    "fund_id": "11",
+    "nav_date": "2025-08-04",
+    "total_assets": "430645325.3314",
+    "liabilities": "36587930.0133",
+    "nav_value": "394057395.3181",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099516"
+  },
+  "128": {
+    "nav_id": "128",
+    "fund_id": "11",
+    "nav_date": "2025-07-28",
+    "total_assets": "435369482.9418",
+    "liabilities": "50410314.0079",
+    "nav_value": "384959168.9339",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099522"
+  },
+  "129": {
+    "nav_id": "129",
+    "fund_id": "11",
+    "nav_date": "2025-07-21",
+    "total_assets": "42914193.9325",
+    "liabilities": "4984119.2111",
+    "nav_value": "37930074.7214",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099528"
+  },
+  "130": {
+    "nav_id": "130",
+    "fund_id": "11",
+    "nav_date": "2025-07-14",
+    "total_assets": "188621471.9706",
+    "liabilities": "16022159.6917",
+    "nav_value": "172599312.2789",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099534"
+  },
+  "131": {
+    "nav_id": "131",
+    "fund_id": "11",
+    "nav_date": "2025-07-07",
+    "total_assets": "109601018.2136",
+    "liabilities": "20026358.7058",
+    "nav_value": "89574659.5078",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099540"
+  },
+  "132": {
+    "nav_id": "132",
+    "fund_id": "11",
+    "nav_date": "2025-06-30",
+    "total_assets": "482208735.6223",
+    "liabilities": "70810716.0486",
+    "nav_value": "411398019.5737",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099545"
+  },
+  "133": {
+    "nav_id": "133",
+    "fund_id": "12",
+    "nav_date": "2025-09-15",
+    "total_assets": "39852164.9829",
+    "liabilities": "7762465.5520",
+    "nav_value": "32089699.4308",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099552"
+  },
+  "134": {
+    "nav_id": "134",
+    "fund_id": "12",
+    "nav_date": "2025-09-08",
+    "total_assets": "74433993.4646",
+    "liabilities": "11929815.4362",
+    "nav_value": "62504178.0284",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099558"
+  },
+  "135": {
+    "nav_id": "135",
+    "fund_id": "12",
+    "nav_date": "2025-09-01",
+    "total_assets": "164590532.0596",
+    "liabilities": "23223975.5981",
+    "nav_value": "141366556.4615",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099564"
+  },
+  "136": {
+    "nav_id": "136",
+    "fund_id": "12",
+    "nav_date": "2025-08-25",
+    "total_assets": "198061495.1220",
+    "liabilities": "30901117.3084",
+    "nav_value": "167160377.8137",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099572"
+  },
+  "137": {
+    "nav_id": "137",
+    "fund_id": "12",
+    "nav_date": "2025-08-18",
+    "total_assets": "334219642.0846",
+    "liabilities": "54652068.6412",
+    "nav_value": "279567573.4434",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099578"
+  },
+  "138": {
+    "nav_id": "138",
+    "fund_id": "12",
+    "nav_date": "2025-08-11",
+    "total_assets": "380560907.3203",
+    "liabilities": "32586465.4059",
+    "nav_value": "347974441.9144",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099584"
+  },
+  "139": {
+    "nav_id": "139",
+    "fund_id": "12",
+    "nav_date": "2025-08-04",
+    "total_assets": "34069582.1420",
+    "liabilities": "5999573.7150",
+    "nav_value": "28070008.4270",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099592"
+  },
+  "140": {
+    "nav_id": "140",
+    "fund_id": "12",
+    "nav_date": "2025-07-28",
+    "total_assets": "232887471.0907",
+    "liabilities": "30974077.7247",
+    "nav_value": "201913393.3660",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099598"
+  },
+  "141": {
+    "nav_id": "141",
+    "fund_id": "12",
+    "nav_date": "2025-07-21",
+    "total_assets": "203290906.4010",
+    "liabilities": "18867400.0731",
+    "nav_value": "184423506.3279",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099604"
+  },
+  "142": {
+    "nav_id": "142",
+    "fund_id": "12",
+    "nav_date": "2025-07-14",
+    "total_assets": "421461942.8385",
+    "liabilities": "73109192.7578",
+    "nav_value": "348352750.0807",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099610"
+  },
+  "143": {
+    "nav_id": "143",
+    "fund_id": "12",
+    "nav_date": "2025-07-07",
+    "total_assets": "447808966.1557",
+    "liabilities": "58702109.6511",
+    "nav_value": "389106856.5046",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.099616"
+  },
+  "144": {
+    "nav_id": "144",
+    "fund_id": "12",
+    "nav_date": "2025-06-30",
+    "total_assets": "446538287.1635",
+    "liabilities": "23872863.5071",
+    "nav_value": "422665423.6564",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099626"
+  },
+  "145": {
+    "nav_id": "145",
+    "fund_id": "13",
+    "nav_date": "2025-09-15",
+    "total_assets": "469426088.5290",
+    "liabilities": "54732335.1249",
+    "nav_value": "414693753.4041",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099632"
+  },
+  "146": {
+    "nav_id": "146",
+    "fund_id": "13",
+    "nav_date": "2025-09-08",
+    "total_assets": "52028794.7100",
+    "liabilities": "3983929.0452",
+    "nav_value": "48044865.6648",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099641"
+  },
+  "147": {
+    "nav_id": "147",
+    "fund_id": "13",
+    "nav_date": "2025-09-01",
+    "total_assets": "421436236.2269",
+    "liabilities": "44837365.7008",
+    "nav_value": "376598870.5261",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099647"
+  },
+  "148": {
+    "nav_id": "148",
+    "fund_id": "13",
+    "nav_date": "2025-08-25",
+    "total_assets": "219173647.4198",
+    "liabilities": "16765608.4420",
+    "nav_value": "202408038.9778",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099655"
+  },
+  "149": {
+    "nav_id": "149",
+    "fund_id": "13",
+    "nav_date": "2025-08-18",
+    "total_assets": "210721229.2894",
+    "liabilities": "28558048.4854",
+    "nav_value": "182163180.8039",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099661"
+  },
+  "150": {
+    "nav_id": "150",
+    "fund_id": "13",
+    "nav_date": "2025-08-11",
+    "total_assets": "39527898.6842",
+    "liabilities": "6580772.4268",
+    "nav_value": "32947126.2574",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.099669"
+  },
+  "151": {
+    "nav_id": "151",
+    "fund_id": "13",
+    "nav_date": "2025-08-04",
+    "total_assets": "489024649.2095",
+    "liabilities": "92098864.2997",
+    "nav_value": "396925784.9098",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.099675"
+  },
+  "152": {
+    "nav_id": "152",
+    "fund_id": "13",
+    "nav_date": "2025-07-28",
+    "total_assets": "331498301.2270",
+    "liabilities": "54684226.9499",
+    "nav_value": "276814074.2771",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.099686"
+  },
+  "153": {
+    "nav_id": "153",
+    "fund_id": "13",
+    "nav_date": "2025-07-21",
+    "total_assets": "448012243.3456",
+    "liabilities": "44406077.5284",
+    "nav_value": "403606165.8172",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099699"
+  },
+  "154": {
+    "nav_id": "154",
+    "fund_id": "13",
+    "nav_date": "2025-07-14",
+    "total_assets": "92920203.1548",
+    "liabilities": "12445585.0459",
+    "nav_value": "80474618.1089",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.099711"
+  },
+  "155": {
+    "nav_id": "155",
+    "fund_id": "13",
+    "nav_date": "2025-07-07",
+    "total_assets": "440469984.7635",
+    "liabilities": "81781348.6576",
+    "nav_value": "358688636.1060",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099722"
+  },
+  "156": {
+    "nav_id": "156",
+    "fund_id": "13",
+    "nav_date": "2025-06-30",
+    "total_assets": "395063812.3078",
+    "liabilities": "49699492.7740",
+    "nav_value": "345364319.5338",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099732"
+  },
+  "157": {
+    "nav_id": "157",
+    "fund_id": "14",
+    "nav_date": "2025-09-15",
+    "total_assets": "257757479.9907",
+    "liabilities": "38219686.4688",
+    "nav_value": "219537793.5220",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099744"
+  },
+  "158": {
+    "nav_id": "158",
+    "fund_id": "14",
+    "nav_date": "2025-09-08",
+    "total_assets": "237282041.0623",
+    "liabilities": "22349465.2485",
+    "nav_value": "214932575.8138",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099755"
+  },
+  "159": {
+    "nav_id": "159",
+    "fund_id": "14",
+    "nav_date": "2025-09-01",
+    "total_assets": "476153081.9179",
+    "liabilities": "93899465.4165",
+    "nav_value": "382253616.5014",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099768"
+  },
+  "160": {
+    "nav_id": "160",
+    "fund_id": "14",
+    "nav_date": "2025-08-25",
+    "total_assets": "271750760.5958",
+    "liabilities": "28621713.5916",
+    "nav_value": "243129047.0042",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099784"
+  },
+  "161": {
+    "nav_id": "161",
+    "fund_id": "14",
+    "nav_date": "2025-08-18",
+    "total_assets": "94901172.6212",
+    "liabilities": "16055092.6487",
+    "nav_value": "78846079.9725",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.099797"
+  },
+  "162": {
+    "nav_id": "162",
+    "fund_id": "14",
+    "nav_date": "2025-08-11",
+    "total_assets": "102978864.1930",
+    "liabilities": "6726121.0918",
+    "nav_value": "96252743.1012",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099810"
+  },
+  "163": {
+    "nav_id": "163",
+    "fund_id": "14",
+    "nav_date": "2025-08-04",
+    "total_assets": "443982524.9267",
+    "liabilities": "65364796.1711",
+    "nav_value": "378617728.7556",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.099824"
+  },
+  "164": {
+    "nav_id": "164",
+    "fund_id": "14",
+    "nav_date": "2025-07-28",
+    "total_assets": "32879703.0546",
+    "liabilities": "2709533.5997",
+    "nav_value": "30170169.4549",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.099838"
+  },
+  "165": {
+    "nav_id": "165",
+    "fund_id": "14",
+    "nav_date": "2025-07-21",
+    "total_assets": "409739665.1458",
+    "liabilities": "48406315.4776",
+    "nav_value": "361333349.6682",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099856"
+  },
+  "166": {
+    "nav_id": "166",
+    "fund_id": "14",
+    "nav_date": "2025-07-14",
+    "total_assets": "288912912.8726",
+    "liabilities": "43371518.3915",
+    "nav_value": "245541394.4810",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099869"
+  },
+  "167": {
+    "nav_id": "167",
+    "fund_id": "14",
+    "nav_date": "2025-07-07",
+    "total_assets": "136655245.6177",
+    "liabilities": "19560703.6184",
+    "nav_value": "117094541.9993",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.099882"
+  },
+  "168": {
+    "nav_id": "168",
+    "fund_id": "14",
+    "nav_date": "2025-06-30",
+    "total_assets": "330204508.6154",
+    "liabilities": "61178918.6856",
+    "nav_value": "269025589.9298",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.099895"
+  },
+  "169": {
+    "nav_id": "169",
+    "fund_id": "15",
+    "nav_date": "2025-09-15",
+    "total_assets": "488392053.1051",
+    "liabilities": "85805256.9559",
+    "nav_value": "402586796.1491",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099910"
+  },
+  "170": {
+    "nav_id": "170",
+    "fund_id": "15",
+    "nav_date": "2025-09-08",
+    "total_assets": "205267365.5195",
+    "liabilities": "21411788.3181",
+    "nav_value": "183855577.2013",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.099923"
+  },
+  "171": {
+    "nav_id": "171",
+    "fund_id": "15",
+    "nav_date": "2025-09-01",
+    "total_assets": "195939147.4275",
+    "liabilities": "13375420.5312",
+    "nav_value": "182563726.8963",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.099936"
+  },
+  "172": {
+    "nav_id": "172",
+    "fund_id": "15",
+    "nav_date": "2025-08-25",
+    "total_assets": "485018540.2906",
+    "liabilities": "92159612.7403",
+    "nav_value": "392858927.5503",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099956"
+  },
+  "173": {
+    "nav_id": "173",
+    "fund_id": "15",
+    "nav_date": "2025-08-18",
+    "total_assets": "157200435.3344",
+    "liabilities": "15113865.5272",
+    "nav_value": "142086569.8072",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.099967"
+  },
+  "174": {
+    "nav_id": "174",
+    "fund_id": "15",
+    "nav_date": "2025-08-11",
+    "total_assets": "454764298.9041",
+    "liabilities": "45566852.3211",
+    "nav_value": "409197446.5831",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.099978"
+  },
+  "175": {
+    "nav_id": "175",
+    "fund_id": "15",
+    "nav_date": "2025-08-04",
+    "total_assets": "435258567.6104",
+    "liabilities": "34139278.5745",
+    "nav_value": "401119289.0358",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.099989"
+  },
+  "176": {
+    "nav_id": "176",
+    "fund_id": "15",
+    "nav_date": "2025-07-28",
+    "total_assets": "243982576.1067",
+    "liabilities": "34860387.3676",
+    "nav_value": "209122188.7391",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.099999"
+  },
+  "177": {
+    "nav_id": "177",
+    "fund_id": "15",
+    "nav_date": "2025-07-21",
+    "total_assets": "433976933.1037",
+    "liabilities": "28056532.5231",
+    "nav_value": "405920400.5806",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100010"
+  },
+  "178": {
+    "nav_id": "178",
+    "fund_id": "15",
+    "nav_date": "2025-07-14",
+    "total_assets": "300596524.9329",
+    "liabilities": "35821386.0534",
+    "nav_value": "264775138.8795",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100024"
+  },
+  "179": {
+    "nav_id": "179",
+    "fund_id": "15",
+    "nav_date": "2025-07-07",
+    "total_assets": "335360984.1424",
+    "liabilities": "34757551.3763",
+    "nav_value": "300603432.7661",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.100035"
+  },
+  "180": {
+    "nav_id": "180",
+    "fund_id": "15",
+    "nav_date": "2025-06-30",
+    "total_assets": "73975658.2740",
+    "liabilities": "8591626.0178",
+    "nav_value": "65384032.2562",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.100046"
+  },
+  "181": {
+    "nav_id": "181",
+    "fund_id": "16",
+    "nav_date": "2025-09-15",
+    "total_assets": "80877276.9296",
+    "liabilities": "11618611.1823",
+    "nav_value": "69258665.7473",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.100059"
+  },
+  "182": {
+    "nav_id": "182",
+    "fund_id": "16",
+    "nav_date": "2025-09-08",
+    "total_assets": "202020891.6062",
+    "liabilities": "11260874.7939",
+    "nav_value": "190760016.8123",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.100071"
+  },
+  "183": {
+    "nav_id": "183",
+    "fund_id": "16",
+    "nav_date": "2025-09-01",
+    "total_assets": "169393097.0362",
+    "liabilities": "20167793.8943",
+    "nav_value": "149225303.1418",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.100082"
+  },
+  "184": {
+    "nav_id": "184",
+    "fund_id": "16",
+    "nav_date": "2025-08-25",
+    "total_assets": "196027685.4438",
+    "liabilities": "16232269.6861",
+    "nav_value": "179795415.7577",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.100093"
+  },
+  "185": {
+    "nav_id": "185",
+    "fund_id": "16",
+    "nav_date": "2025-08-18",
+    "total_assets": "70316954.5307",
+    "liabilities": "5178956.0213",
+    "nav_value": "65137998.5094",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100109"
+  },
+  "186": {
+    "nav_id": "186",
+    "fund_id": "16",
+    "nav_date": "2025-08-11",
+    "total_assets": "437334902.3797",
+    "liabilities": "68641874.3768",
+    "nav_value": "368693028.0029",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.100120"
+  },
+  "187": {
+    "nav_id": "187",
+    "fund_id": "16",
+    "nav_date": "2025-08-04",
+    "total_assets": "151711986.1544",
+    "liabilities": "25474361.9975",
+    "nav_value": "126237624.1568",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.100130"
+  },
+  "188": {
+    "nav_id": "188",
+    "fund_id": "16",
+    "nav_date": "2025-07-28",
+    "total_assets": "285441608.9176",
+    "liabilities": "25612544.0646",
+    "nav_value": "259829064.8530",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.100141"
+  },
+  "189": {
+    "nav_id": "189",
+    "fund_id": "16",
+    "nav_date": "2025-07-21",
+    "total_assets": "410994156.5572",
+    "liabilities": "24483431.8934",
+    "nav_value": "386510724.6637",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100151"
+  },
+  "190": {
+    "nav_id": "190",
+    "fund_id": "16",
+    "nav_date": "2025-07-14",
+    "total_assets": "351309386.3678",
+    "liabilities": "50763956.5440",
+    "nav_value": "300545429.8238",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.100162"
+  },
+  "191": {
+    "nav_id": "191",
+    "fund_id": "16",
+    "nav_date": "2025-07-07",
+    "total_assets": "411618818.2926",
+    "liabilities": "64057916.3761",
+    "nav_value": "347560901.9166",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.100174"
+  },
+  "192": {
+    "nav_id": "192",
+    "fund_id": "16",
+    "nav_date": "2025-06-30",
+    "total_assets": "221513708.9906",
+    "liabilities": "16900240.5396",
+    "nav_value": "204613468.4510",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.100187"
+  },
+  "193": {
+    "nav_id": "193",
+    "fund_id": "17",
+    "nav_date": "2025-09-15",
+    "total_assets": "166970886.9407",
+    "liabilities": "32471855.4258",
+    "nav_value": "134499031.5149",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100201"
+  },
+  "194": {
+    "nav_id": "194",
+    "fund_id": "17",
+    "nav_date": "2025-09-08",
+    "total_assets": "429978701.7996",
+    "liabilities": "74106130.9876",
+    "nav_value": "355872570.8119",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100233"
+  },
+  "195": {
+    "nav_id": "195",
+    "fund_id": "17",
+    "nav_date": "2025-09-01",
+    "total_assets": "207341124.0815",
+    "liabilities": "35228893.3174",
+    "nav_value": "172112230.7640",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.100250"
+  },
+  "196": {
+    "nav_id": "196",
+    "fund_id": "17",
+    "nav_date": "2025-08-25",
+    "total_assets": "316167616.2474",
+    "liabilities": "35934314.7749",
+    "nav_value": "280233301.4725",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100264"
+  },
+  "197": {
+    "nav_id": "197",
+    "fund_id": "17",
+    "nav_date": "2025-08-18",
+    "total_assets": "191243242.9507",
+    "liabilities": "23135096.2458",
+    "nav_value": "168108146.7049",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100281"
+  },
+  "198": {
+    "nav_id": "198",
+    "fund_id": "17",
+    "nav_date": "2025-08-11",
+    "total_assets": "180833840.2746",
+    "liabilities": "35923619.0350",
+    "nav_value": "144910221.2396",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100292"
+  },
+  "199": {
+    "nav_id": "199",
+    "fund_id": "17",
+    "nav_date": "2025-08-04",
+    "total_assets": "85672672.0067",
+    "liabilities": "5330804.6575",
+    "nav_value": "80341867.3492",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.100302"
+  },
+  "200": {
+    "nav_id": "200",
+    "fund_id": "17",
+    "nav_date": "2025-07-28",
+    "total_assets": "472875355.6659",
+    "liabilities": "65247444.5646",
+    "nav_value": "407627911.1013",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.100313"
+  },
+  "201": {
+    "nav_id": "201",
+    "fund_id": "17",
+    "nav_date": "2025-07-21",
+    "total_assets": "143973004.3731",
+    "liabilities": "7246204.9680",
+    "nav_value": "136726799.4051",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.100324"
+  },
+  "202": {
+    "nav_id": "202",
+    "fund_id": "17",
+    "nav_date": "2025-07-14",
+    "total_assets": "209424281.1061",
+    "liabilities": "34271690.3220",
+    "nav_value": "175152590.7841",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100335"
+  },
+  "203": {
+    "nav_id": "203",
+    "fund_id": "17",
+    "nav_date": "2025-07-07",
+    "total_assets": "43024887.0994",
+    "liabilities": "2803725.3326",
+    "nav_value": "40221161.7668",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.100351"
+  },
+  "204": {
+    "nav_id": "204",
+    "fund_id": "17",
+    "nav_date": "2025-06-30",
+    "total_assets": "417600388.5431",
+    "liabilities": "47159962.5128",
+    "nav_value": "370440426.0303",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100367"
+  },
+  "205": {
+    "nav_id": "205",
+    "fund_id": "18",
+    "nav_date": "2025-09-15",
+    "total_assets": "464960155.4749",
+    "liabilities": "40727591.9869",
+    "nav_value": "424232563.4880",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.100381"
+  },
+  "206": {
+    "nav_id": "206",
+    "fund_id": "18",
+    "nav_date": "2025-09-08",
+    "total_assets": "156609240.2935",
+    "liabilities": "11086292.2032",
+    "nav_value": "145522948.0904",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100400"
+  },
+  "207": {
+    "nav_id": "207",
+    "fund_id": "18",
+    "nav_date": "2025-09-01",
+    "total_assets": "191433801.5184",
+    "liabilities": "30476453.4283",
+    "nav_value": "160957348.0901",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.100413"
+  },
+  "208": {
+    "nav_id": "208",
+    "fund_id": "18",
+    "nav_date": "2025-08-25",
+    "total_assets": "350207156.6743",
+    "liabilities": "22993573.8835",
+    "nav_value": "327213582.7908",
+    "calculated_by_id": "12",
+    "created_at": "2025-09-15T15:14:54.100432"
+  },
+  "209": {
+    "nav_id": "209",
+    "fund_id": "18",
+    "nav_date": "2025-08-18",
+    "total_assets": "409783611.4463",
+    "liabilities": "57939886.9366",
+    "nav_value": "351843724.5097",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100451"
+  },
+  "210": {
+    "nav_id": "210",
+    "fund_id": "18",
+    "nav_date": "2025-08-11",
+    "total_assets": "351890390.6029",
+    "liabilities": "63202406.8282",
+    "nav_value": "288687983.7747",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100465"
+  },
+  "211": {
+    "nav_id": "211",
+    "fund_id": "18",
+    "nav_date": "2025-08-04",
+    "total_assets": "414916979.9973",
+    "liabilities": "32570395.0530",
+    "nav_value": "382346584.9443",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100479"
+  },
+  "212": {
+    "nav_id": "212",
+    "fund_id": "18",
+    "nav_date": "2025-07-28",
+    "total_assets": "182475972.4794",
+    "liabilities": "34866601.3313",
+    "nav_value": "147609371.1481",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.100491"
+  },
+  "213": {
+    "nav_id": "213",
+    "fund_id": "18",
+    "nav_date": "2025-07-21",
+    "total_assets": "306896326.3877",
+    "liabilities": "40303201.6325",
+    "nav_value": "266593124.7551",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.100505"
+  },
+  "214": {
+    "nav_id": "214",
+    "fund_id": "18",
+    "nav_date": "2025-07-14",
+    "total_assets": "395253500.8911",
+    "liabilities": "60839653.0233",
+    "nav_value": "334413847.8678",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.100518"
+  },
+  "215": {
+    "nav_id": "215",
+    "fund_id": "18",
+    "nav_date": "2025-07-07",
+    "total_assets": "188798128.1740",
+    "liabilities": "20497420.1426",
+    "nav_value": "168300708.0314",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.100531"
+  },
+  "216": {
+    "nav_id": "216",
+    "fund_id": "18",
+    "nav_date": "2025-06-30",
+    "total_assets": "327016205.8558",
+    "liabilities": "37384432.0669",
+    "nav_value": "289631773.7889",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100542"
+  },
+  "217": {
+    "nav_id": "217",
+    "fund_id": "19",
+    "nav_date": "2025-09-15",
+    "total_assets": "20582946.1739",
+    "liabilities": "3918210.4483",
+    "nav_value": "16664735.7257",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100554"
+  },
+  "218": {
+    "nav_id": "218",
+    "fund_id": "19",
+    "nav_date": "2025-09-08",
+    "total_assets": "155828587.0238",
+    "liabilities": "13512480.5119",
+    "nav_value": "142316106.5119",
+    "calculated_by_id": "25",
+    "created_at": "2025-09-15T15:14:54.100568"
+  },
+  "219": {
+    "nav_id": "219",
+    "fund_id": "19",
+    "nav_date": "2025-09-01",
+    "total_assets": "368572725.8926",
+    "liabilities": "60940765.5467",
+    "nav_value": "307631960.3460",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.100581"
+  },
+  "220": {
+    "nav_id": "220",
+    "fund_id": "19",
+    "nav_date": "2025-08-25",
+    "total_assets": "185165006.1128",
+    "liabilities": "10228073.4497",
+    "nav_value": "174936932.6631",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100595"
+  },
+  "221": {
+    "nav_id": "221",
+    "fund_id": "19",
+    "nav_date": "2025-08-18",
+    "total_assets": "29026295.6339",
+    "liabilities": "3495502.7971",
+    "nav_value": "25530792.8368",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100612"
+  },
+  "222": {
+    "nav_id": "222",
+    "fund_id": "19",
+    "nav_date": "2025-08-11",
+    "total_assets": "402448778.8605",
+    "liabilities": "48778523.5622",
+    "nav_value": "353670255.2983",
+    "calculated_by_id": "23",
+    "created_at": "2025-09-15T15:14:54.100625"
+  },
+  "223": {
+    "nav_id": "223",
+    "fund_id": "19",
+    "nav_date": "2025-08-04",
+    "total_assets": "44793373.7504",
+    "liabilities": "5516129.1826",
+    "nav_value": "39277244.5678",
+    "calculated_by_id": "14",
+    "created_at": "2025-09-15T15:14:54.100637"
+  },
+  "224": {
+    "nav_id": "224",
+    "fund_id": "19",
+    "nav_date": "2025-07-28",
+    "total_assets": "210441905.3936",
+    "liabilities": "35495602.9359",
+    "nav_value": "174946302.4577",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.100655"
+  },
+  "225": {
+    "nav_id": "225",
+    "fund_id": "19",
+    "nav_date": "2025-07-21",
+    "total_assets": "266910029.3723",
+    "liabilities": "31013325.4616",
+    "nav_value": "235896703.9107",
+    "calculated_by_id": "20",
+    "created_at": "2025-09-15T15:14:54.100667"
+  },
+  "226": {
+    "nav_id": "226",
+    "fund_id": "19",
+    "nav_date": "2025-07-14",
+    "total_assets": "25474450.6124",
+    "liabilities": "2958644.6095",
+    "nav_value": "22515806.0029",
+    "calculated_by_id": "17",
+    "created_at": "2025-09-15T15:14:54.100680"
+  },
+  "227": {
+    "nav_id": "227",
+    "fund_id": "19",
+    "nav_date": "2025-07-07",
+    "total_assets": "248703886.7948",
+    "liabilities": "41606851.3614",
+    "nav_value": "207097035.4334",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100693"
+  },
+  "228": {
+    "nav_id": "228",
+    "fund_id": "19",
+    "nav_date": "2025-06-30",
+    "total_assets": "45345217.2428",
+    "liabilities": "7982303.1277",
+    "nav_value": "37362914.1151",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.100705"
+  },
+  "229": {
+    "nav_id": "229",
+    "fund_id": "20",
+    "nav_date": "2025-09-15",
+    "total_assets": "480598450.7536",
+    "liabilities": "69490123.9374",
+    "nav_value": "411108326.8161",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.100719"
+  },
+  "230": {
+    "nav_id": "230",
+    "fund_id": "20",
+    "nav_date": "2025-09-08",
+    "total_assets": "242584954.5583",
+    "liabilities": "18522695.7082",
+    "nav_value": "224062258.8501",
+    "calculated_by_id": "27",
+    "created_at": "2025-09-15T15:14:54.100733"
+  },
+  "231": {
+    "nav_id": "231",
+    "fund_id": "20",
+    "nav_date": "2025-09-01",
+    "total_assets": "15579555.9365",
+    "liabilities": "951734.1594",
+    "nav_value": "14627821.7771",
+    "calculated_by_id": "46",
+    "created_at": "2025-09-15T15:14:54.100746"
+  },
+  "232": {
+    "nav_id": "232",
+    "fund_id": "20",
+    "nav_date": "2025-08-25",
+    "total_assets": "238253506.2090",
+    "liabilities": "29054509.1100",
+    "nav_value": "209198997.0990",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.100758"
+  },
+  "233": {
+    "nav_id": "233",
+    "fund_id": "20",
+    "nav_date": "2025-08-18",
+    "total_assets": "79834337.2113",
+    "liabilities": "14186324.9606",
+    "nav_value": "65648012.2507",
+    "calculated_by_id": "3",
+    "created_at": "2025-09-15T15:14:54.100773"
+  },
+  "234": {
+    "nav_id": "234",
+    "fund_id": "20",
+    "nav_date": "2025-08-11",
+    "total_assets": "102113747.2185",
+    "liabilities": "14521538.7386",
+    "nav_value": "87592208.4798",
+    "calculated_by_id": "40",
+    "created_at": "2025-09-15T15:14:54.100791"
+  },
+  "235": {
+    "nav_id": "235",
+    "fund_id": "20",
+    "nav_date": "2025-08-04",
+    "total_assets": "416427880.4018",
+    "liabilities": "32779890.5962",
+    "nav_value": "383647989.8055",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100806"
+  },
+  "236": {
+    "nav_id": "236",
+    "fund_id": "20",
+    "nav_date": "2025-07-28",
+    "total_assets": "471912083.0711",
+    "liabilities": "28835054.9389",
+    "nav_value": "443077028.1322",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100819"
+  },
+  "237": {
+    "nav_id": "237",
+    "fund_id": "20",
+    "nav_date": "2025-07-21",
+    "total_assets": "148104385.1746",
+    "liabilities": "13360485.8462",
+    "nav_value": "134743899.3284",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.100830"
+  },
+  "238": {
+    "nav_id": "238",
+    "fund_id": "20",
+    "nav_date": "2025-07-14",
+    "total_assets": "318255956.0469",
+    "liabilities": "48416166.6567",
+    "nav_value": "269839789.3902",
+    "calculated_by_id": "36",
+    "created_at": "2025-09-15T15:14:54.100843"
+  },
+  "239": {
+    "nav_id": "239",
+    "fund_id": "20",
+    "nav_date": "2025-07-07",
+    "total_assets": "307102800.1991",
+    "liabilities": "59273332.3732",
+    "nav_value": "247829467.8258",
+    "calculated_by_id": "8",
+    "created_at": "2025-09-15T15:14:54.100855"
+  },
+  "240": {
+    "nav_id": "240",
+    "fund_id": "20",
+    "nav_date": "2025-06-30",
+    "total_assets": "453777910.9925",
+    "liabilities": "23218813.0698",
+    "nav_value": "430559097.9227",
+    "calculated_by_id": "32",
+    "created_at": "2025-09-15T15:14:54.100868"
+  }
+}
