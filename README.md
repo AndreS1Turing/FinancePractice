@@ -9,6 +9,13 @@ The app files need to be in the same directory as the `envs` directory. We recom
 
 Alternative approaches include moving the repo files to the amazon repo (though you'll need to remove them from the staging area). Choose whatever approach fits your workflow best.
 
+### Extra Note
+
+While the app does not need an OpenAI key, it will only run if it has one available as an environment variable. Then, please create a file named `.env` in the same folder the `app.py` file is located. You can put the following content in the file:
+```ini
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+```
+
 ## What Can You Do With This Tool?
 
 ### 1. Test APIs
