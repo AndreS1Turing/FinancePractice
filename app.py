@@ -19,47 +19,30 @@ from flask_login import (
     login_user,
     logout_user,
 )
+# Internal imports
+# from modules.login_utils.db import init_db_command
 from modules.login_utils.user import User
-from flask_talisman import Talisman
+
 
 from modules.database_utilities import db_utilities_bp
 from modules.task_tracker import task_tracker_bp
 from modules.task_framework import task_framework_bp
 from dotenv import load_dotenv
 load_dotenv()
+# from modules.login import login_bp
 
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("FLASK_SECRET_KEY")
-if not app.secret_key:
-    raise ValueError("FLASK_SECRET_KEY environment variable must be set")
-
-# Talisman(app, 
-#     force_https=True,
-#     strict_transport_security=True,
-#     content_security_policy={
-#         'default-src': "'self'",
-#         'script-src': "'self' 'unsafe-inline' 'unsafe-eval'",
-#         'style-src': "'self' 'unsafe-inline'",
-#         'img-src': "'self' data: https:",
-#         'font-src': "'self' https:",
-#         'connect-src': "'self' https:",
-#         'frame-src': "'none'",
-#         'object-src': "'none'",
-#         'base-uri': "'self'"
-#     }
-# )
-
-# CORS configuration - be more specific in production
-cors = CORS(app) 
+app.secret_key = os.environ.get("FLASK_SECRET_KEY", "super-secret-key")
+cors = CORS(app)
 
 app.config["SESSION_PERMANENT"] = True
 app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=10) 
 
-# app.config['SESSION_TYPE'] = 'filesystem' 
+app.config['SESSION_TYPE'] = 'filesystem' 
 
-app.config['SESSION_TYPE'] = 'redis'
-app.config['SESSION_REDIS'] = redis.from_url(os.environ.get('REDIS_URL'))
+# app.config['SESSION_TYPE'] = 'redis'
+# app.config['SESSION_REDIS'] = redis.from_url(os.environ.get('REDIS_URL'))
 Session(app)
 
 app.register_blueprint(db_utilities_bp)
@@ -75,16 +58,6 @@ PUBLIC_ROUTES = {
     '/static',
 }
 
-REDIRECT_ROUTES = {
-    '/interface_connections',
-    '/instruction_validation',
-    '/instruction_relevant_actions_or_policies',
-    '/index',
-    '/tracker',
-    '/task-framework',
-    '/db_utilities'
-}
-
 @app.before_request
 def load_session_data():
     g.environment = session.get("environment")
@@ -94,9 +67,6 @@ def load_session_data():
     if request.path.startswith('/static/') or request.path in ['static'] or request.path in PUBLIC_ROUTES or 'google' in request.path:
         return
 
-    if request.path in REDIRECT_ROUTES and not current_user.is_authenticated:
-        return redirect(url_for('index'))
-
     # if not current_user.is_authenticated:
     #     if request.path not in ['/', '/login', '/login/callback', '/logout']:
     #         return redirect(url_for('index'))
@@ -104,20 +74,8 @@ def load_session_data():
 ######################## AUTHENTICATION WITH GOOGLE ########################
 
 # Configuration
-def get_oauth_config():
-    """Get OAuth configuration based on current request host"""
-    if "dashboard-omega-swart-74.vercel.app" in request.host:
-        client_id = os.environ.get("GOOGLE_CLIENT_ID")
-        client_secret = os.environ.get("GOOGLE_CLIENT_SECRET")
-    else:
-        client_id = os.environ.get("GOOGLE_CLIENT_ID_2")
-        client_secret = os.environ.get("GOOGLE_CLIENT_SECRET_2")
-    
-    if not client_id or not client_secret:
-        raise ValueError("OAuth credentials not configured properly")
-    
-    return client_id, client_secret
-
+GOOGLE_CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID", None)
+GOOGLE_CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET", None)
 GOOGLE_DISCOVERY_URL = (
     "https://accounts.google.com/.well-known/openid-configuration"
 )
@@ -127,9 +85,15 @@ GOOGLE_DISCOVERY_URL = (
 login_manager = LoginManager()
 login_manager.init_app(app)
 
+# Naive database setup
+# try:
+#     init_db_command()
+# except sqlite3.OperationalError:
+#     # Assume it's already been created
+#     pass
 
 # OAuth 2 client setup
-# client = WebApplicationClient(GOOGLE_CLIENT_ID)
+client = WebApplicationClient(GOOGLE_CLIENT_ID)
 
 # Flask-Login helper to retrieve a user from our db
 @login_manager.user_loader
@@ -138,11 +102,11 @@ def load_user(user_id):
 
 @app.route("/", strict_slashes=False)
 def index():
-    if current_user.is_authenticated:
-        return render_template('main.html')
-    else:
-        return render_template('login.html')
-
+    # if current_user.is_authenticated:
+    return render_template('main.html')
+    # else:
+    #     return render_template('login.html')
+    
 
 @lru_cache(maxsize=1)
 def get_google_provider_cfg():
@@ -152,112 +116,83 @@ def get_google_provider_cfg():
     except requests.RequestException as e:
         print(f"Failed to get Google provider config: {e}")
         return None
-
+    
 @app.route("/login")
 def login():
-    try:
-        # Get OAuth config for current host
-        client_id, client_secret = get_oauth_config()
-        
-        # Create client with proper credentials
-        client = WebApplicationClient(client_id)
-        
-        # Find out what URL to hit for Google login
-        google_provider_cfg = get_google_provider_cfg()
-        if not google_provider_cfg:
-            return "OAuth configuration failed", 500
-            
-        authorization_endpoint = google_provider_cfg["authorization_endpoint"]
+    # Find out what URL to hit for Google login
+    google_provider_cfg = get_google_provider_cfg()
+    authorization_endpoint = google_provider_cfg["authorization_endpoint"]
 
-        # Use library to construct the request for Google login
-        request_uri = client.prepare_request_uri(
-            authorization_endpoint,
-            redirect_uri=request.base_url + "/callback",
-            scope=["openid", "email", "profile"],
-        )
-        return redirect(request_uri)
-    except Exception as e:
-        print(f"Login error: {e}")
-        return f"OAuth configuration error: {e}", 500
+    # Use library to construct the request for Google login and provide
+    # scopes that let you retrieve user's profile from Google
+    request_uri = client.prepare_request_uri(
+        authorization_endpoint,
+        redirect_uri=request.base_url + "/callback",
+        scope=["openid", "email", "profile"],
+    )
+    return redirect(request_uri)
 
 @app.route("/login/callback")
 def callback():
-    try:
-        # Get OAuth config for current host
-        client_id, client_secret = get_oauth_config()
-        
-        # Create client with proper credentials
-        client = WebApplicationClient(client_id)
-        
-        # Get authorization code Google sent back
-        code = request.args.get("code")
-        if not code:
-            return "Authorization code not received", 400
-            
-        # Get provider configuration
-        google_provider_cfg = get_google_provider_cfg()
-        if not google_provider_cfg:
-            return "OAuth configuration failed", 500
-            
-        token_endpoint = google_provider_cfg["token_endpoint"]
-        
-        # Prepare and send request to get tokens
-        token_url, headers, body = client.prepare_token_request(
-            token_endpoint,
-            authorization_response=request.url,
-            redirect_url=request.base_url,
-            code=code
-        )
-        
-        token_response = requests.post(
-            token_url,
-            headers=headers,
-            data=body,
-            auth=(client_id, client_secret),
-            timeout=10
-        )
+    # Get authorization code Google sent back to you
+    code = request.args.get("code") 
+    # Find out what URL to hit to get tokens that allow you to ask for
+    # things on behalf of a user
+    google_provider_cfg = get_google_provider_cfg()
+    token_endpoint = google_provider_cfg["token_endpoint"]
+    # Prepare and send a request to get tokens! Yay tokens!
+    token_url, headers, body = client.prepare_token_request(
+        token_endpoint,
+        authorization_response=request.url,
+        redirect_url=request.base_url,
+        code=code
+    )
+    token_response = requests.post(
+        token_url,
+        headers=headers,
+        data=body,
+        auth=(GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET),
+    )
 
-        if not token_response.ok:
-            return f"Token request failed: {token_response.text}", 400
+    # Parse the tokens!
+    client.parse_request_body_response(json.dumps(token_response.json()))
+    # Now that you have tokens (yay) let's find and hit the URL
+    # from Google that gives you the user's profile information,
+    # including their Google profile image and email
+    userinfo_endpoint = google_provider_cfg["userinfo_endpoint"]
+    uri, headers, body = client.add_token(userinfo_endpoint)
+    userinfo_response = requests.get(uri, headers=headers, data=body)
 
-        # Parse the tokens
-        client.parse_request_body_response(json.dumps(token_response.json()))
-        
-        # Get user info
-        userinfo_endpoint = google_provider_cfg["userinfo_endpoint"]
-        uri, headers, body = client.add_token(userinfo_endpoint)
-        userinfo_response = requests.get(uri, headers=headers, data=body, timeout=10)
+    # You want to make sure their email is verified.
+    # The user authenticated with Google, authorized your
+    # app, and now you've verified their email through Google!
+    if userinfo_response.json().get("email_verified"):
+        unique_id = userinfo_response.json()["sub"]
+        users_email = userinfo_response.json()["email"]
+        users_name = userinfo_response.json()["given_name"]
+    else:
+        return "User email not available or not verified by Google.", 400
 
-        if not userinfo_response.ok:
-            return f"User info request failed: {userinfo_response.text}", 400
+    if not users_email.endswith("@turing.com"):
+        return "Unauthorized domain", 403
+    # Create a user in your db with the information provided
+    # by Google
+    user = User(
+        id_=unique_id, name=users_name, email=users_email
+    )
 
-        user_info = userinfo_response.json()
-        
-        # Verify email
-        if not user_info.get("email_verified"):
-            return "User email not available or not verified by Google.", 400
+    # # Doesn't exist? Add it to the database.
+    # if not User.get(unique_id):
+    #     User.create(unique_id, users_name, users_email, picture)
+    
+    if not User.exists(unique_id):  # Use the new exists method
+        User.create(unique_id, users_name, users_email)
 
-        # Check domain restriction
-        users_email = user_info["email"]
-        if not users_email.endswith("@turing.com"):
-            return "Unauthorized domain", 403
+    # Begin user session by logging the user in
+    login_user(user)
 
-        # Create user
-        unique_id = user_info["sub"]
-        users_name = user_info["given_name"]
-        
-        user = User(id_=unique_id, name=users_name, email=users_email)
-
-        if not User.exists(unique_id):
-            User.create(unique_id, users_name, users_email)
-
-        # Login user
-        login_user(user)
-        return redirect(url_for("index"))
-        
-    except Exception as e:
-        print(f"Callback error: {e}")
-        return f"Authentication error: {e}", 500
+    # Send user back to homepage
+    return redirect(url_for("index"))
 
 @app.route("/logout")
 @login_required
@@ -436,4 +371,5 @@ def google_verification():
 
 if __name__ == "__main__":
     """ Main Function """
+    # app.run(ssl_context="adhoc")
     app.run()
